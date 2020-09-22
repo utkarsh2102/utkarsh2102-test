@@ -28,3 +28,16 @@
 </a>
 </p>
 
+---
+
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+1. 🗣 Commented on [#29](https://github.com//gautamkrishnar/blog-post-workflow/issues/29) in [gautamkrishnar/blog-post-workflow](https://github.com//gautamkrishnar/blog-post-workflow)
+2. ❗️ Opened issue [#29](https://github.com//gautamkrishnar/blog-post-workflow/issues/29) in [gautamkrishnar/blog-post-workflow](https://github.com//gautamkrishnar/blog-post-workflow)
+3. 🗣 Commented on [#26](https://github.com//jamesgeorge007/github-activity-readme/issues/26) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
+4. 🗣 Commented on [#2407](https://github.com//aws/aws-sdk-ruby/issues/2407) in [aws/aws-sdk-ruby](https://github.com//aws/aws-sdk-ruby)
+5. 🗣 Commented on [#142](https://github.com//rossjrw/rossjrw/issues/142) in [rossjrw/rossjrw](https://github.com//rossjrw/rossjrw)
+<!--END_SECTION:activity-->
+
+---
