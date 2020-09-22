@@ -37,9 +37,9 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#6](https://github.com//urschrei/convertbng/issues/6) in [urschrei/convertbng](https://github.com//urschrei/convertbng)
 2. 🗣 Commented on [#6](https://github.com//urschrei/convertbng/issues/6) in [urschrei/convertbng](https://github.com//urschrei/convertbng)
-3. 🗣 Commented on [#29](https://github.com//gautamkrishnar/blog-post-workflow/issues/29) in [gautamkrishnar/blog-post-workflow](https://github.com//gautamkrishnar/blog-post-workflow)
-4. ❗️ Opened issue [#29](https://github.com//gautamkrishnar/blog-post-workflow/issues/29) in [gautamkrishnar/blog-post-workflow](https://github.com//gautamkrishnar/blog-post-workflow)
-5. 🗣 Commented on [#26](https://github.com//jamesgeorge007/github-activity-readme/issues/26) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
+3. 🗣 Commented on [#6](https://github.com//urschrei/convertbng/issues/6) in [urschrei/convertbng](https://github.com//urschrei/convertbng)
+4. 🗣 Commented on [#29](https://github.com//gautamkrishnar/blog-post-workflow/issues/29) in [gautamkrishnar/blog-post-workflow](https://github.com//gautamkrishnar/blog-post-workflow)
+5. ❗️ Opened issue [#29](https://github.com//gautamkrishnar/blog-post-workflow/issues/29) in [gautamkrishnar/blog-post-workflow](https://github.com//gautamkrishnar/blog-post-workflow)
 <!--END_SECTION:activity-->
 
 ---
