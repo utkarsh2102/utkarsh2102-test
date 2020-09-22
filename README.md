@@ -35,11 +35,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com//urschrei/convertbng/issues/6) in [urschrei/convertbng](https://github.com//urschrei/convertbng)
+1. 🗣 Commented on [#8748](https://github.com//rubocop-hq/rubocop/issues/8748) in [rubocop-hq/rubocop](https://github.com//rubocop-hq/rubocop)
 2. 🗣 Commented on [#6](https://github.com//urschrei/convertbng/issues/6) in [urschrei/convertbng](https://github.com//urschrei/convertbng)
 3. 🗣 Commented on [#6](https://github.com//urschrei/convertbng/issues/6) in [urschrei/convertbng](https://github.com//urschrei/convertbng)
-4. 🗣 Commented on [#29](https://github.com//gautamkrishnar/blog-post-workflow/issues/29) in [gautamkrishnar/blog-post-workflow](https://github.com//gautamkrishnar/blog-post-workflow)
-5. ❗️ Opened issue [#29](https://github.com//gautamkrishnar/blog-post-workflow/issues/29) in [gautamkrishnar/blog-post-workflow](https://github.com//gautamkrishnar/blog-post-workflow)
+4. 🗣 Commented on [#6](https://github.com//urschrei/convertbng/issues/6) in [urschrei/convertbng](https://github.com//urschrei/convertbng)
+5. 🗣 Commented on [#29](https://github.com//gautamkrishnar/blog-post-workflow/issues/29) in [gautamkrishnar/blog-post-workflow](https://github.com//gautamkrishnar/blog-post-workflow)
 <!--END_SECTION:activity-->
 
 ---
