@@ -53,3 +53,5 @@
 <!-- BLOG-POST-LIST:END -->
 
 ---
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=wr6c7rh4fwc5fvibnwrwwzlrn&cover_image=true)](https://spotify-github-profile.vercel.app/api/view?uid=wr6c7rh4fwc5fvibnwrwwzlrn&redirect=true)
