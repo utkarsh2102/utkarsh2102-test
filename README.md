@@ -1,9 +1,11 @@
 <h2 align="center">
   <b>Hey there!</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 </h2>
-<br/>
 
 <p align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=utkarsh2102" alt="visitors">
+  <br/>
+  <br/>
   I am Utkarsh, a 20 y/o undergrad student!
 </p>
 
