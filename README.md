@@ -36,10 +36,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#27](https://github.com//lostisland/faraday-http/issues/27) in [lostisland/faraday-http](https://github.com//lostisland/faraday-http)
-2. 💪 Opened PR [#27](https://github.com//lostisland/faraday-http/pull/27) in [lostisland/faraday-http](https://github.com//lostisland/faraday-http)
-3. 🗣 Commented on [#6462](https://github.com//activeadmin/activeadmin/issues/6462) in [activeadmin/activeadmin](https://github.com//activeadmin/activeadmin)
-4. 🗣 Commented on [#1183](https://github.com//lostisland/faraday/issues/1183) in [lostisland/faraday](https://github.com//lostisland/faraday)
-5. 🗣 Commented on [#8748](https://github.com//rubocop-hq/rubocop/issues/8748) in [rubocop-hq/rubocop](https://github.com//rubocop-hq/rubocop)
+2. 🗣 Commented on [#27](https://github.com//lostisland/faraday-http/issues/27) in [lostisland/faraday-http](https://github.com//lostisland/faraday-http)
+3. 💪 Opened PR [#27](https://github.com//lostisland/faraday-http/pull/27) in [lostisland/faraday-http](https://github.com//lostisland/faraday-http)
+4. 🗣 Commented on [#6462](https://github.com//activeadmin/activeadmin/issues/6462) in [activeadmin/activeadmin](https://github.com//activeadmin/activeadmin)
+5. 🗣 Commented on [#1183](https://github.com//lostisland/faraday/issues/1183) in [lostisland/faraday](https://github.com//lostisland/faraday)
 <!--END_SECTION:activity-->
 
 ---
