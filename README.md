@@ -35,11 +35,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#95074](https://github.com//kubernetes/kubernetes/issues/95074) in [kubernetes/kubernetes](https://github.com//kubernetes/kubernetes)
-2. ❗️ Opened issue [#95074](https://github.com//kubernetes/kubernetes/issues/95074) in [kubernetes/kubernetes](https://github.com//kubernetes/kubernetes)
-3. 🗣 Commented on [#745](https://github.com//whitequark/parser/issues/745) in [whitequark/parser](https://github.com//whitequark/parser)
-4. 🗣 Commented on [#6462](https://github.com//activeadmin/activeadmin/issues/6462) in [activeadmin/activeadmin](https://github.com//activeadmin/activeadmin)
-5. 💪 Opened PR [#745](https://github.com//whitequark/parser/pull/745) in [whitequark/parser](https://github.com//whitequark/parser)
+1. 🗣 Commented on [#279](https://github.com//rails/jquery-rails/issues/279) in [rails/jquery-rails](https://github.com//rails/jquery-rails)
+2. 🗣 Commented on [#95074](https://github.com//kubernetes/kubernetes/issues/95074) in [kubernetes/kubernetes](https://github.com//kubernetes/kubernetes)
+3. ❗️ Opened issue [#95074](https://github.com//kubernetes/kubernetes/issues/95074) in [kubernetes/kubernetes](https://github.com//kubernetes/kubernetes)
+4. 🗣 Commented on [#745](https://github.com//whitequark/parser/issues/745) in [whitequark/parser](https://github.com//whitequark/parser)
+5. 🗣 Commented on [#6462](https://github.com//activeadmin/activeadmin/issues/6462) in [activeadmin/activeadmin](https://github.com//activeadmin/activeadmin)
 <!--END_SECTION:activity-->
 
 ---
