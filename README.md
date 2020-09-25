@@ -35,11 +35,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6462](https://github.com//activeadmin/activeadmin/issues/6462) in [activeadmin/activeadmin](https://github.com//activeadmin/activeadmin)
-2. 💪 Opened PR [#745](https://github.com//whitequark/parser/pull/745) in [whitequark/parser](https://github.com//whitequark/parser)
-3. 🗣 Commented on [#27](https://github.com//lostisland/faraday-http/issues/27) in [lostisland/faraday-http](https://github.com//lostisland/faraday-http)
+1. 🗣 Commented on [#745](https://github.com//whitequark/parser/issues/745) in [whitequark/parser](https://github.com//whitequark/parser)
+2. 🗣 Commented on [#6462](https://github.com//activeadmin/activeadmin/issues/6462) in [activeadmin/activeadmin](https://github.com//activeadmin/activeadmin)
+3. 💪 Opened PR [#745](https://github.com//whitequark/parser/pull/745) in [whitequark/parser](https://github.com//whitequark/parser)
 4. 🗣 Commented on [#27](https://github.com//lostisland/faraday-http/issues/27) in [lostisland/faraday-http](https://github.com//lostisland/faraday-http)
-5. 💪 Opened PR [#27](https://github.com//lostisland/faraday-http/pull/27) in [lostisland/faraday-http](https://github.com//lostisland/faraday-http)
+5. 🗣 Commented on [#27](https://github.com//lostisland/faraday-http/issues/27) in [lostisland/faraday-http](https://github.com//lostisland/faraday-http)
 <!--END_SECTION:activity-->
 
 ---
