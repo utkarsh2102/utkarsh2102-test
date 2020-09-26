@@ -35,11 +35,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1057](https://github.com/thoughtbot/suspenders/pull/1057) in [thoughtbot/suspenders](https://github.com/thoughtbot/suspenders)
-2. 🗣 Commented on [#279](https://github.com/rails/jquery-rails/issues/279) in [rails/jquery-rails](https://github.com/rails/jquery-rails)
-3. 🗣 Commented on [#95074](https://github.com/kubernetes/kubernetes/issues/95074) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
-4. ❗️ Opened issue [#95074](https://github.com/kubernetes/kubernetes/issues/95074) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
-5. 🗣 Commented on [#745](https://github.com/whitequark/parser/issues/745) in [whitequark/parser](https://github.com/whitequark/parser)
+1. 🗣 Commented on [#8748](https://github.com/rubocop-hq/rubocop/issues/8748) in [rubocop-hq/rubocop](https://github.com/rubocop-hq/rubocop)
+2. 💪 Opened PR [#1057](https://github.com/thoughtbot/suspenders/pull/1057) in [thoughtbot/suspenders](https://github.com/thoughtbot/suspenders)
+3. 🗣 Commented on [#279](https://github.com/rails/jquery-rails/issues/279) in [rails/jquery-rails](https://github.com/rails/jquery-rails)
+4. 🗣 Commented on [#95074](https://github.com/kubernetes/kubernetes/issues/95074) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
+5. ❗️ Opened issue [#95074](https://github.com/kubernetes/kubernetes/issues/95074) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
 <!--END_SECTION:activity-->
 
 ---
