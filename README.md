@@ -35,11 +35,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#111](https://github.com/pat/combustion/pull/111) in [pat/combustion](https://github.com/pat/combustion)
-2. 🗣 Commented on [#8748](https://github.com/rubocop-hq/rubocop/issues/8748) in [rubocop-hq/rubocop](https://github.com/rubocop-hq/rubocop)
+1. 💪 Opened PR [#843](https://github.com/rubocop-hq/ruby-style-guide/pull/843) in [rubocop-hq/ruby-style-guide](https://github.com/rubocop-hq/ruby-style-guide)
+2. 💪 Opened PR [#111](https://github.com/pat/combustion/pull/111) in [pat/combustion](https://github.com/pat/combustion)
 3. 🗣 Commented on [#8748](https://github.com/rubocop-hq/rubocop/issues/8748) in [rubocop-hq/rubocop](https://github.com/rubocop-hq/rubocop)
-4. 💪 Opened PR [#1057](https://github.com/thoughtbot/suspenders/pull/1057) in [thoughtbot/suspenders](https://github.com/thoughtbot/suspenders)
-5. 🗣 Commented on [#279](https://github.com/rails/jquery-rails/issues/279) in [rails/jquery-rails](https://github.com/rails/jquery-rails)
+4. 🗣 Commented on [#8748](https://github.com/rubocop-hq/rubocop/issues/8748) in [rubocop-hq/rubocop](https://github.com/rubocop-hq/rubocop)
+5. 💪 Opened PR [#1057](https://github.com/thoughtbot/suspenders/pull/1057) in [thoughtbot/suspenders](https://github.com/thoughtbot/suspenders)
 <!--END_SECTION:activity-->
 
 ---
