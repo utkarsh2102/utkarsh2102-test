@@ -35,10 +35,10 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1999](https://github.com/cli/cli/issues/1999) in [cli/cli](https://github.com/cli/cli)
-2. 💪 Opened PR [#843](https://github.com/rubocop-hq/ruby-style-guide/pull/843) in [rubocop-hq/ruby-style-guide](https://github.com/rubocop-hq/ruby-style-guide)
-3. 💪 Opened PR [#111](https://github.com/pat/combustion/pull/111) in [pat/combustion](https://github.com/pat/combustion)
-4. 🗣 Commented on [#8748](https://github.com/rubocop-hq/rubocop/issues/8748) in [rubocop-hq/rubocop](https://github.com/rubocop-hq/rubocop)
+1. 🗣 Commented on [#111](https://github.com/pat/combustion/issues/111) in [pat/combustion](https://github.com/pat/combustion)
+2. ❗️ Opened issue [#1999](https://github.com/cli/cli/issues/1999) in [cli/cli](https://github.com/cli/cli)
+3. 💪 Opened PR [#843](https://github.com/rubocop-hq/ruby-style-guide/pull/843) in [rubocop-hq/ruby-style-guide](https://github.com/rubocop-hq/ruby-style-guide)
+4. 💪 Opened PR [#111](https://github.com/pat/combustion/pull/111) in [pat/combustion](https://github.com/pat/combustion)
 5. 🗣 Commented on [#8748](https://github.com/rubocop-hq/rubocop/issues/8748) in [rubocop-hq/rubocop](https://github.com/rubocop-hq/rubocop)
 <!--END_SECTION:activity-->
 
