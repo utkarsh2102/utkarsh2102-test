@@ -35,11 +35,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#184](https://github.com/titusfortner/webdrivers/issues/184) in [titusfortner/webdrivers](https://github.com/titusfortner/webdrivers)
+1. ❗️ Opened issue [#1075](https://github.com/hanami/hanami/issues/1075) in [hanami/hanami](https://github.com/hanami/hanami)
 2. 🗣 Commented on [#184](https://github.com/titusfortner/webdrivers/issues/184) in [titusfortner/webdrivers](https://github.com/titusfortner/webdrivers)
-3. 🗣 Commented on [#843](https://github.com/rubocop-hq/ruby-style-guide/issues/843) in [rubocop-hq/ruby-style-guide](https://github.com/rubocop-hq/ruby-style-guide)
-4. 🗣 Commented on [#111](https://github.com/pat/combustion/issues/111) in [pat/combustion](https://github.com/pat/combustion)
-5. ❗️ Opened issue [#1999](https://github.com/cli/cli/issues/1999) in [cli/cli](https://github.com/cli/cli)
+3. 🗣 Commented on [#184](https://github.com/titusfortner/webdrivers/issues/184) in [titusfortner/webdrivers](https://github.com/titusfortner/webdrivers)
+4. 🗣 Commented on [#843](https://github.com/rubocop-hq/ruby-style-guide/issues/843) in [rubocop-hq/ruby-style-guide](https://github.com/rubocop-hq/ruby-style-guide)
+5. 🗣 Commented on [#111](https://github.com/pat/combustion/issues/111) in [pat/combustion](https://github.com/pat/combustion)
 <!--END_SECTION:activity-->
 
 ---
