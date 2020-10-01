@@ -35,10 +35,10 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#111](https://github.com/pat/combustion/issues/111) in [pat/combustion](https://github.com/pat/combustion)
-2. 💪 Opened PR [#1076](https://github.com/hanami/hanami/pull/1076) in [hanami/hanami](https://github.com/hanami/hanami)
-3. ❗️ Opened issue [#1075](https://github.com/hanami/hanami/issues/1075) in [hanami/hanami](https://github.com/hanami/hanami)
-4. 🗣 Commented on [#184](https://github.com/titusfortner/webdrivers/issues/184) in [titusfortner/webdrivers](https://github.com/titusfortner/webdrivers)
+1. ❗️ Opened issue [#1036](https://github.com/kaminari/kaminari/issues/1036) in [kaminari/kaminari](https://github.com/kaminari/kaminari)
+2. 🗣 Commented on [#111](https://github.com/pat/combustion/issues/111) in [pat/combustion](https://github.com/pat/combustion)
+3. 💪 Opened PR [#1076](https://github.com/hanami/hanami/pull/1076) in [hanami/hanami](https://github.com/hanami/hanami)
+4. ❗️ Opened issue [#1075](https://github.com/hanami/hanami/issues/1075) in [hanami/hanami](https://github.com/hanami/hanami)
 5. 🗣 Commented on [#184](https://github.com/titusfortner/webdrivers/issues/184) in [titusfortner/webdrivers](https://github.com/titusfortner/webdrivers)
 <!--END_SECTION:activity-->
 
