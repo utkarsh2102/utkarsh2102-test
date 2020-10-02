@@ -35,11 +35,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#184](https://github.com/titusfortner/webdrivers/issues/184) in [titusfortner/webdrivers](https://github.com/titusfortner/webdrivers)
-2. 💪 Opened PR [#185](https://github.com/titusfortner/webdrivers/pull/185) in [titusfortner/webdrivers](https://github.com/titusfortner/webdrivers)
-3. ❗️ Opened issue [#1036](https://github.com/kaminari/kaminari/issues/1036) in [kaminari/kaminari](https://github.com/kaminari/kaminari)
-4. 🗣 Commented on [#111](https://github.com/pat/combustion/issues/111) in [pat/combustion](https://github.com/pat/combustion)
-5. 💪 Opened PR [#1076](https://github.com/hanami/hanami/pull/1076) in [hanami/hanami](https://github.com/hanami/hanami)
+1. 🗣 Commented on [#95](https://github.com/axyjo/leaflet-rails/issues/95) in [axyjo/leaflet-rails](https://github.com/axyjo/leaflet-rails)
+2. 🗣 Commented on [#184](https://github.com/titusfortner/webdrivers/issues/184) in [titusfortner/webdrivers](https://github.com/titusfortner/webdrivers)
+3. 💪 Opened PR [#185](https://github.com/titusfortner/webdrivers/pull/185) in [titusfortner/webdrivers](https://github.com/titusfortner/webdrivers)
+4. ❗️ Opened issue [#1036](https://github.com/kaminari/kaminari/issues/1036) in [kaminari/kaminari](https://github.com/kaminari/kaminari)
+5. 🗣 Commented on [#111](https://github.com/pat/combustion/issues/111) in [pat/combustion](https://github.com/pat/combustion)
 <!--END_SECTION:activity-->
 
 ---
