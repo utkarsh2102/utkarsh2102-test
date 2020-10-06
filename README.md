@@ -38,8 +38,8 @@
 1. 🗣 Commented on [#4000](https://github.com/rubygems/rubygems/issues/4000) in [rubygems/rubygems](https://github.com/rubygems/rubygems)
 2. 🗣 Commented on [#4000](https://github.com/rubygems/rubygems/issues/4000) in [rubygems/rubygems](https://github.com/rubygems/rubygems)
 3. 🗣 Commented on [#4000](https://github.com/rubygems/rubygems/issues/4000) in [rubygems/rubygems](https://github.com/rubygems/rubygems)
-4. ❗️ Opened issue [#1884](https://github.com/zyedidia/micro/issues/1884) in [zyedidia/micro](https://github.com/zyedidia/micro)
-5. ❗️ Opened issue [#4000](https://github.com/rubygems/rubygems/issues/4000) in [rubygems/rubygems](https://github.com/rubygems/rubygems)
+4. 🗣 Commented on [#4000](https://github.com/rubygems/rubygems/issues/4000) in [rubygems/rubygems](https://github.com/rubygems/rubygems)
+5. ❗️ Opened issue [#1884](https://github.com/zyedidia/micro/issues/1884) in [zyedidia/micro](https://github.com/zyedidia/micro)
 <!--END_SECTION:activity-->
 
 ---
