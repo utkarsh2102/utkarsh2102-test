@@ -35,11 +35,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#4000](https://github.com/rubygems/rubygems/issues/4000) in [rubygems/rubygems](https://github.com/rubygems/rubygems)
-2. 🗣 Commented on [#1036](https://github.com/kaminari/kaminari/issues/1036) in [kaminari/kaminari](https://github.com/kaminari/kaminari)
-3. 🗣 Commented on [#3628](https://github.com/ruby/ruby/issues/3628) in [ruby/ruby](https://github.com/ruby/ruby)
-4. 🗣 Commented on [#745](https://github.com/whitequark/parser/issues/745) in [whitequark/parser](https://github.com/whitequark/parser)
-5. ❗️ Closed issue [#4](https://github.com/rubocop-hq/packaging-style-guide/issues/4) in [rubocop-hq/packaging-style-guide](https://github.com/rubocop-hq/packaging-style-guide)
+1. ❗️ Opened issue [#1884](https://github.com/zyedidia/micro/issues/1884) in [zyedidia/micro](https://github.com/zyedidia/micro)
+2. ❗️ Opened issue [#4000](https://github.com/rubygems/rubygems/issues/4000) in [rubygems/rubygems](https://github.com/rubygems/rubygems)
+3. 🗣 Commented on [#1036](https://github.com/kaminari/kaminari/issues/1036) in [kaminari/kaminari](https://github.com/kaminari/kaminari)
+4. 🗣 Commented on [#3628](https://github.com/ruby/ruby/issues/3628) in [ruby/ruby](https://github.com/ruby/ruby)
+5. 🗣 Commented on [#745](https://github.com/whitequark/parser/issues/745) in [whitequark/parser](https://github.com/whitequark/parser)
 <!--END_SECTION:activity-->
 
 ---
