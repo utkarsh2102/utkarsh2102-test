@@ -36,10 +36,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#4000](https://github.com/rubygems/rubygems/issues/4000) in [rubygems/rubygems](https://github.com/rubygems/rubygems)
-2. ❗️ Opened issue [#1884](https://github.com/zyedidia/micro/issues/1884) in [zyedidia/micro](https://github.com/zyedidia/micro)
-3. ❗️ Opened issue [#4000](https://github.com/rubygems/rubygems/issues/4000) in [rubygems/rubygems](https://github.com/rubygems/rubygems)
-4. 🗣 Commented on [#1036](https://github.com/kaminari/kaminari/issues/1036) in [kaminari/kaminari](https://github.com/kaminari/kaminari)
-5. 🗣 Commented on [#3628](https://github.com/ruby/ruby/issues/3628) in [ruby/ruby](https://github.com/ruby/ruby)
+2. 🗣 Commented on [#4000](https://github.com/rubygems/rubygems/issues/4000) in [rubygems/rubygems](https://github.com/rubygems/rubygems)
+3. 🗣 Commented on [#4000](https://github.com/rubygems/rubygems/issues/4000) in [rubygems/rubygems](https://github.com/rubygems/rubygems)
+4. ❗️ Opened issue [#1884](https://github.com/zyedidia/micro/issues/1884) in [zyedidia/micro](https://github.com/zyedidia/micro)
+5. ❗️ Opened issue [#4000](https://github.com/rubygems/rubygems/issues/4000) in [rubygems/rubygems](https://github.com/rubygems/rubygems)
 <!--END_SECTION:activity-->
 
 ---
