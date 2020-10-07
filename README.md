@@ -35,8 +35,8 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1884](https://github.com/zyedidia/micro/issues/1884) in [zyedidia/micro](https://github.com/zyedidia/micro)
-2. 🗣 Commented on [#4000](https://github.com/rubygems/rubygems/issues/4000) in [rubygems/rubygems](https://github.com/rubygems/rubygems)
+1. 🗣 Commented on [#4000](https://github.com/rubygems/rubygems/issues/4000) in [rubygems/rubygems](https://github.com/rubygems/rubygems)
+2. 🗣 Commented on [#1884](https://github.com/zyedidia/micro/issues/1884) in [zyedidia/micro](https://github.com/zyedidia/micro)
 3. 🗣 Commented on [#4000](https://github.com/rubygems/rubygems/issues/4000) in [rubygems/rubygems](https://github.com/rubygems/rubygems)
 4. 🗣 Commented on [#4000](https://github.com/rubygems/rubygems/issues/4000) in [rubygems/rubygems](https://github.com/rubygems/rubygems)
 5. 🗣 Commented on [#4000](https://github.com/rubygems/rubygems/issues/4000) in [rubygems/rubygems](https://github.com/rubygems/rubygems)
