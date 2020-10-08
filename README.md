@@ -35,11 +35,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#157](https://github.com/mbj/unparser/issues/157) in [mbj/unparser](https://github.com/mbj/unparser)
-2. 🗣 Commented on [#1076](https://github.com/hanami/hanami/issues/1076) in [hanami/hanami](https://github.com/hanami/hanami)
+1. ❗️ Closed issue [#4000](https://github.com/rubygems/rubygems/issues/4000) in [rubygems/rubygems](https://github.com/rubygems/rubygems)
+2. 🗣 Commented on [#4000](https://github.com/rubygems/rubygems/issues/4000) in [rubygems/rubygems](https://github.com/rubygems/rubygems)
 3. 🗣 Commented on [#157](https://github.com/mbj/unparser/issues/157) in [mbj/unparser](https://github.com/mbj/unparser)
-4. 🗣 Commented on [#4002](https://github.com/rubygems/rubygems/issues/4002) in [rubygems/rubygems](https://github.com/rubygems/rubygems)
-5. 🗣 Commented on [#4000](https://github.com/rubygems/rubygems/issues/4000) in [rubygems/rubygems](https://github.com/rubygems/rubygems)
+4. 🗣 Commented on [#1076](https://github.com/hanami/hanami/issues/1076) in [hanami/hanami](https://github.com/hanami/hanami)
+5. 🗣 Commented on [#157](https://github.com/mbj/unparser/issues/157) in [mbj/unparser](https://github.com/mbj/unparser)
 <!--END_SECTION:activity-->
 
 ---
