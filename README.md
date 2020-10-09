@@ -35,11 +35,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1884](https://github.com/zyedidia/micro/issues/1884) in [zyedidia/micro](https://github.com/zyedidia/micro)
-2. 🗣 Commented on [#1884](https://github.com/zyedidia/micro/issues/1884) in [zyedidia/micro](https://github.com/zyedidia/micro)
-3. 🗣 Commented on [#14646](https://github.com/ocaml/opam-repository/issues/14646) in [ocaml/opam-repository](https://github.com/ocaml/opam-repository)
-4. ❗️ Closed issue [#4000](https://github.com/rubygems/rubygems/issues/4000) in [rubygems/rubygems](https://github.com/rubygems/rubygems)
-5. 🗣 Commented on [#4000](https://github.com/rubygems/rubygems/issues/4000) in [rubygems/rubygems](https://github.com/rubygems/rubygems)
+1. 🗣 Commented on [#5521](https://github.com/libgit2/libgit2/issues/5521) in [libgit2/libgit2](https://github.com/libgit2/libgit2)
+2. ❗️ Closed issue [#1884](https://github.com/zyedidia/micro/issues/1884) in [zyedidia/micro](https://github.com/zyedidia/micro)
+3. 🗣 Commented on [#1884](https://github.com/zyedidia/micro/issues/1884) in [zyedidia/micro](https://github.com/zyedidia/micro)
+4. 🗣 Commented on [#14646](https://github.com/ocaml/opam-repository/issues/14646) in [ocaml/opam-repository](https://github.com/ocaml/opam-repository)
+5. ❗️ Closed issue [#4000](https://github.com/rubygems/rubygems/issues/4000) in [rubygems/rubygems](https://github.com/rubygems/rubygems)
 <!--END_SECTION:activity-->
 
 ---
