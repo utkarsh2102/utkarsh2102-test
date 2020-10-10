@@ -36,10 +36,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#5521](https://github.com/libgit2/libgit2/issues/5521) in [libgit2/libgit2](https://github.com/libgit2/libgit2)
-2. 🎉 Merged PR [#17](https://github.com/utkarsh2102/diaspora/pull/17) in [utkarsh2102/diaspora](https://github.com/utkarsh2102/diaspora)
-3. 🗣 Commented on [#157](https://github.com/mbj/unparser/issues/157) in [mbj/unparser](https://github.com/mbj/unparser)
-4. 🗣 Commented on [#5521](https://github.com/libgit2/libgit2/issues/5521) in [libgit2/libgit2](https://github.com/libgit2/libgit2)
-5. ❗️ Closed issue [#1884](https://github.com/zyedidia/micro/issues/1884) in [zyedidia/micro](https://github.com/zyedidia/micro)
+2. 🗣 Commented on [#5521](https://github.com/libgit2/libgit2/issues/5521) in [libgit2/libgit2](https://github.com/libgit2/libgit2)
+3. 🎉 Merged PR [#17](https://github.com/utkarsh2102/diaspora/pull/17) in [utkarsh2102/diaspora](https://github.com/utkarsh2102/diaspora)
+4. 🗣 Commented on [#157](https://github.com/mbj/unparser/issues/157) in [mbj/unparser](https://github.com/mbj/unparser)
+5. 🗣 Commented on [#5521](https://github.com/libgit2/libgit2/issues/5521) in [libgit2/libgit2](https://github.com/libgit2/libgit2)
 <!--END_SECTION:activity-->
 
 ---
