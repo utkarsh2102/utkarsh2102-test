@@ -35,11 +35,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5521](https://github.com/libgit2/libgit2/issues/5521) in [libgit2/libgit2](https://github.com/libgit2/libgit2)
+1. 🗣 Commented on [#1100](https://github.com/brianmario/mysql2/issues/1100) in [brianmario/mysql2](https://github.com/brianmario/mysql2)
 2. 🗣 Commented on [#5521](https://github.com/libgit2/libgit2/issues/5521) in [libgit2/libgit2](https://github.com/libgit2/libgit2)
-3. 🎉 Merged PR [#17](https://github.com/utkarsh2102/diaspora/pull/17) in [utkarsh2102/diaspora](https://github.com/utkarsh2102/diaspora)
-4. 🗣 Commented on [#157](https://github.com/mbj/unparser/issues/157) in [mbj/unparser](https://github.com/mbj/unparser)
-5. 🗣 Commented on [#5521](https://github.com/libgit2/libgit2/issues/5521) in [libgit2/libgit2](https://github.com/libgit2/libgit2)
+3. 🗣 Commented on [#5521](https://github.com/libgit2/libgit2/issues/5521) in [libgit2/libgit2](https://github.com/libgit2/libgit2)
+4. 🎉 Merged PR [#17](https://github.com/utkarsh2102/diaspora/pull/17) in [utkarsh2102/diaspora](https://github.com/utkarsh2102/diaspora)
+5. 🗣 Commented on [#157](https://github.com/mbj/unparser/issues/157) in [mbj/unparser](https://github.com/mbj/unparser)
 <!--END_SECTION:activity-->
 
 ---
