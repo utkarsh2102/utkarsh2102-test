@@ -47,11 +47,11 @@
 ### :books: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [FOSS Activites in October 2020](https://utkarsh2102.com/posts/foss-in-oct-20/)
 - [FOSS Activites in September 2020](https://utkarsh2102.com/posts/foss-in-sept-20/)
 - [FOSS Activites in August 2020](https://utkarsh2102.com/posts/foss-in-aug-20/)
 - [GSoC Phase 3](https://utkarsh2102.com/posts/gsoc-phase-3/)
 - [FOSS Activites in July 2020](https://utkarsh2102.com/posts/foss-in-july-20/)
-- [GSoC Phase 2](https://utkarsh2102.com/posts/gsoc-phase-2/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
