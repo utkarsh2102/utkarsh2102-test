@@ -35,11 +35,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#34](https://github.com/utkarsh2102/rubocop-packaging/pull/34) in [utkarsh2102/rubocop-packaging](https://github.com/utkarsh2102/rubocop-packaging)
-2. 🎉 Merged PR [#31](https://github.com/utkarsh2102/ruby-rails/pull/31) in [utkarsh2102/ruby-rails](https://github.com/utkarsh2102/ruby-rails)
-3. 🎉 Merged PR [#35](https://github.com/utkarsh2102/ruby-rails/pull/35) in [utkarsh2102/ruby-rails](https://github.com/utkarsh2102/ruby-rails)
-4. 🗣 Commented on [#95763](https://github.com/kubernetes/kubernetes/issues/95763) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
-5. 🗣 Commented on [#14646](https://github.com/ocaml/opam-repository/issues/14646) in [ocaml/opam-repository](https://github.com/ocaml/opam-repository)
+1. 🗣 Commented on [#4047](https://github.com/rubygems/rubygems/issues/4047) in [rubygems/rubygems](https://github.com/rubygems/rubygems)
+2. 🎉 Merged PR [#34](https://github.com/utkarsh2102/rubocop-packaging/pull/34) in [utkarsh2102/rubocop-packaging](https://github.com/utkarsh2102/rubocop-packaging)
+3. 🎉 Merged PR [#31](https://github.com/utkarsh2102/ruby-rails/pull/31) in [utkarsh2102/ruby-rails](https://github.com/utkarsh2102/ruby-rails)
+4. 🎉 Merged PR [#35](https://github.com/utkarsh2102/ruby-rails/pull/35) in [utkarsh2102/ruby-rails](https://github.com/utkarsh2102/ruby-rails)
+5. 🗣 Commented on [#95763](https://github.com/kubernetes/kubernetes/issues/95763) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
 <!--END_SECTION:activity-->
 
 ---
