@@ -35,11 +35,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#4081](https://github.com/zeromq/libzmq/issues/4081) in [zeromq/libzmq](https://github.com/zeromq/libzmq)
-2. 🗣 Commented on [#525](https://github.com/oauth-xx/oauth2/issues/525) in [oauth-xx/oauth2](https://github.com/oauth-xx/oauth2)
-3. ❗️ Opened issue [#890](https://github.com/the-tcpdump-group/tcpdump/issues/890) in [the-tcpdump-group/tcpdump](https://github.com/the-tcpdump-group/tcpdump)
-4. 🗣 Commented on [#4047](https://github.com/rubygems/rubygems/issues/4047) in [rubygems/rubygems](https://github.com/rubygems/rubygems)
-5. 🎉 Merged PR [#34](https://github.com/utkarsh2102/rubocop-packaging/pull/34) in [utkarsh2102/rubocop-packaging](https://github.com/utkarsh2102/rubocop-packaging)
+1. ❗️ Closed issue [#4081](https://github.com/zeromq/libzmq/issues/4081) in [zeromq/libzmq](https://github.com/zeromq/libzmq)
+2. 🗣 Commented on [#4081](https://github.com/zeromq/libzmq/issues/4081) in [zeromq/libzmq](https://github.com/zeromq/libzmq)
+3. ❗️ Opened issue [#4081](https://github.com/zeromq/libzmq/issues/4081) in [zeromq/libzmq](https://github.com/zeromq/libzmq)
+4. 🗣 Commented on [#525](https://github.com/oauth-xx/oauth2/issues/525) in [oauth-xx/oauth2](https://github.com/oauth-xx/oauth2)
+5. ❗️ Opened issue [#890](https://github.com/the-tcpdump-group/tcpdump/issues/890) in [the-tcpdump-group/tcpdump](https://github.com/the-tcpdump-group/tcpdump)
 <!--END_SECTION:activity-->
 
 ---
