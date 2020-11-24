@@ -35,11 +35,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2712](https://github.com/technomancy/leiningen/pull/2712) in [technomancy/leiningen](https://github.com/technomancy/leiningen)
-2. 🎉 Merged PR [#33](https://github.com/utkarsh2102/ruby-rails/pull/33) in [utkarsh2102/ruby-rails](https://github.com/utkarsh2102/ruby-rails)
-3. ❗️ Closed issue [#4081](https://github.com/zeromq/libzmq/issues/4081) in [zeromq/libzmq](https://github.com/zeromq/libzmq)
-4. 🗣 Commented on [#4081](https://github.com/zeromq/libzmq/issues/4081) in [zeromq/libzmq](https://github.com/zeromq/libzmq)
-5. ❗️ Opened issue [#4081](https://github.com/zeromq/libzmq/issues/4081) in [zeromq/libzmq](https://github.com/zeromq/libzmq)
+1. ❗️ Opened issue [#5711](https://github.com/libgit2/libgit2/issues/5711) in [libgit2/libgit2](https://github.com/libgit2/libgit2)
+2. 💪 Opened PR [#2712](https://github.com/technomancy/leiningen/pull/2712) in [technomancy/leiningen](https://github.com/technomancy/leiningen)
+3. 🎉 Merged PR [#33](https://github.com/utkarsh2102/ruby-rails/pull/33) in [utkarsh2102/ruby-rails](https://github.com/utkarsh2102/ruby-rails)
+4. ❗️ Closed issue [#4081](https://github.com/zeromq/libzmq/issues/4081) in [zeromq/libzmq](https://github.com/zeromq/libzmq)
+5. 🗣 Commented on [#4081](https://github.com/zeromq/libzmq/issues/4081) in [zeromq/libzmq](https://github.com/zeromq/libzmq)
 <!--END_SECTION:activity-->
 
 ---
