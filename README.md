@@ -35,11 +35,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/utkarsh2102/diaspora/pull/11) in [utkarsh2102/diaspora](https://github.com/utkarsh2102/diaspora)
-2. ❗️ Closed issue [#1921](https://github.com/zyedidia/micro/issues/1921) in [zyedidia/micro](https://github.com/zyedidia/micro)
-3. 🗣 Commented on [#1921](https://github.com/zyedidia/micro/issues/1921) in [zyedidia/micro](https://github.com/zyedidia/micro)
-4. ❗️ Opened issue [#1921](https://github.com/zyedidia/micro/issues/1921) in [zyedidia/micro](https://github.com/zyedidia/micro)
-5. ❗️ Opened issue [#5711](https://github.com/libgit2/libgit2/issues/5711) in [libgit2/libgit2](https://github.com/libgit2/libgit2)
+1. 🗣 Commented on [#2140](https://github.com/pry/pry/issues/2140) in [pry/pry](https://github.com/pry/pry)
+2. 🎉 Merged PR [#11](https://github.com/utkarsh2102/diaspora/pull/11) in [utkarsh2102/diaspora](https://github.com/utkarsh2102/diaspora)
+3. ❗️ Closed issue [#1921](https://github.com/zyedidia/micro/issues/1921) in [zyedidia/micro](https://github.com/zyedidia/micro)
+4. 🗣 Commented on [#1921](https://github.com/zyedidia/micro/issues/1921) in [zyedidia/micro](https://github.com/zyedidia/micro)
+5. ❗️ Opened issue [#1921](https://github.com/zyedidia/micro/issues/1921) in [zyedidia/micro](https://github.com/zyedidia/micro)
 <!--END_SECTION:activity-->
 
 ---
