@@ -35,11 +35,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#45](https://github.com/travis-ci/gh/issues/45) in [travis-ci/gh](https://github.com/travis-ci/gh)
-2. ❗️ Opened issue [#19](https://github.com/amedrz/behance/issues/19) in [amedrz/behance](https://github.com/amedrz/behance)
-3. 🗣 Commented on [#2140](https://github.com/pry/pry/issues/2140) in [pry/pry](https://github.com/pry/pry)
-4. 🎉 Merged PR [#11](https://github.com/utkarsh2102/diaspora/pull/11) in [utkarsh2102/diaspora](https://github.com/utkarsh2102/diaspora)
-5. ❗️ Closed issue [#1921](https://github.com/zyedidia/micro/issues/1921) in [zyedidia/micro](https://github.com/zyedidia/micro)
+1. ❗️ Closed issue [#45](https://github.com/travis-ci/gh/issues/45) in [travis-ci/gh](https://github.com/travis-ci/gh)
+2. 🗣 Commented on [#45](https://github.com/travis-ci/gh/issues/45) in [travis-ci/gh](https://github.com/travis-ci/gh)
+3. ❗️ Opened issue [#45](https://github.com/travis-ci/gh/issues/45) in [travis-ci/gh](https://github.com/travis-ci/gh)
+4. ❗️ Opened issue [#19](https://github.com/amedrz/behance/issues/19) in [amedrz/behance](https://github.com/amedrz/behance)
+5. 🗣 Commented on [#2140](https://github.com/pry/pry/issues/2140) in [pry/pry](https://github.com/pry/pry)
 <!--END_SECTION:activity-->
 
 ---
