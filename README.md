@@ -36,10 +36,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#35](https://github.com/utkarsh2102/rubocop-packaging/issues/35) in [utkarsh2102/rubocop-packaging](https://github.com/utkarsh2102/rubocop-packaging)
-2. 🗣 Commented on [#1279](https://github.com/paper-trail-gem/paper_trail/issues/1279) in [paper-trail-gem/paper_trail](https://github.com/paper-trail-gem/paper_trail)
-3. 🗣 Commented on [#711](https://github.com/libgit2/git2go/issues/711) in [libgit2/git2go](https://github.com/libgit2/git2go)
-4. ❗️ Opened issue [#711](https://github.com/libgit2/git2go/issues/711) in [libgit2/git2go](https://github.com/libgit2/git2go)
-5. ❗️ Closed issue [#45](https://github.com/travis-ci/gh/issues/45) in [travis-ci/gh](https://github.com/travis-ci/gh)
+2. 🗣 Commented on [#35](https://github.com/utkarsh2102/rubocop-packaging/issues/35) in [utkarsh2102/rubocop-packaging](https://github.com/utkarsh2102/rubocop-packaging)
+3. 🗣 Commented on [#1279](https://github.com/paper-trail-gem/paper_trail/issues/1279) in [paper-trail-gem/paper_trail](https://github.com/paper-trail-gem/paper_trail)
+4. 🗣 Commented on [#711](https://github.com/libgit2/git2go/issues/711) in [libgit2/git2go](https://github.com/libgit2/git2go)
+5. ❗️ Opened issue [#711](https://github.com/libgit2/git2go/issues/711) in [libgit2/git2go](https://github.com/libgit2/git2go)
 <!--END_SECTION:activity-->
 
 ---
