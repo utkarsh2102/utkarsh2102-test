@@ -35,11 +35,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#711](https://github.com/libgit2/git2go/issues/711) in [libgit2/git2go](https://github.com/libgit2/git2go)
-2. ❗️ Opened issue [#711](https://github.com/libgit2/git2go/issues/711) in [libgit2/git2go](https://github.com/libgit2/git2go)
-3. ❗️ Closed issue [#45](https://github.com/travis-ci/gh/issues/45) in [travis-ci/gh](https://github.com/travis-ci/gh)
-4. 🗣 Commented on [#45](https://github.com/travis-ci/gh/issues/45) in [travis-ci/gh](https://github.com/travis-ci/gh)
-5. ❗️ Opened issue [#45](https://github.com/travis-ci/gh/issues/45) in [travis-ci/gh](https://github.com/travis-ci/gh)
+1. 🗣 Commented on [#1279](https://github.com/paper-trail-gem/paper_trail/issues/1279) in [paper-trail-gem/paper_trail](https://github.com/paper-trail-gem/paper_trail)
+2. 🗣 Commented on [#711](https://github.com/libgit2/git2go/issues/711) in [libgit2/git2go](https://github.com/libgit2/git2go)
+3. ❗️ Opened issue [#711](https://github.com/libgit2/git2go/issues/711) in [libgit2/git2go](https://github.com/libgit2/git2go)
+4. ❗️ Closed issue [#45](https://github.com/travis-ci/gh/issues/45) in [travis-ci/gh](https://github.com/travis-ci/gh)
+5. 🗣 Commented on [#45](https://github.com/travis-ci/gh/issues/45) in [travis-ci/gh](https://github.com/travis-ci/gh)
 <!--END_SECTION:activity-->
 
 ---
