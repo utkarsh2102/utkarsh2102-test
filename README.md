@@ -38,8 +38,8 @@
 1. 🗣 Commented on [#35](https://github.com/utkarsh2102/rubocop-packaging/issues/35) in [utkarsh2102/rubocop-packaging](https://github.com/utkarsh2102/rubocop-packaging)
 2. 🗣 Commented on [#35](https://github.com/utkarsh2102/rubocop-packaging/issues/35) in [utkarsh2102/rubocop-packaging](https://github.com/utkarsh2102/rubocop-packaging)
 3. 🗣 Commented on [#35](https://github.com/utkarsh2102/rubocop-packaging/issues/35) in [utkarsh2102/rubocop-packaging](https://github.com/utkarsh2102/rubocop-packaging)
-4. 🗣 Commented on [#1279](https://github.com/paper-trail-gem/paper_trail/issues/1279) in [paper-trail-gem/paper_trail](https://github.com/paper-trail-gem/paper_trail)
-5. 🗣 Commented on [#711](https://github.com/libgit2/git2go/issues/711) in [libgit2/git2go](https://github.com/libgit2/git2go)
+4. 🗣 Commented on [#35](https://github.com/utkarsh2102/rubocop-packaging/issues/35) in [utkarsh2102/rubocop-packaging](https://github.com/utkarsh2102/rubocop-packaging)
+5. 🗣 Commented on [#1279](https://github.com/paper-trail-gem/paper_trail/issues/1279) in [paper-trail-gem/paper_trail](https://github.com/paper-trail-gem/paper_trail)
 <!--END_SECTION:activity-->
 
 ---
