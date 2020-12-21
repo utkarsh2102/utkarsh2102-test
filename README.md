@@ -35,11 +35,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#35](https://github.com/utkarsh2102/rubocop-packaging/issues/35) in [utkarsh2102/rubocop-packaging](https://github.com/utkarsh2102/rubocop-packaging)
+1. 🗣 Commented on [#5](https://github.com/josephruscio/aggregate/issues/5) in [josephruscio/aggregate](https://github.com/josephruscio/aggregate)
 2. 🗣 Commented on [#35](https://github.com/utkarsh2102/rubocop-packaging/issues/35) in [utkarsh2102/rubocop-packaging](https://github.com/utkarsh2102/rubocop-packaging)
 3. 🗣 Commented on [#35](https://github.com/utkarsh2102/rubocop-packaging/issues/35) in [utkarsh2102/rubocop-packaging](https://github.com/utkarsh2102/rubocop-packaging)
 4. 🗣 Commented on [#35](https://github.com/utkarsh2102/rubocop-packaging/issues/35) in [utkarsh2102/rubocop-packaging](https://github.com/utkarsh2102/rubocop-packaging)
-5. 🗣 Commented on [#1279](https://github.com/paper-trail-gem/paper_trail/issues/1279) in [paper-trail-gem/paper_trail](https://github.com/paper-trail-gem/paper_trail)
+5. 🗣 Commented on [#35](https://github.com/utkarsh2102/rubocop-packaging/issues/35) in [utkarsh2102/rubocop-packaging](https://github.com/utkarsh2102/rubocop-packaging)
 <!--END_SECTION:activity-->
 
 ---
