@@ -35,10 +35,10 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#36](https://github.com/utkarsh2102/rubocop-packaging/issues/36) in [utkarsh2102/rubocop-packaging](https://github.com/utkarsh2102/rubocop-packaging)
-2. 💪 Opened PR [#89](https://github.com/toshimaru/rubocop-rails_config/pull/89) in [toshimaru/rubocop-rails_config](https://github.com/toshimaru/rubocop-rails_config)
-3. 🗣 Commented on [#5](https://github.com/josephruscio/aggregate/issues/5) in [josephruscio/aggregate](https://github.com/josephruscio/aggregate)
-4. 🗣 Commented on [#35](https://github.com/utkarsh2102/rubocop-packaging/issues/35) in [utkarsh2102/rubocop-packaging](https://github.com/utkarsh2102/rubocop-packaging)
+1. 💪 Opened PR [#212](https://github.com/cucumber/cucumber-ruby-core/pull/212) in [cucumber/cucumber-ruby-core](https://github.com/cucumber/cucumber-ruby-core)
+2. ❗️ Opened issue [#36](https://github.com/utkarsh2102/rubocop-packaging/issues/36) in [utkarsh2102/rubocop-packaging](https://github.com/utkarsh2102/rubocop-packaging)
+3. 💪 Opened PR [#89](https://github.com/toshimaru/rubocop-rails_config/pull/89) in [toshimaru/rubocop-rails_config](https://github.com/toshimaru/rubocop-rails_config)
+4. 🗣 Commented on [#5](https://github.com/josephruscio/aggregate/issues/5) in [josephruscio/aggregate](https://github.com/josephruscio/aggregate)
 5. 🗣 Commented on [#35](https://github.com/utkarsh2102/rubocop-packaging/issues/35) in [utkarsh2102/rubocop-packaging](https://github.com/utkarsh2102/rubocop-packaging)
 <!--END_SECTION:activity-->
 
