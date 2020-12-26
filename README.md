@@ -35,11 +35,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#213](https://github.com/cucumber/cucumber-ruby-core/pull/213) in [cucumber/cucumber-ruby-core](https://github.com/cucumber/cucumber-ruby-core)
-2. 💪 Opened PR [#213](https://github.com/cucumber/cucumber-ruby-core/pull/213) in [cucumber/cucumber-ruby-core](https://github.com/cucumber/cucumber-ruby-core)
-3. 💪 Opened PR [#212](https://github.com/cucumber/cucumber-ruby-core/pull/212) in [cucumber/cucumber-ruby-core](https://github.com/cucumber/cucumber-ruby-core)
-4. ❗️ Opened issue [#36](https://github.com/utkarsh2102/rubocop-packaging/issues/36) in [utkarsh2102/rubocop-packaging](https://github.com/utkarsh2102/rubocop-packaging)
-5. 💪 Opened PR [#89](https://github.com/toshimaru/rubocop-rails_config/pull/89) in [toshimaru/rubocop-rails_config](https://github.com/toshimaru/rubocop-rails_config)
+1. 💪 Opened PR [#489](https://github.com/cucumber/cucumber-rails/pull/489) in [cucumber/cucumber-rails](https://github.com/cucumber/cucumber-rails)
+2. 🎉 Merged PR [#213](https://github.com/cucumber/cucumber-ruby-core/pull/213) in [cucumber/cucumber-ruby-core](https://github.com/cucumber/cucumber-ruby-core)
+3. 💪 Opened PR [#213](https://github.com/cucumber/cucumber-ruby-core/pull/213) in [cucumber/cucumber-ruby-core](https://github.com/cucumber/cucumber-ruby-core)
+4. 💪 Opened PR [#212](https://github.com/cucumber/cucumber-ruby-core/pull/212) in [cucumber/cucumber-ruby-core](https://github.com/cucumber/cucumber-ruby-core)
+5. ❗️ Opened issue [#36](https://github.com/utkarsh2102/rubocop-packaging/issues/36) in [utkarsh2102/rubocop-packaging](https://github.com/utkarsh2102/rubocop-packaging)
 <!--END_SECTION:activity-->
 
 ---
