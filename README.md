@@ -35,10 +35,10 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5711](https://github.com/libgit2/libgit2/issues/5711) in [libgit2/libgit2](https://github.com/libgit2/libgit2)
-2. 🗣 Commented on [#91](https://github.com/dbry/WavPack/issues/91) in [dbry/WavPack](https://github.com/dbry/WavPack)
-3. ❗️ Closed issue [#362](https://github.com/Nheko-Reborn/nheko/issues/362) in [Nheko-Reborn/nheko](https://github.com/Nheko-Reborn/nheko)
-4. 🗣 Commented on [#362](https://github.com/Nheko-Reborn/nheko/issues/362) in [Nheko-Reborn/nheko](https://github.com/Nheko-Reborn/nheko)
+1. 🎉 Merged PR [#37](https://github.com/utkarsh2102/rubocop-packaging/pull/37) in [utkarsh2102/rubocop-packaging](https://github.com/utkarsh2102/rubocop-packaging)
+2. 🗣 Commented on [#5711](https://github.com/libgit2/libgit2/issues/5711) in [libgit2/libgit2](https://github.com/libgit2/libgit2)
+3. 🗣 Commented on [#91](https://github.com/dbry/WavPack/issues/91) in [dbry/WavPack](https://github.com/dbry/WavPack)
+4. ❗️ Closed issue [#362](https://github.com/Nheko-Reborn/nheko/issues/362) in [Nheko-Reborn/nheko](https://github.com/Nheko-Reborn/nheko)
 5. 🗣 Commented on [#362](https://github.com/Nheko-Reborn/nheko/issues/362) in [Nheko-Reborn/nheko](https://github.com/Nheko-Reborn/nheko)
 <!--END_SECTION:activity-->
 
