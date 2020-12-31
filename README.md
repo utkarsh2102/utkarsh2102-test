@@ -35,11 +35,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#44](https://github.com/jamesgeorge007/github-activity-readme/issues/44) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-2. 🎉 Merged PR [#37](https://github.com/utkarsh2102/rubocop-packaging/pull/37) in [utkarsh2102/rubocop-packaging](https://github.com/utkarsh2102/rubocop-packaging)
-3. 🗣 Commented on [#5711](https://github.com/libgit2/libgit2/issues/5711) in [libgit2/libgit2](https://github.com/libgit2/libgit2)
-4. 🗣 Commented on [#91](https://github.com/dbry/WavPack/issues/91) in [dbry/WavPack](https://github.com/dbry/WavPack)
-5. ❗️ Closed issue [#362](https://github.com/Nheko-Reborn/nheko/issues/362) in [Nheko-Reborn/nheko](https://github.com/Nheko-Reborn/nheko)
+1. 🗣 Commented on [#1279](https://github.com/paper-trail-gem/paper_trail/issues/1279) in [paper-trail-gem/paper_trail](https://github.com/paper-trail-gem/paper_trail)
+2. 🗣 Commented on [#1279](https://github.com/paper-trail-gem/paper_trail/issues/1279) in [paper-trail-gem/paper_trail](https://github.com/paper-trail-gem/paper_trail)
+3. 💪 Opened PR [#1282](https://github.com/paper-trail-gem/paper_trail/pull/1282) in [paper-trail-gem/paper_trail](https://github.com/paper-trail-gem/paper_trail)
+4. ❗️ Opened issue [#44](https://github.com/jamesgeorge007/github-activity-readme/issues/44) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+5. 🎉 Merged PR [#37](https://github.com/utkarsh2102/rubocop-packaging/pull/37) in [utkarsh2102/rubocop-packaging](https://github.com/utkarsh2102/rubocop-packaging)
 <!--END_SECTION:activity-->
 
 ---
