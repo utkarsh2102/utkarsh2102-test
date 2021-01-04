@@ -37,9 +37,9 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1279](https://github.com/paper-trail-gem/paper_trail/issues/1279) in [paper-trail-gem/paper_trail](https://github.com/paper-trail-gem/paper_trail)
 2. 🗣 Commented on [#1279](https://github.com/paper-trail-gem/paper_trail/issues/1279) in [paper-trail-gem/paper_trail](https://github.com/paper-trail-gem/paper_trail)
-3. 💪 Opened PR [#1282](https://github.com/paper-trail-gem/paper_trail/pull/1282) in [paper-trail-gem/paper_trail](https://github.com/paper-trail-gem/paper_trail)
-4. ❗️ Opened issue [#44](https://github.com/jamesgeorge007/github-activity-readme/issues/44) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-5. 🎉 Merged PR [#37](https://github.com/utkarsh2102/rubocop-packaging/pull/37) in [utkarsh2102/rubocop-packaging](https://github.com/utkarsh2102/rubocop-packaging)
+3. 🗣 Commented on [#1279](https://github.com/paper-trail-gem/paper_trail/issues/1279) in [paper-trail-gem/paper_trail](https://github.com/paper-trail-gem/paper_trail)
+4. 💪 Opened PR [#1282](https://github.com/paper-trail-gem/paper_trail/pull/1282) in [paper-trail-gem/paper_trail](https://github.com/paper-trail-gem/paper_trail)
+5. ❗️ Opened issue [#44](https://github.com/jamesgeorge007/github-activity-readme/issues/44) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
 <!--END_SECTION:activity-->
 
 ---
