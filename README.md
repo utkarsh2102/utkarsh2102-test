@@ -38,8 +38,8 @@
 1. 🗣 Commented on [#1279](https://github.com/paper-trail-gem/paper_trail/issues/1279) in [paper-trail-gem/paper_trail](https://github.com/paper-trail-gem/paper_trail)
 2. 🗣 Commented on [#1279](https://github.com/paper-trail-gem/paper_trail/issues/1279) in [paper-trail-gem/paper_trail](https://github.com/paper-trail-gem/paper_trail)
 3. 🗣 Commented on [#1279](https://github.com/paper-trail-gem/paper_trail/issues/1279) in [paper-trail-gem/paper_trail](https://github.com/paper-trail-gem/paper_trail)
-4. 💪 Opened PR [#1282](https://github.com/paper-trail-gem/paper_trail/pull/1282) in [paper-trail-gem/paper_trail](https://github.com/paper-trail-gem/paper_trail)
-5. ❗️ Opened issue [#44](https://github.com/jamesgeorge007/github-activity-readme/issues/44) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+4. 🗣 Commented on [#1279](https://github.com/paper-trail-gem/paper_trail/issues/1279) in [paper-trail-gem/paper_trail](https://github.com/paper-trail-gem/paper_trail)
+5. 💪 Opened PR [#1282](https://github.com/paper-trail-gem/paper_trail/pull/1282) in [paper-trail-gem/paper_trail](https://github.com/paper-trail-gem/paper_trail)
 <!--END_SECTION:activity-->
 
 ---
