@@ -35,11 +35,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1279](https://github.com/paper-trail-gem/paper_trail/issues/1279) in [paper-trail-gem/paper_trail](https://github.com/paper-trail-gem/paper_trail)
+1. ❗️ Opened issue [#2](https://github.com/jruby/rake-ant/issues/2) in [jruby/rake-ant](https://github.com/jruby/rake-ant)
 2. 🗣 Commented on [#1279](https://github.com/paper-trail-gem/paper_trail/issues/1279) in [paper-trail-gem/paper_trail](https://github.com/paper-trail-gem/paper_trail)
 3. 🗣 Commented on [#1279](https://github.com/paper-trail-gem/paper_trail/issues/1279) in [paper-trail-gem/paper_trail](https://github.com/paper-trail-gem/paper_trail)
 4. 🗣 Commented on [#1279](https://github.com/paper-trail-gem/paper_trail/issues/1279) in [paper-trail-gem/paper_trail](https://github.com/paper-trail-gem/paper_trail)
-5. 💪 Opened PR [#1282](https://github.com/paper-trail-gem/paper_trail/pull/1282) in [paper-trail-gem/paper_trail](https://github.com/paper-trail-gem/paper_trail)
+5. 🗣 Commented on [#1279](https://github.com/paper-trail-gem/paper_trail/issues/1279) in [paper-trail-gem/paper_trail](https://github.com/paper-trail-gem/paper_trail)
 <!--END_SECTION:activity-->
 
 ---
