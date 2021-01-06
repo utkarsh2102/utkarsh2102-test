@@ -36,8 +36,8 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#2](https://github.com/jruby/rake-ant/issues/2) in [jruby/rake-ant](https://github.com/jruby/rake-ant)
-2. ❗️ Opened issue [#2](https://github.com/jruby/rake-ant/issues/2) in [jruby/rake-ant](https://github.com/jruby/rake-ant)
-3. 🗣 Commented on [#1279](https://github.com/paper-trail-gem/paper_trail/issues/1279) in [paper-trail-gem/paper_trail](https://github.com/paper-trail-gem/paper_trail)
+2. 🗣 Commented on [#2](https://github.com/jruby/rake-ant/issues/2) in [jruby/rake-ant](https://github.com/jruby/rake-ant)
+3. ❗️ Opened issue [#2](https://github.com/jruby/rake-ant/issues/2) in [jruby/rake-ant](https://github.com/jruby/rake-ant)
 4. 🗣 Commented on [#1279](https://github.com/paper-trail-gem/paper_trail/issues/1279) in [paper-trail-gem/paper_trail](https://github.com/paper-trail-gem/paper_trail)
 5. 🗣 Commented on [#1279](https://github.com/paper-trail-gem/paper_trail/issues/1279) in [paper-trail-gem/paper_trail](https://github.com/paper-trail-gem/paper_trail)
 <!--END_SECTION:activity-->
