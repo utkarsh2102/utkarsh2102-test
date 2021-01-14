@@ -35,11 +35,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#91](https://github.com/dbry/WavPack/issues/91) in [dbry/WavPack](https://github.com/dbry/WavPack)
-2. ❗️ Closed issue [#700](https://github.com/vmg/redcarpet/issues/700) in [vmg/redcarpet](https://github.com/vmg/redcarpet)
-3. 🗣 Commented on [#700](https://github.com/vmg/redcarpet/issues/700) in [vmg/redcarpet](https://github.com/vmg/redcarpet)
-4. ❗️ Opened issue [#700](https://github.com/vmg/redcarpet/issues/700) in [vmg/redcarpet](https://github.com/vmg/redcarpet)
-5. 🗣 Commented on [#68](https://github.com/dbry/WavPack/issues/68) in [dbry/WavPack](https://github.com/dbry/WavPack)
+1. 🗣 Commented on [#95](https://github.com/dbry/WavPack/issues/95) in [dbry/WavPack](https://github.com/dbry/WavPack)
+2. ❗️ Opened issue [#95](https://github.com/dbry/WavPack/issues/95) in [dbry/WavPack](https://github.com/dbry/WavPack)
+3. ❗️ Opened issue [#94](https://github.com/dbry/WavPack/issues/94) in [dbry/WavPack](https://github.com/dbry/WavPack)
+4. 🗣 Commented on [#91](https://github.com/dbry/WavPack/issues/91) in [dbry/WavPack](https://github.com/dbry/WavPack)
+5. ❗️ Closed issue [#700](https://github.com/vmg/redcarpet/issues/700) in [vmg/redcarpet](https://github.com/vmg/redcarpet)
 <!--END_SECTION:activity-->
 
 ---
