@@ -39,7 +39,7 @@
 2. 🗣 Commented on [#700](https://github.com/vmg/redcarpet/issues/700) in [vmg/redcarpet](https://github.com/vmg/redcarpet)
 3. 🗣 Commented on [#700](https://github.com/vmg/redcarpet/issues/700) in [vmg/redcarpet](https://github.com/vmg/redcarpet)
 4. 🗣 Commented on [#700](https://github.com/vmg/redcarpet/issues/700) in [vmg/redcarpet](https://github.com/vmg/redcarpet)
-5. 💪 Opened PR [#5](https://github.com/jruby/rake-ant/pull/5) in [jruby/rake-ant](https://github.com/jruby/rake-ant)
+5. 🗣 Commented on [#700](https://github.com/vmg/redcarpet/issues/700) in [vmg/redcarpet](https://github.com/vmg/redcarpet)
 <!--END_SECTION:activity-->
 
 ---
