@@ -37,9 +37,9 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#700](https://github.com/vmg/redcarpet/issues/700) in [vmg/redcarpet](https://github.com/vmg/redcarpet)
 2. 🗣 Commented on [#700](https://github.com/vmg/redcarpet/issues/700) in [vmg/redcarpet](https://github.com/vmg/redcarpet)
-3. 💪 Opened PR [#5](https://github.com/jruby/rake-ant/pull/5) in [jruby/rake-ant](https://github.com/jruby/rake-ant)
+3. 🗣 Commented on [#700](https://github.com/vmg/redcarpet/issues/700) in [vmg/redcarpet](https://github.com/vmg/redcarpet)
 4. 🗣 Commented on [#700](https://github.com/vmg/redcarpet/issues/700) in [vmg/redcarpet](https://github.com/vmg/redcarpet)
-5. 🗣 Commented on [#700](https://github.com/vmg/redcarpet/issues/700) in [vmg/redcarpet](https://github.com/vmg/redcarpet)
+5. 💪 Opened PR [#5](https://github.com/jruby/rake-ant/pull/5) in [jruby/rake-ant](https://github.com/jruby/rake-ant)
 <!--END_SECTION:activity-->
 
 ---
