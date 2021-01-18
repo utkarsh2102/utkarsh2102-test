@@ -35,7 +35,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#700](https://github.com/vmg/redcarpet/issues/700) in [vmg/redcarpet](https://github.com/vmg/redcarpet)
+1. ❗️ Opened issue [#7](https://github.com/samwoods1/in-parallel/issues/7) in [samwoods1/in-parallel](https://github.com/samwoods1/in-parallel)
 2. 🗣 Commented on [#700](https://github.com/vmg/redcarpet/issues/700) in [vmg/redcarpet](https://github.com/vmg/redcarpet)
 3. 🗣 Commented on [#700](https://github.com/vmg/redcarpet/issues/700) in [vmg/redcarpet](https://github.com/vmg/redcarpet)
 4. 🗣 Commented on [#700](https://github.com/vmg/redcarpet/issues/700) in [vmg/redcarpet](https://github.com/vmg/redcarpet)
