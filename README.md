@@ -35,11 +35,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1331](https://github.com/bottlepy/bottle/issues/1331) in [bottlepy/bottle](https://github.com/bottlepy/bottle)
-2. 🗣 Commented on [#568](https://github.com/sparklemotion/mechanize/issues/568) in [sparklemotion/mechanize](https://github.com/sparklemotion/mechanize)
-3. ❗️ Opened issue [#568](https://github.com/sparklemotion/mechanize/issues/568) in [sparklemotion/mechanize](https://github.com/sparklemotion/mechanize)
-4. 🗣 Commented on [#1331](https://github.com/bottlepy/bottle/issues/1331) in [bottlepy/bottle](https://github.com/bottlepy/bottle)
-5. ❗️ Closed issue [#1331](https://github.com/bottlepy/bottle/issues/1331) in [bottlepy/bottle](https://github.com/bottlepy/bottle)
+1. 🗣 Commented on [#568](https://github.com/sparklemotion/mechanize/issues/568) in [sparklemotion/mechanize](https://github.com/sparklemotion/mechanize)
+2. 🗣 Commented on [#1331](https://github.com/bottlepy/bottle/issues/1331) in [bottlepy/bottle](https://github.com/bottlepy/bottle)
+3. 🗣 Commented on [#568](https://github.com/sparklemotion/mechanize/issues/568) in [sparklemotion/mechanize](https://github.com/sparklemotion/mechanize)
+4. ❗️ Opened issue [#568](https://github.com/sparklemotion/mechanize/issues/568) in [sparklemotion/mechanize](https://github.com/sparklemotion/mechanize)
+5. 🗣 Commented on [#1331](https://github.com/bottlepy/bottle/issues/1331) in [bottlepy/bottle](https://github.com/bottlepy/bottle)
 <!--END_SECTION:activity-->
 
 ---
