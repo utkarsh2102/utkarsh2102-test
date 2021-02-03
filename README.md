@@ -35,11 +35,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1331](https://github.com/bottlepy/bottle/issues/1331) in [bottlepy/bottle](https://github.com/bottlepy/bottle)
-2. 🗣 Commented on [#1331](https://github.com/bottlepy/bottle/issues/1331) in [bottlepy/bottle](https://github.com/bottlepy/bottle)
-3. 🗣 Commented on [#700](https://github.com/vmg/redcarpet/issues/700) in [vmg/redcarpet](https://github.com/vmg/redcarpet)
-4. ❗️ Opened issue [#1331](https://github.com/bottlepy/bottle/issues/1331) in [bottlepy/bottle](https://github.com/bottlepy/bottle)
-5. ❗️ Opened issue [#8](https://github.com/samwoods1/in-parallel/issues/8) in [samwoods1/in-parallel](https://github.com/samwoods1/in-parallel)
+1. 🗣 Commented on [#1331](https://github.com/bottlepy/bottle/issues/1331) in [bottlepy/bottle](https://github.com/bottlepy/bottle)
+2. ❗️ Closed issue [#1331](https://github.com/bottlepy/bottle/issues/1331) in [bottlepy/bottle](https://github.com/bottlepy/bottle)
+3. 🗣 Commented on [#1331](https://github.com/bottlepy/bottle/issues/1331) in [bottlepy/bottle](https://github.com/bottlepy/bottle)
+4. 🗣 Commented on [#700](https://github.com/vmg/redcarpet/issues/700) in [vmg/redcarpet](https://github.com/vmg/redcarpet)
+5. ❗️ Opened issue [#1331](https://github.com/bottlepy/bottle/issues/1331) in [bottlepy/bottle](https://github.com/bottlepy/bottle)
 <!--END_SECTION:activity-->
 
 ---
