@@ -36,9 +36,9 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#15](https://github.com/cotag/http-parser/issues/15) in [cotag/http-parser](https://github.com/cotag/http-parser)
-2. 🗣 Commented on [#63](https://github.com/CocoaPods/cocoapods-acknowledgements/issues/63) in [CocoaPods/cocoapods-acknowledgements](https://github.com/CocoaPods/cocoapods-acknowledgements)
-3. 🗣 Commented on [#265](https://github.com/jasper-software/jasper/issues/265) in [jasper-software/jasper](https://github.com/jasper-software/jasper)
-4. 🗣 Commented on [#568](https://github.com/sparklemotion/mechanize/issues/568) in [sparklemotion/mechanize](https://github.com/sparklemotion/mechanize)
+2. 🗣 Commented on [#15](https://github.com/cotag/http-parser/issues/15) in [cotag/http-parser](https://github.com/cotag/http-parser)
+3. 🗣 Commented on [#63](https://github.com/CocoaPods/cocoapods-acknowledgements/issues/63) in [CocoaPods/cocoapods-acknowledgements](https://github.com/CocoaPods/cocoapods-acknowledgements)
+4. 🗣 Commented on [#265](https://github.com/jasper-software/jasper/issues/265) in [jasper-software/jasper](https://github.com/jasper-software/jasper)
 5. 🗣 Commented on [#568](https://github.com/sparklemotion/mechanize/issues/568) in [sparklemotion/mechanize](https://github.com/sparklemotion/mechanize)
 <!--END_SECTION:activity-->
 
