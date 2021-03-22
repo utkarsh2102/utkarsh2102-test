@@ -35,11 +35,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11](https://github.com/canonical/ubuntu-maintainers-handbook/issues/11) in [canonical/ubuntu-maintainers-handbook](https://github.com/canonical/ubuntu-maintainers-handbook)
-2. ❗️ Closed issue [#10858](https://github.com/openSUSE/open-build-service/issues/10858) in [openSUSE/open-build-service](https://github.com/openSUSE/open-build-service)
-3. 🗣 Commented on [#10858](https://github.com/openSUSE/open-build-service/issues/10858) in [openSUSE/open-build-service](https://github.com/openSUSE/open-build-service)
-4. ❗️ Opened issue [#10858](https://github.com/openSUSE/open-build-service/issues/10858) in [openSUSE/open-build-service](https://github.com/openSUSE/open-build-service)
-5. 🗣 Commented on [#49](https://github.com/trusteddomainproject/OpenDMARC/issues/49) in [trusteddomainproject/OpenDMARC](https://github.com/trusteddomainproject/OpenDMARC)
+1. 🗣 Commented on [#1797](https://github.com/lxc/lxd/issues/1797) in [lxc/lxd](https://github.com/lxc/lxd)
+2. 🗣 Commented on [#11](https://github.com/canonical/ubuntu-maintainers-handbook/issues/11) in [canonical/ubuntu-maintainers-handbook](https://github.com/canonical/ubuntu-maintainers-handbook)
+3. ❗️ Closed issue [#10858](https://github.com/openSUSE/open-build-service/issues/10858) in [openSUSE/open-build-service](https://github.com/openSUSE/open-build-service)
+4. 🗣 Commented on [#10858](https://github.com/openSUSE/open-build-service/issues/10858) in [openSUSE/open-build-service](https://github.com/openSUSE/open-build-service)
+5. ❗️ Opened issue [#10858](https://github.com/openSUSE/open-build-service/issues/10858) in [openSUSE/open-build-service](https://github.com/openSUSE/open-build-service)
 <!--END_SECTION:activity-->
 
 ---
