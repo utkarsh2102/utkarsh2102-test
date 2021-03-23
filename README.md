@@ -35,11 +35,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/canonical/ubuntu-maintainers-handbook/pull/11) in [canonical/ubuntu-maintainers-handbook](https://github.com/canonical/ubuntu-maintainers-handbook)
-2. 🗣 Commented on [#11](https://github.com/canonical/ubuntu-maintainers-handbook/issues/11) in [canonical/ubuntu-maintainers-handbook](https://github.com/canonical/ubuntu-maintainers-handbook)
-3. 🗣 Commented on [#1797](https://github.com/lxc/lxd/issues/1797) in [lxc/lxd](https://github.com/lxc/lxd)
-4. 🗣 Commented on [#11](https://github.com/canonical/ubuntu-maintainers-handbook/issues/11) in [canonical/ubuntu-maintainers-handbook](https://github.com/canonical/ubuntu-maintainers-handbook)
-5. ❗️ Closed issue [#10858](https://github.com/openSUSE/open-build-service/issues/10858) in [openSUSE/open-build-service](https://github.com/openSUSE/open-build-service)
+1. ❗️ Opened issue [#101](https://github.com/grisha/mod_python/issues/101) in [grisha/mod_python](https://github.com/grisha/mod_python)
+2. 🎉 Merged PR [#11](https://github.com/canonical/ubuntu-maintainers-handbook/pull/11) in [canonical/ubuntu-maintainers-handbook](https://github.com/canonical/ubuntu-maintainers-handbook)
+3. 🗣 Commented on [#11](https://github.com/canonical/ubuntu-maintainers-handbook/issues/11) in [canonical/ubuntu-maintainers-handbook](https://github.com/canonical/ubuntu-maintainers-handbook)
+4. 🗣 Commented on [#1797](https://github.com/lxc/lxd/issues/1797) in [lxc/lxd](https://github.com/lxc/lxd)
+5. 🗣 Commented on [#11](https://github.com/canonical/ubuntu-maintainers-handbook/issues/11) in [canonical/ubuntu-maintainers-handbook](https://github.com/canonical/ubuntu-maintainers-handbook)
 <!--END_SECTION:activity-->
 
 ---
