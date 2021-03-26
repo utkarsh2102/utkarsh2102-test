@@ -35,11 +35,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12](https://github.com/canonical/ubuntu-maintainers-handbook/issues/12) in [canonical/ubuntu-maintainers-handbook](https://github.com/canonical/ubuntu-maintainers-handbook)
-2. ❗️ Opened issue [#101](https://github.com/grisha/mod_python/issues/101) in [grisha/mod_python](https://github.com/grisha/mod_python)
-3. 🎉 Merged PR [#11](https://github.com/canonical/ubuntu-maintainers-handbook/pull/11) in [canonical/ubuntu-maintainers-handbook](https://github.com/canonical/ubuntu-maintainers-handbook)
-4. 🗣 Commented on [#11](https://github.com/canonical/ubuntu-maintainers-handbook/issues/11) in [canonical/ubuntu-maintainers-handbook](https://github.com/canonical/ubuntu-maintainers-handbook)
-5. 🗣 Commented on [#1797](https://github.com/lxc/lxd/issues/1797) in [lxc/lxd](https://github.com/lxc/lxd)
+1. 🗣 Commented on [#496](https://github.com/cucumber/cucumber-rails/issues/496) in [cucumber/cucumber-rails](https://github.com/cucumber/cucumber-rails)
+2. 🗣 Commented on [#12](https://github.com/canonical/ubuntu-maintainers-handbook/issues/12) in [canonical/ubuntu-maintainers-handbook](https://github.com/canonical/ubuntu-maintainers-handbook)
+3. ❗️ Opened issue [#101](https://github.com/grisha/mod_python/issues/101) in [grisha/mod_python](https://github.com/grisha/mod_python)
+4. 🎉 Merged PR [#11](https://github.com/canonical/ubuntu-maintainers-handbook/pull/11) in [canonical/ubuntu-maintainers-handbook](https://github.com/canonical/ubuntu-maintainers-handbook)
+5. 🗣 Commented on [#11](https://github.com/canonical/ubuntu-maintainers-handbook/issues/11) in [canonical/ubuntu-maintainers-handbook](https://github.com/canonical/ubuntu-maintainers-handbook)
 <!--END_SECTION:activity-->
 
 ---
