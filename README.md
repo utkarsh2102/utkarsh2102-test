@@ -35,11 +35,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#36](https://github.com/utkarsh2102/rubocop-packaging/issues/36) in [utkarsh2102/rubocop-packaging](https://github.com/utkarsh2102/rubocop-packaging)
-2. 🗣 Commented on [#36](https://github.com/utkarsh2102/rubocop-packaging/issues/36) in [utkarsh2102/rubocop-packaging](https://github.com/utkarsh2102/rubocop-packaging)
-3. 🗣 Commented on [#496](https://github.com/cucumber/cucumber-rails/issues/496) in [cucumber/cucumber-rails](https://github.com/cucumber/cucumber-rails)
-4. ❗️ Opened issue [#244](https://github.com/x-stream/xstream/issues/244) in [x-stream/xstream](https://github.com/x-stream/xstream)
-5. 🗣 Commented on [#496](https://github.com/cucumber/cucumber-rails/issues/496) in [cucumber/cucumber-rails](https://github.com/cucumber/cucumber-rails)
+1. ❗️ Opened issue [#383](https://github.com/mate-desktop/mate-terminal/issues/383) in [mate-desktop/mate-terminal](https://github.com/mate-desktop/mate-terminal)
+2. ❗️ Closed issue [#36](https://github.com/utkarsh2102/rubocop-packaging/issues/36) in [utkarsh2102/rubocop-packaging](https://github.com/utkarsh2102/rubocop-packaging)
+3. 🗣 Commented on [#36](https://github.com/utkarsh2102/rubocop-packaging/issues/36) in [utkarsh2102/rubocop-packaging](https://github.com/utkarsh2102/rubocop-packaging)
+4. 🗣 Commented on [#496](https://github.com/cucumber/cucumber-rails/issues/496) in [cucumber/cucumber-rails](https://github.com/cucumber/cucumber-rails)
+5. ❗️ Opened issue [#244](https://github.com/x-stream/xstream/issues/244) in [x-stream/xstream](https://github.com/x-stream/xstream)
 <!--END_SECTION:activity-->
 
 ---
