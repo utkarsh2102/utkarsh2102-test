@@ -47,11 +47,11 @@
 ### :books: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [FOSS Activites in March 2021](https://utkarsh2102.com/posts/foss-in-march-21/)
 - [FOSS Activites in February 2021](https://utkarsh2102.com/posts/foss-in-feb-21/)
 - [FOSS Activites in January 2021](https://utkarsh2102.com/posts/foss-in-jan-21/)
 - [FOSS Activites in December 2020](https://utkarsh2102.com/posts/foss-in-dec-20/)
 - [FOSS Activites in November 2020](https://utkarsh2102.com/posts/foss-in-nov-20/)
-- [FOSS Activites in October 2020](https://utkarsh2102.com/posts/foss-in-oct-20/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
