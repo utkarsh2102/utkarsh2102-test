@@ -35,11 +35,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/canonical/ubuntu-maintainers-handbook/pull/13) in [canonical/ubuntu-maintainers-handbook](https://github.com/canonical/ubuntu-maintainers-handbook)
-2. 🗣 Commented on [#330](https://github.com/lathiat/avahi/issues/330) in [lathiat/avahi](https://github.com/lathiat/avahi)
-3. 🗣 Commented on [#500](https://github.com/cucumber/cucumber-rails/issues/500) in [cucumber/cucumber-rails](https://github.com/cucumber/cucumber-rails)
-4. ❗️ Opened issue [#383](https://github.com/mate-desktop/mate-terminal/issues/383) in [mate-desktop/mate-terminal](https://github.com/mate-desktop/mate-terminal)
-5. ❗️ Closed issue [#36](https://github.com/utkarsh2102/rubocop-packaging/issues/36) in [utkarsh2102/rubocop-packaging](https://github.com/utkarsh2102/rubocop-packaging)
+1. 🗣 Commented on [#288](https://github.com/sysstat/sysstat/issues/288) in [sysstat/sysstat](https://github.com/sysstat/sysstat)
+2. 🎉 Merged PR [#13](https://github.com/canonical/ubuntu-maintainers-handbook/pull/13) in [canonical/ubuntu-maintainers-handbook](https://github.com/canonical/ubuntu-maintainers-handbook)
+3. 🗣 Commented on [#330](https://github.com/lathiat/avahi/issues/330) in [lathiat/avahi](https://github.com/lathiat/avahi)
+4. 🗣 Commented on [#500](https://github.com/cucumber/cucumber-rails/issues/500) in [cucumber/cucumber-rails](https://github.com/cucumber/cucumber-rails)
+5. ❗️ Opened issue [#383](https://github.com/mate-desktop/mate-terminal/issues/383) in [mate-desktop/mate-terminal](https://github.com/mate-desktop/mate-terminal)
 <!--END_SECTION:activity-->
 
 ---
