@@ -35,11 +35,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#302](https://github.com/ruby-prof/ruby-prof/issues/302) in [ruby-prof/ruby-prof](https://github.com/ruby-prof/ruby-prof)
-2. 🗣 Commented on [#288](https://github.com/sysstat/sysstat/issues/288) in [sysstat/sysstat](https://github.com/sysstat/sysstat)
-3. 🎉 Merged PR [#13](https://github.com/canonical/ubuntu-maintainers-handbook/pull/13) in [canonical/ubuntu-maintainers-handbook](https://github.com/canonical/ubuntu-maintainers-handbook)
-4. 🗣 Commented on [#330](https://github.com/lathiat/avahi/issues/330) in [lathiat/avahi](https://github.com/lathiat/avahi)
-5. 🗣 Commented on [#500](https://github.com/cucumber/cucumber-rails/issues/500) in [cucumber/cucumber-rails](https://github.com/cucumber/cucumber-rails)
+1. 💪 Opened PR [#25](https://github.com/canonical/ubuntu-server-triage/pull/25) in [canonical/ubuntu-server-triage](https://github.com/canonical/ubuntu-server-triage)
+2. ❗️ Opened issue [#302](https://github.com/ruby-prof/ruby-prof/issues/302) in [ruby-prof/ruby-prof](https://github.com/ruby-prof/ruby-prof)
+3. 🗣 Commented on [#288](https://github.com/sysstat/sysstat/issues/288) in [sysstat/sysstat](https://github.com/sysstat/sysstat)
+4. 🎉 Merged PR [#13](https://github.com/canonical/ubuntu-maintainers-handbook/pull/13) in [canonical/ubuntu-maintainers-handbook](https://github.com/canonical/ubuntu-maintainers-handbook)
+5. 🗣 Commented on [#330](https://github.com/lathiat/avahi/issues/330) in [lathiat/avahi](https://github.com/lathiat/avahi)
 <!--END_SECTION:activity-->
 
 ---
