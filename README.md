@@ -35,11 +35,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#25](https://github.com/canonical/ubuntu-server-triage/issues/25) in [canonical/ubuntu-server-triage](https://github.com/canonical/ubuntu-server-triage)
-2. 💪 Opened PR [#25](https://github.com/canonical/ubuntu-server-triage/pull/25) in [canonical/ubuntu-server-triage](https://github.com/canonical/ubuntu-server-triage)
-3. ❗️ Opened issue [#302](https://github.com/ruby-prof/ruby-prof/issues/302) in [ruby-prof/ruby-prof](https://github.com/ruby-prof/ruby-prof)
-4. 🗣 Commented on [#288](https://github.com/sysstat/sysstat/issues/288) in [sysstat/sysstat](https://github.com/sysstat/sysstat)
-5. 🎉 Merged PR [#13](https://github.com/canonical/ubuntu-maintainers-handbook/pull/13) in [canonical/ubuntu-maintainers-handbook](https://github.com/canonical/ubuntu-maintainers-handbook)
+1. 💪 Opened PR [#26](https://github.com/canonical/ubuntu-server-triage/pull/26) in [canonical/ubuntu-server-triage](https://github.com/canonical/ubuntu-server-triage)
+2. 🎉 Merged PR [#25](https://github.com/canonical/ubuntu-server-triage/pull/25) in [canonical/ubuntu-server-triage](https://github.com/canonical/ubuntu-server-triage)
+3. 🗣 Commented on [#25](https://github.com/canonical/ubuntu-server-triage/issues/25) in [canonical/ubuntu-server-triage](https://github.com/canonical/ubuntu-server-triage)
+4. 💪 Opened PR [#25](https://github.com/canonical/ubuntu-server-triage/pull/25) in [canonical/ubuntu-server-triage](https://github.com/canonical/ubuntu-server-triage)
+5. ❗️ Opened issue [#302](https://github.com/ruby-prof/ruby-prof/issues/302) in [ruby-prof/ruby-prof](https://github.com/ruby-prof/ruby-prof)
 <!--END_SECTION:activity-->
 
 ---
