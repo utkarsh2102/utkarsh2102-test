@@ -35,11 +35,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#26](https://github.com/canonical/ubuntu-server-triage/issues/26) in [canonical/ubuntu-server-triage](https://github.com/canonical/ubuntu-server-triage)
-2. 🎉 Merged PR [#26](https://github.com/canonical/ubuntu-server-triage/pull/26) in [canonical/ubuntu-server-triage](https://github.com/canonical/ubuntu-server-triage)
-3. 💪 Opened PR [#26](https://github.com/canonical/ubuntu-server-triage/pull/26) in [canonical/ubuntu-server-triage](https://github.com/canonical/ubuntu-server-triage)
-4. 🎉 Merged PR [#25](https://github.com/canonical/ubuntu-server-triage/pull/25) in [canonical/ubuntu-server-triage](https://github.com/canonical/ubuntu-server-triage)
-5. 🗣 Commented on [#25](https://github.com/canonical/ubuntu-server-triage/issues/25) in [canonical/ubuntu-server-triage](https://github.com/canonical/ubuntu-server-triage)
+1. 🗣 Commented on [#38](https://github.com/utkarsh2102/rubocop-packaging/issues/38) in [utkarsh2102/rubocop-packaging](https://github.com/utkarsh2102/rubocop-packaging)
+2. 🗣 Commented on [#38](https://github.com/utkarsh2102/rubocop-packaging/issues/38) in [utkarsh2102/rubocop-packaging](https://github.com/utkarsh2102/rubocop-packaging)
+3. 🗣 Commented on [#26](https://github.com/canonical/ubuntu-server-triage/issues/26) in [canonical/ubuntu-server-triage](https://github.com/canonical/ubuntu-server-triage)
+4. 🎉 Merged PR [#26](https://github.com/canonical/ubuntu-server-triage/pull/26) in [canonical/ubuntu-server-triage](https://github.com/canonical/ubuntu-server-triage)
+5. 💪 Opened PR [#26](https://github.com/canonical/ubuntu-server-triage/pull/26) in [canonical/ubuntu-server-triage](https://github.com/canonical/ubuntu-server-triage)
 <!--END_SECTION:activity-->
 
 ---
