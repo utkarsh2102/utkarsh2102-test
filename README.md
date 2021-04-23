@@ -35,11 +35,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#641](https://github.com/keylime/keylime/issues/641) in [keylime/keylime](https://github.com/keylime/keylime)
-2. 🗣 Commented on [#38](https://github.com/utkarsh2102/rubocop-packaging/issues/38) in [utkarsh2102/rubocop-packaging](https://github.com/utkarsh2102/rubocop-packaging)
-3. 🗣 Commented on [#38](https://github.com/utkarsh2102/rubocop-packaging/issues/38) in [utkarsh2102/rubocop-packaging](https://github.com/utkarsh2102/rubocop-packaging)
-4. 🗣 Commented on [#26](https://github.com/canonical/ubuntu-server-triage/issues/26) in [canonical/ubuntu-server-triage](https://github.com/canonical/ubuntu-server-triage)
-5. 🎉 Merged PR [#26](https://github.com/canonical/ubuntu-server-triage/pull/26) in [canonical/ubuntu-server-triage](https://github.com/canonical/ubuntu-server-triage)
+1. 🗣 Commented on [#2066](https://github.com/tpm2-software/tpm2-tss/issues/2066) in [tpm2-software/tpm2-tss](https://github.com/tpm2-software/tpm2-tss)
+2. 🗣 Commented on [#643](https://github.com/keylime/keylime/issues/643) in [keylime/keylime](https://github.com/keylime/keylime)
+3. ❗️ Opened issue [#641](https://github.com/keylime/keylime/issues/641) in [keylime/keylime](https://github.com/keylime/keylime)
+4. 🗣 Commented on [#38](https://github.com/utkarsh2102/rubocop-packaging/issues/38) in [utkarsh2102/rubocop-packaging](https://github.com/utkarsh2102/rubocop-packaging)
+5. 🗣 Commented on [#38](https://github.com/utkarsh2102/rubocop-packaging/issues/38) in [utkarsh2102/rubocop-packaging](https://github.com/utkarsh2102/rubocop-packaging)
 <!--END_SECTION:activity-->
 
 ---
