@@ -36,10 +36,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#808](https://github.com/FluidSynth/fluidsynth/issues/808) in [FluidSynth/fluidsynth](https://github.com/FluidSynth/fluidsynth)
-2. 🗣 Commented on [#641](https://github.com/keylime/keylime/issues/641) in [keylime/keylime](https://github.com/keylime/keylime)
+2. 🗣 Commented on [#808](https://github.com/FluidSynth/fluidsynth/issues/808) in [FluidSynth/fluidsynth](https://github.com/FluidSynth/fluidsynth)
 3. 🗣 Commented on [#641](https://github.com/keylime/keylime/issues/641) in [keylime/keylime](https://github.com/keylime/keylime)
-4. 🗣 Commented on [#633](https://github.com/keylime/keylime/issues/633) in [keylime/keylime](https://github.com/keylime/keylime)
-5. 🗣 Commented on [#2066](https://github.com/tpm2-software/tpm2-tss/issues/2066) in [tpm2-software/tpm2-tss](https://github.com/tpm2-software/tpm2-tss)
+4. 🗣 Commented on [#641](https://github.com/keylime/keylime/issues/641) in [keylime/keylime](https://github.com/keylime/keylime)
+5. 🗣 Commented on [#633](https://github.com/keylime/keylime/issues/633) in [keylime/keylime](https://github.com/keylime/keylime)
 <!--END_SECTION:activity-->
 
 ---
