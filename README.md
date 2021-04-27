@@ -35,11 +35,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#641](https://github.com/keylime/keylime/issues/641) in [keylime/keylime](https://github.com/keylime/keylime)
-2. ❗️ Opened issue [#9](https://github.com/keylime/keylime-deb/issues/9) in [keylime/keylime-deb](https://github.com/keylime/keylime-deb)
-3. ❗️ Opened issue [#8](https://github.com/keylime/keylime-deb/issues/8) in [keylime/keylime-deb](https://github.com/keylime/keylime-deb)
-4. ❗️ Opened issue [#7](https://github.com/keylime/keylime-deb/issues/7) in [keylime/keylime-deb](https://github.com/keylime/keylime-deb)
-5. 🗣 Commented on [#643](https://github.com/keylime/keylime/issues/643) in [keylime/keylime](https://github.com/keylime/keylime)
+1. 🗣 Commented on [#633](https://github.com/keylime/keylime/issues/633) in [keylime/keylime](https://github.com/keylime/keylime)
+2. 🗣 Commented on [#641](https://github.com/keylime/keylime/issues/641) in [keylime/keylime](https://github.com/keylime/keylime)
+3. ❗️ Opened issue [#9](https://github.com/keylime/keylime-deb/issues/9) in [keylime/keylime-deb](https://github.com/keylime/keylime-deb)
+4. ❗️ Opened issue [#8](https://github.com/keylime/keylime-deb/issues/8) in [keylime/keylime-deb](https://github.com/keylime/keylime-deb)
+5. ❗️ Opened issue [#7](https://github.com/keylime/keylime-deb/issues/7) in [keylime/keylime-deb](https://github.com/keylime/keylime-deb)
 <!--END_SECTION:activity-->
 
 ---
