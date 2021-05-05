@@ -35,11 +35,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/utkarsh2102/python-keylime/pull/1) in [utkarsh2102/python-keylime](https://github.com/utkarsh2102/python-keylime)
-2. 💪 Opened PR [#1](https://github.com/utkarsh2102/python-keylime/pull/1) in [utkarsh2102/python-keylime](https://github.com/utkarsh2102/python-keylime)
-3. 🎉 Merged PR [#19](https://github.com/utkarsh2102/diaspora/pull/19) in [utkarsh2102/diaspora](https://github.com/utkarsh2102/diaspora)
-4. 🗣 Commented on [#649](https://github.com/keylime/keylime/issues/649) in [keylime/keylime](https://github.com/keylime/keylime)
-5. 🗣 Commented on [#633](https://github.com/keylime/keylime/issues/633) in [keylime/keylime](https://github.com/keylime/keylime)
+1. 🗣 Commented on [#9](https://github.com/keylime/keylime-deb/issues/9) in [keylime/keylime-deb](https://github.com/keylime/keylime-deb)
+2. 🎉 Merged PR [#1](https://github.com/utkarsh2102/python-keylime/pull/1) in [utkarsh2102/python-keylime](https://github.com/utkarsh2102/python-keylime)
+3. 💪 Opened PR [#1](https://github.com/utkarsh2102/python-keylime/pull/1) in [utkarsh2102/python-keylime](https://github.com/utkarsh2102/python-keylime)
+4. 🎉 Merged PR [#19](https://github.com/utkarsh2102/diaspora/pull/19) in [utkarsh2102/diaspora](https://github.com/utkarsh2102/diaspora)
+5. 🗣 Commented on [#649](https://github.com/keylime/keylime/issues/649) in [keylime/keylime](https://github.com/keylime/keylime)
 <!--END_SECTION:activity-->
 
 ---
