@@ -35,11 +35,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/utkarsh2102/python-keylime/issues/2) in [utkarsh2102/python-keylime](https://github.com/utkarsh2102/python-keylime)
-2. ❗️ Opened issue [#666](https://github.com/keylime/keylime/issues/666) in [keylime/keylime](https://github.com/keylime/keylime)
-3. ❗️ Opened issue [#661](https://github.com/keylime/keylime/issues/661) in [keylime/keylime](https://github.com/keylime/keylime)
-4. 🗣 Commented on [#1533](https://github.com/cucumber/cucumber-ruby/issues/1533) in [cucumber/cucumber-ruby](https://github.com/cucumber/cucumber-ruby)
-5. 💪 Opened PR [#2](https://github.com/utkarsh2102/python-keylime/pull/2) in [utkarsh2102/python-keylime](https://github.com/utkarsh2102/python-keylime)
+1. 🎉 Merged PR [#2](https://github.com/utkarsh2102/python-keylime/pull/2) in [utkarsh2102/python-keylime](https://github.com/utkarsh2102/python-keylime)
+2. 🗣 Commented on [#2](https://github.com/utkarsh2102/python-keylime/issues/2) in [utkarsh2102/python-keylime](https://github.com/utkarsh2102/python-keylime)
+3. ❗️ Opened issue [#666](https://github.com/keylime/keylime/issues/666) in [keylime/keylime](https://github.com/keylime/keylime)
+4. ❗️ Opened issue [#661](https://github.com/keylime/keylime/issues/661) in [keylime/keylime](https://github.com/keylime/keylime)
+5. 🗣 Commented on [#1533](https://github.com/cucumber/cucumber-ruby/issues/1533) in [cucumber/cucumber-ruby](https://github.com/cucumber/cucumber-ruby)
 <!--END_SECTION:activity-->
 
 ---
