@@ -35,11 +35,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#331](https://github.com/defunkt/gist/issues/331) in [defunkt/gist](https://github.com/defunkt/gist)
-2. 🎉 Merged PR [#1](https://github.com/utkarsh2102/cloud-init-jessie/pull/1) in [utkarsh2102/cloud-init-jessie](https://github.com/utkarsh2102/cloud-init-jessie)
-3. 🗣 Commented on [#1](https://github.com/utkarsh2102/cloud-init-jessie/issues/1) in [utkarsh2102/cloud-init-jessie](https://github.com/utkarsh2102/cloud-init-jessie)
-4. 💪 Opened PR [#1](https://github.com/utkarsh2102/cloud-init-jessie/pull/1) in [utkarsh2102/cloud-init-jessie](https://github.com/utkarsh2102/cloud-init-jessie)
-5. 🎉 Merged PR [#2](https://github.com/utkarsh2102/python-keylime/pull/2) in [utkarsh2102/python-keylime](https://github.com/utkarsh2102/python-keylime)
+1. 💪 Opened PR [#15](https://github.com/canonical/ubuntu-maintainers-handbook/pull/15) in [canonical/ubuntu-maintainers-handbook](https://github.com/canonical/ubuntu-maintainers-handbook)
+2. ❗️ Opened issue [#331](https://github.com/defunkt/gist/issues/331) in [defunkt/gist](https://github.com/defunkt/gist)
+3. 🎉 Merged PR [#1](https://github.com/utkarsh2102/cloud-init-jessie/pull/1) in [utkarsh2102/cloud-init-jessie](https://github.com/utkarsh2102/cloud-init-jessie)
+4. 🗣 Commented on [#1](https://github.com/utkarsh2102/cloud-init-jessie/issues/1) in [utkarsh2102/cloud-init-jessie](https://github.com/utkarsh2102/cloud-init-jessie)
+5. 💪 Opened PR [#1](https://github.com/utkarsh2102/cloud-init-jessie/pull/1) in [utkarsh2102/cloud-init-jessie](https://github.com/utkarsh2102/cloud-init-jessie)
 <!--END_SECTION:activity-->
 
 ---
