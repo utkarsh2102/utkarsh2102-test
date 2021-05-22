@@ -35,11 +35,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#15](https://github.com/canonical/ubuntu-maintainers-handbook/pull/15) in [canonical/ubuntu-maintainers-handbook](https://github.com/canonical/ubuntu-maintainers-handbook)
-2. ❗️ Opened issue [#331](https://github.com/defunkt/gist/issues/331) in [defunkt/gist](https://github.com/defunkt/gist)
-3. 🎉 Merged PR [#1](https://github.com/utkarsh2102/cloud-init-jessie/pull/1) in [utkarsh2102/cloud-init-jessie](https://github.com/utkarsh2102/cloud-init-jessie)
-4. 🗣 Commented on [#1](https://github.com/utkarsh2102/cloud-init-jessie/issues/1) in [utkarsh2102/cloud-init-jessie](https://github.com/utkarsh2102/cloud-init-jessie)
-5. 💪 Opened PR [#1](https://github.com/utkarsh2102/cloud-init-jessie/pull/1) in [utkarsh2102/cloud-init-jessie](https://github.com/utkarsh2102/cloud-init-jessie)
+1. ❗️ Opened issue [#576](https://github.com/luizdepra/hugo-coder/issues/576) in [luizdepra/hugo-coder](https://github.com/luizdepra/hugo-coder)
+2. 💪 Opened PR [#15](https://github.com/canonical/ubuntu-maintainers-handbook/pull/15) in [canonical/ubuntu-maintainers-handbook](https://github.com/canonical/ubuntu-maintainers-handbook)
+3. ❗️ Opened issue [#331](https://github.com/defunkt/gist/issues/331) in [defunkt/gist](https://github.com/defunkt/gist)
+4. 🎉 Merged PR [#1](https://github.com/utkarsh2102/cloud-init-jessie/pull/1) in [utkarsh2102/cloud-init-jessie](https://github.com/utkarsh2102/cloud-init-jessie)
+5. 🗣 Commented on [#1](https://github.com/utkarsh2102/cloud-init-jessie/issues/1) in [utkarsh2102/cloud-init-jessie](https://github.com/utkarsh2102/cloud-init-jessie)
 <!--END_SECTION:activity-->
 
 ---
