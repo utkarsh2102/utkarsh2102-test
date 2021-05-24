@@ -35,11 +35,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#576](https://github.com/luizdepra/hugo-coder/issues/576) in [luizdepra/hugo-coder](https://github.com/luizdepra/hugo-coder)
+1. 💪 Opened PR [#16913](https://github.com/phpmyadmin/phpmyadmin/pull/16913) in [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin)
 2. 🗣 Commented on [#576](https://github.com/luizdepra/hugo-coder/issues/576) in [luizdepra/hugo-coder](https://github.com/luizdepra/hugo-coder)
-3. ❗️ Opened issue [#576](https://github.com/luizdepra/hugo-coder/issues/576) in [luizdepra/hugo-coder](https://github.com/luizdepra/hugo-coder)
-4. 💪 Opened PR [#15](https://github.com/canonical/ubuntu-maintainers-handbook/pull/15) in [canonical/ubuntu-maintainers-handbook](https://github.com/canonical/ubuntu-maintainers-handbook)
-5. ❗️ Opened issue [#331](https://github.com/defunkt/gist/issues/331) in [defunkt/gist](https://github.com/defunkt/gist)
+3. 🗣 Commented on [#576](https://github.com/luizdepra/hugo-coder/issues/576) in [luizdepra/hugo-coder](https://github.com/luizdepra/hugo-coder)
+4. ❗️ Opened issue [#576](https://github.com/luizdepra/hugo-coder/issues/576) in [luizdepra/hugo-coder](https://github.com/luizdepra/hugo-coder)
+5. 💪 Opened PR [#15](https://github.com/canonical/ubuntu-maintainers-handbook/pull/15) in [canonical/ubuntu-maintainers-handbook](https://github.com/canonical/ubuntu-maintainers-handbook)
 <!--END_SECTION:activity-->
 
 ---
