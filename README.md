@@ -35,11 +35,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#89](https://github.com/owfs/owfs/issues/89) in [owfs/owfs](https://github.com/owfs/owfs)
-2. ❗️ Opened issue [#1666](https://github.com/phpseclib/phpseclib/issues/1666) in [phpseclib/phpseclib](https://github.com/phpseclib/phpseclib)
-3. ❗️ Opened issue [#440](https://github.com/nahi/httpclient/issues/440) in [nahi/httpclient](https://github.com/nahi/httpclient)
-4. 💪 Opened PR [#16913](https://github.com/phpmyadmin/phpmyadmin/pull/16913) in [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin)
-5. 🗣 Commented on [#576](https://github.com/luizdepra/hugo-coder/issues/576) in [luizdepra/hugo-coder](https://github.com/luizdepra/hugo-coder)
+1. 🗣 Commented on [#6201](https://github.com/MapServer/MapServer/issues/6201) in [MapServer/MapServer](https://github.com/MapServer/MapServer)
+2. ❗️ Opened issue [#89](https://github.com/owfs/owfs/issues/89) in [owfs/owfs](https://github.com/owfs/owfs)
+3. ❗️ Opened issue [#1666](https://github.com/phpseclib/phpseclib/issues/1666) in [phpseclib/phpseclib](https://github.com/phpseclib/phpseclib)
+4. ❗️ Opened issue [#440](https://github.com/nahi/httpclient/issues/440) in [nahi/httpclient](https://github.com/nahi/httpclient)
+5. 💪 Opened PR [#16913](https://github.com/phpmyadmin/phpmyadmin/pull/16913) in [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin)
 <!--END_SECTION:activity-->
 
 ---
