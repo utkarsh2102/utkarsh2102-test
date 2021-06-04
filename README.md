@@ -35,11 +35,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6201](https://github.com/MapServer/MapServer/issues/6201) in [MapServer/MapServer](https://github.com/MapServer/MapServer)
-2. ❗️ Opened issue [#2029](https://github.com/swig/swig/issues/2029) in [swig/swig](https://github.com/swig/swig)
-3. 🗣 Commented on [#6201](https://github.com/MapServer/MapServer/issues/6201) in [MapServer/MapServer](https://github.com/MapServer/MapServer)
-4. ❗️ Opened issue [#89](https://github.com/owfs/owfs/issues/89) in [owfs/owfs](https://github.com/owfs/owfs)
-5. ❗️ Opened issue [#1666](https://github.com/phpseclib/phpseclib/issues/1666) in [phpseclib/phpseclib](https://github.com/phpseclib/phpseclib)
+1. ❗️ Opened issue [#41537](https://github.com/symfony/symfony/issues/41537) in [symfony/symfony](https://github.com/symfony/symfony)
+2. 🗣 Commented on [#6201](https://github.com/MapServer/MapServer/issues/6201) in [MapServer/MapServer](https://github.com/MapServer/MapServer)
+3. ❗️ Opened issue [#2029](https://github.com/swig/swig/issues/2029) in [swig/swig](https://github.com/swig/swig)
+4. 🗣 Commented on [#6201](https://github.com/MapServer/MapServer/issues/6201) in [MapServer/MapServer](https://github.com/MapServer/MapServer)
+5. ❗️ Opened issue [#89](https://github.com/owfs/owfs/issues/89) in [owfs/owfs](https://github.com/owfs/owfs)
 <!--END_SECTION:activity-->
 
 ---
