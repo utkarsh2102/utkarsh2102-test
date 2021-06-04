@@ -35,11 +35,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#41537](https://github.com/symfony/symfony/issues/41537) in [symfony/symfony](https://github.com/symfony/symfony)
-2. 🗣 Commented on [#6201](https://github.com/MapServer/MapServer/issues/6201) in [MapServer/MapServer](https://github.com/MapServer/MapServer)
-3. ❗️ Opened issue [#2029](https://github.com/swig/swig/issues/2029) in [swig/swig](https://github.com/swig/swig)
-4. 🗣 Commented on [#6201](https://github.com/MapServer/MapServer/issues/6201) in [MapServer/MapServer](https://github.com/MapServer/MapServer)
-5. ❗️ Opened issue [#89](https://github.com/owfs/owfs/issues/89) in [owfs/owfs](https://github.com/owfs/owfs)
+1. 🗣 Commented on [#41537](https://github.com/symfony/symfony/issues/41537) in [symfony/symfony](https://github.com/symfony/symfony)
+2. ❗️ Opened issue [#41537](https://github.com/symfony/symfony/issues/41537) in [symfony/symfony](https://github.com/symfony/symfony)
+3. 🗣 Commented on [#6201](https://github.com/MapServer/MapServer/issues/6201) in [MapServer/MapServer](https://github.com/MapServer/MapServer)
+4. ❗️ Opened issue [#2029](https://github.com/swig/swig/issues/2029) in [swig/swig](https://github.com/swig/swig)
+5. 🗣 Commented on [#6201](https://github.com/MapServer/MapServer/issues/6201) in [MapServer/MapServer](https://github.com/MapServer/MapServer)
 <!--END_SECTION:activity-->
 
 ---
