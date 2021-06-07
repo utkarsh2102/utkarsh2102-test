@@ -35,11 +35,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#603](https://github.com/Nheko-Reborn/nheko/issues/603) in [Nheko-Reborn/nheko](https://github.com/Nheko-Reborn/nheko)
-2. ❗️ Opened issue [#602](https://github.com/Nheko-Reborn/nheko/issues/602) in [Nheko-Reborn/nheko](https://github.com/Nheko-Reborn/nheko)
-3. 🗣 Commented on [#208](https://github.com/matrix-org/matrix-appservice-irc/issues/208) in [matrix-org/matrix-appservice-irc](https://github.com/matrix-org/matrix-appservice-irc)
+1. 💪 Opened PR [#8](https://github.com/opensvc/multipath-tools/pull/8) in [opensvc/multipath-tools](https://github.com/opensvc/multipath-tools)
+2. ❗️ Opened issue [#603](https://github.com/Nheko-Reborn/nheko/issues/603) in [Nheko-Reborn/nheko](https://github.com/Nheko-Reborn/nheko)
+3. ❗️ Opened issue [#602](https://github.com/Nheko-Reborn/nheko/issues/602) in [Nheko-Reborn/nheko](https://github.com/Nheko-Reborn/nheko)
 4. 🗣 Commented on [#208](https://github.com/matrix-org/matrix-appservice-irc/issues/208) in [matrix-org/matrix-appservice-irc](https://github.com/matrix-org/matrix-appservice-irc)
-5. 🗣 Commented on [#41537](https://github.com/symfony/symfony/issues/41537) in [symfony/symfony](https://github.com/symfony/symfony)
+5. 🗣 Commented on [#208](https://github.com/matrix-org/matrix-appservice-irc/issues/208) in [matrix-org/matrix-appservice-irc](https://github.com/matrix-org/matrix-appservice-irc)
 <!--END_SECTION:activity-->
 
 ---
