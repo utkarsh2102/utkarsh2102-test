@@ -35,11 +35,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/utkarsh2102/symfony/issues/1) in [utkarsh2102/symfony](https://github.com/utkarsh2102/symfony)
-2. 🗣 Commented on [#8](https://github.com/opensvc/multipath-tools/issues/8) in [opensvc/multipath-tools](https://github.com/opensvc/multipath-tools)
-3. 💪 Opened PR [#8](https://github.com/opensvc/multipath-tools/pull/8) in [opensvc/multipath-tools](https://github.com/opensvc/multipath-tools)
-4. ❗️ Opened issue [#603](https://github.com/Nheko-Reborn/nheko/issues/603) in [Nheko-Reborn/nheko](https://github.com/Nheko-Reborn/nheko)
-5. ❗️ Opened issue [#602](https://github.com/Nheko-Reborn/nheko/issues/602) in [Nheko-Reborn/nheko](https://github.com/Nheko-Reborn/nheko)
+1. 🗣 Commented on [#1](https://github.com/utkarsh2102/symfony/issues/1) in [utkarsh2102/symfony](https://github.com/utkarsh2102/symfony)
+2. ❗️ Closed issue [#1](https://github.com/utkarsh2102/symfony/issues/1) in [utkarsh2102/symfony](https://github.com/utkarsh2102/symfony)
+3. ❗️ Opened issue [#1](https://github.com/utkarsh2102/symfony/issues/1) in [utkarsh2102/symfony](https://github.com/utkarsh2102/symfony)
+4. 🗣 Commented on [#8](https://github.com/opensvc/multipath-tools/issues/8) in [opensvc/multipath-tools](https://github.com/opensvc/multipath-tools)
+5. 💪 Opened PR [#8](https://github.com/opensvc/multipath-tools/pull/8) in [opensvc/multipath-tools](https://github.com/opensvc/multipath-tools)
 <!--END_SECTION:activity-->
 
 ---
