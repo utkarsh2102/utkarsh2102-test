@@ -35,11 +35,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/utkarsh2102/Hello-World/pull/11) in [utkarsh2102/Hello-World](https://github.com/utkarsh2102/Hello-World)
-2. 🗣 Commented on [#41537](https://github.com/symfony/symfony/issues/41537) in [symfony/symfony](https://github.com/symfony/symfony)
-3. 🗣 Commented on [#1](https://github.com/utkarsh2102/symfony/issues/1) in [utkarsh2102/symfony](https://github.com/utkarsh2102/symfony)
-4. ❗️ Closed issue [#1](https://github.com/utkarsh2102/symfony/issues/1) in [utkarsh2102/symfony](https://github.com/utkarsh2102/symfony)
-5. ❗️ Opened issue [#1](https://github.com/utkarsh2102/symfony/issues/1) in [utkarsh2102/symfony](https://github.com/utkarsh2102/symfony)
+1. ❗️ Opened issue [#41637](https://github.com/symfony/symfony/issues/41637) in [symfony/symfony](https://github.com/symfony/symfony)
+2. 🎉 Merged PR [#11](https://github.com/utkarsh2102/Hello-World/pull/11) in [utkarsh2102/Hello-World](https://github.com/utkarsh2102/Hello-World)
+3. 🗣 Commented on [#41537](https://github.com/symfony/symfony/issues/41537) in [symfony/symfony](https://github.com/symfony/symfony)
+4. 🗣 Commented on [#1](https://github.com/utkarsh2102/symfony/issues/1) in [utkarsh2102/symfony](https://github.com/utkarsh2102/symfony)
+5. ❗️ Closed issue [#1](https://github.com/utkarsh2102/symfony/issues/1) in [utkarsh2102/symfony](https://github.com/utkarsh2102/symfony)
 <!--END_SECTION:activity-->
 
 ---
