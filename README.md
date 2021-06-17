@@ -35,11 +35,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#437](https://github.com/Imagick/imagick/issues/437) in [Imagick/imagick](https://github.com/Imagick/imagick)
-2. 🗣 Commented on [#666](https://github.com/keylime/keylime/issues/666) in [keylime/keylime](https://github.com/keylime/keylime)
-3. ❗️ Closed issue [#164](https://github.com/ai/autoprefixer-rails/issues/164) in [ai/autoprefixer-rails](https://github.com/ai/autoprefixer-rails)
-4. 🗣 Commented on [#164](https://github.com/ai/autoprefixer-rails/issues/164) in [ai/autoprefixer-rails](https://github.com/ai/autoprefixer-rails)
-5. ❗️ Opened issue [#751](https://github.com/excon/excon/issues/751) in [excon/excon](https://github.com/excon/excon)
+1. 🗣 Commented on [#437](https://github.com/Imagick/imagick/issues/437) in [Imagick/imagick](https://github.com/Imagick/imagick)
+2. ❗️ Opened issue [#437](https://github.com/Imagick/imagick/issues/437) in [Imagick/imagick](https://github.com/Imagick/imagick)
+3. 🗣 Commented on [#666](https://github.com/keylime/keylime/issues/666) in [keylime/keylime](https://github.com/keylime/keylime)
+4. ❗️ Closed issue [#164](https://github.com/ai/autoprefixer-rails/issues/164) in [ai/autoprefixer-rails](https://github.com/ai/autoprefixer-rails)
+5. 🗣 Commented on [#164](https://github.com/ai/autoprefixer-rails/issues/164) in [ai/autoprefixer-rails](https://github.com/ai/autoprefixer-rails)
 <!--END_SECTION:activity-->
 
 ---
