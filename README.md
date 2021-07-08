@@ -35,11 +35,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#17](https://github.com/canonical/ubuntu-maintainers-handbook/pull/17) in [canonical/ubuntu-maintainers-handbook](https://github.com/canonical/ubuntu-maintainers-handbook)
-2. 🗣 Commented on [#17](https://github.com/canonical/ubuntu-maintainers-handbook/issues/17) in [canonical/ubuntu-maintainers-handbook](https://github.com/canonical/ubuntu-maintainers-handbook)
-3. 🗣 Commented on [#2113](https://github.com/tpm2-software/tpm2-tss/issues/2113) in [tpm2-software/tpm2-tss](https://github.com/tpm2-software/tpm2-tss)
-4. ❗️ Opened issue [#2113](https://github.com/tpm2-software/tpm2-tss/issues/2113) in [tpm2-software/tpm2-tss](https://github.com/tpm2-software/tpm2-tss)
-5. 🗣 Commented on [#303](https://github.com/ipmitool/ipmitool/issues/303) in [ipmitool/ipmitool](https://github.com/ipmitool/ipmitool)
+1. 🗣 Commented on [#2113](https://github.com/tpm2-software/tpm2-tss/issues/2113) in [tpm2-software/tpm2-tss](https://github.com/tpm2-software/tpm2-tss)
+2. 🎉 Merged PR [#17](https://github.com/canonical/ubuntu-maintainers-handbook/pull/17) in [canonical/ubuntu-maintainers-handbook](https://github.com/canonical/ubuntu-maintainers-handbook)
+3. 🗣 Commented on [#17](https://github.com/canonical/ubuntu-maintainers-handbook/issues/17) in [canonical/ubuntu-maintainers-handbook](https://github.com/canonical/ubuntu-maintainers-handbook)
+4. 🗣 Commented on [#2113](https://github.com/tpm2-software/tpm2-tss/issues/2113) in [tpm2-software/tpm2-tss](https://github.com/tpm2-software/tpm2-tss)
+5. ❗️ Opened issue [#2113](https://github.com/tpm2-software/tpm2-tss/issues/2113) in [tpm2-software/tpm2-tss](https://github.com/tpm2-software/tpm2-tss)
 <!--END_SECTION:activity-->
 
 ---
