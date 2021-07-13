@@ -38,8 +38,8 @@
 1. 🗣 Commented on [#2113](https://github.com/tpm2-software/tpm2-tss/issues/2113) in [tpm2-software/tpm2-tss](https://github.com/tpm2-software/tpm2-tss)
 2. 🗣 Commented on [#2113](https://github.com/tpm2-software/tpm2-tss/issues/2113) in [tpm2-software/tpm2-tss](https://github.com/tpm2-software/tpm2-tss)
 3. 🗣 Commented on [#2113](https://github.com/tpm2-software/tpm2-tss/issues/2113) in [tpm2-software/tpm2-tss](https://github.com/tpm2-software/tpm2-tss)
-4. 🎉 Merged PR [#21](https://github.com/canonical/ubuntu-maintainers-handbook/pull/21) in [canonical/ubuntu-maintainers-handbook](https://github.com/canonical/ubuntu-maintainers-handbook)
-5. 💪 Opened PR [#21](https://github.com/canonical/ubuntu-maintainers-handbook/pull/21) in [canonical/ubuntu-maintainers-handbook](https://github.com/canonical/ubuntu-maintainers-handbook)
+4. 🗣 Commented on [#2113](https://github.com/tpm2-software/tpm2-tss/issues/2113) in [tpm2-software/tpm2-tss](https://github.com/tpm2-software/tpm2-tss)
+5. 🎉 Merged PR [#21](https://github.com/canonical/ubuntu-maintainers-handbook/pull/21) in [canonical/ubuntu-maintainers-handbook](https://github.com/canonical/ubuntu-maintainers-handbook)
 <!--END_SECTION:activity-->
 
 ---
