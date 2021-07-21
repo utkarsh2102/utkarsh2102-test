@@ -35,11 +35,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2113](https://github.com/tpm2-software/tpm2-tss/issues/2113) in [tpm2-software/tpm2-tss](https://github.com/tpm2-software/tpm2-tss)
-2. 🗣 Commented on [#14646](https://github.com/ocaml/opam-repository/issues/14646) in [ocaml/opam-repository](https://github.com/ocaml/opam-repository)
-3. 🎉 Merged PR [#48](https://github.com/utkarsh2102/ruby-rails/pull/48) in [utkarsh2102/ruby-rails](https://github.com/utkarsh2102/ruby-rails)
-4. 🎉 Merged PR [#47](https://github.com/utkarsh2102/ruby-rails/pull/47) in [utkarsh2102/ruby-rails](https://github.com/utkarsh2102/ruby-rails)
-5. 🎉 Merged PR [#40](https://github.com/utkarsh2102/ruby-rails/pull/40) in [utkarsh2102/ruby-rails](https://github.com/utkarsh2102/ruby-rails)
+1. ❗️ Closed issue [#2113](https://github.com/tpm2-software/tpm2-tss/issues/2113) in [tpm2-software/tpm2-tss](https://github.com/tpm2-software/tpm2-tss)
+2. 🗣 Commented on [#2113](https://github.com/tpm2-software/tpm2-tss/issues/2113) in [tpm2-software/tpm2-tss](https://github.com/tpm2-software/tpm2-tss)
+3. ❗️ Opened issue [#2135](https://github.com/tpm2-software/tpm2-tss/issues/2135) in [tpm2-software/tpm2-tss](https://github.com/tpm2-software/tpm2-tss)
+4. ❗️ Closed issue [#602](https://github.com/Nheko-Reborn/nheko/issues/602) in [Nheko-Reborn/nheko](https://github.com/Nheko-Reborn/nheko)
+5. 🗣 Commented on [#602](https://github.com/Nheko-Reborn/nheko/issues/602) in [Nheko-Reborn/nheko](https://github.com/Nheko-Reborn/nheko)
 <!--END_SECTION:activity-->
 
 ---
