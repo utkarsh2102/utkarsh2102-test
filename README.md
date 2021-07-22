@@ -35,11 +35,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2113](https://github.com/tpm2-software/tpm2-tss/issues/2113) in [tpm2-software/tpm2-tss](https://github.com/tpm2-software/tpm2-tss)
-2. 🗣 Commented on [#2113](https://github.com/tpm2-software/tpm2-tss/issues/2113) in [tpm2-software/tpm2-tss](https://github.com/tpm2-software/tpm2-tss)
-3. ❗️ Opened issue [#2135](https://github.com/tpm2-software/tpm2-tss/issues/2135) in [tpm2-software/tpm2-tss](https://github.com/tpm2-software/tpm2-tss)
-4. ❗️ Closed issue [#602](https://github.com/Nheko-Reborn/nheko/issues/602) in [Nheko-Reborn/nheko](https://github.com/Nheko-Reborn/nheko)
-5. 🗣 Commented on [#602](https://github.com/Nheko-Reborn/nheko/issues/602) in [Nheko-Reborn/nheko](https://github.com/Nheko-Reborn/nheko)
+1. ❗️ Opened issue [#2798](https://github.com/tpm2-software/tpm2-tools/issues/2798) in [tpm2-software/tpm2-tools](https://github.com/tpm2-software/tpm2-tools)
+2. ❗️ Opened issue [#2136](https://github.com/tpm2-software/tpm2-tss/issues/2136) in [tpm2-software/tpm2-tss](https://github.com/tpm2-software/tpm2-tss)
+3. ❗️ Closed issue [#2113](https://github.com/tpm2-software/tpm2-tss/issues/2113) in [tpm2-software/tpm2-tss](https://github.com/tpm2-software/tpm2-tss)
+4. 🗣 Commented on [#2113](https://github.com/tpm2-software/tpm2-tss/issues/2113) in [tpm2-software/tpm2-tss](https://github.com/tpm2-software/tpm2-tss)
+5. ❗️ Opened issue [#2135](https://github.com/tpm2-software/tpm2-tss/issues/2135) in [tpm2-software/tpm2-tss](https://github.com/tpm2-software/tpm2-tss)
 <!--END_SECTION:activity-->
 
 ---
