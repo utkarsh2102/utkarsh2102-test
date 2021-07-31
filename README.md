@@ -35,11 +35,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/utkarsh2102/python-keylime/issues/4) in [utkarsh2102/python-keylime](https://github.com/utkarsh2102/python-keylime)
-2. ❗️ Opened issue [#2798](https://github.com/tpm2-software/tpm2-tools/issues/2798) in [tpm2-software/tpm2-tools](https://github.com/tpm2-software/tpm2-tools)
-3. ❗️ Opened issue [#2136](https://github.com/tpm2-software/tpm2-tss/issues/2136) in [tpm2-software/tpm2-tss](https://github.com/tpm2-software/tpm2-tss)
-4. ❗️ Closed issue [#2113](https://github.com/tpm2-software/tpm2-tss/issues/2113) in [tpm2-software/tpm2-tss](https://github.com/tpm2-software/tpm2-tss)
-5. 🗣 Commented on [#2113](https://github.com/tpm2-software/tpm2-tss/issues/2113) in [tpm2-software/tpm2-tss](https://github.com/tpm2-software/tpm2-tss)
+1. 🎉 Merged PR [#1](https://github.com/utkarsh2102/recipe_hunter/pull/1) in [utkarsh2102/recipe_hunter](https://github.com/utkarsh2102/recipe_hunter)
+2. 🗣 Commented on [#4](https://github.com/utkarsh2102/python-keylime/issues/4) in [utkarsh2102/python-keylime](https://github.com/utkarsh2102/python-keylime)
+3. ❗️ Opened issue [#2798](https://github.com/tpm2-software/tpm2-tools/issues/2798) in [tpm2-software/tpm2-tools](https://github.com/tpm2-software/tpm2-tools)
+4. ❗️ Opened issue [#2136](https://github.com/tpm2-software/tpm2-tss/issues/2136) in [tpm2-software/tpm2-tss](https://github.com/tpm2-software/tpm2-tss)
+5. ❗️ Closed issue [#2113](https://github.com/tpm2-software/tpm2-tss/issues/2113) in [tpm2-software/tpm2-tss](https://github.com/tpm2-software/tpm2-tss)
 <!--END_SECTION:activity-->
 
 ---
