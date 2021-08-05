@@ -35,11 +35,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#25](https://github.com/canonical/ubuntu-maintainers-handbook/pull/25) in [canonical/ubuntu-maintainers-handbook](https://github.com/canonical/ubuntu-maintainers-handbook)
-2. 🎉 Merged PR [#23](https://github.com/canonical/ubuntu-maintainers-handbook/pull/23) in [canonical/ubuntu-maintainers-handbook](https://github.com/canonical/ubuntu-maintainers-handbook)
-3. 🎉 Merged PR [#1](https://github.com/utkarsh2102/recipe_hunter/pull/1) in [utkarsh2102/recipe_hunter](https://github.com/utkarsh2102/recipe_hunter)
-4. 🗣 Commented on [#4](https://github.com/utkarsh2102/python-keylime/issues/4) in [utkarsh2102/python-keylime](https://github.com/utkarsh2102/python-keylime)
-5. ❗️ Opened issue [#2798](https://github.com/tpm2-software/tpm2-tools/issues/2798) in [tpm2-software/tpm2-tools](https://github.com/tpm2-software/tpm2-tools)
+1. 🗣 Commented on [#69](https://github.com/GoogleCloudPlatform/guest-oslogin/issues/69) in [GoogleCloudPlatform/guest-oslogin](https://github.com/GoogleCloudPlatform/guest-oslogin)
+2. ❗️ Opened issue [#69](https://github.com/GoogleCloudPlatform/guest-oslogin/issues/69) in [GoogleCloudPlatform/guest-oslogin](https://github.com/GoogleCloudPlatform/guest-oslogin)
+3. 🎉 Merged PR [#25](https://github.com/canonical/ubuntu-maintainers-handbook/pull/25) in [canonical/ubuntu-maintainers-handbook](https://github.com/canonical/ubuntu-maintainers-handbook)
+4. 🎉 Merged PR [#23](https://github.com/canonical/ubuntu-maintainers-handbook/pull/23) in [canonical/ubuntu-maintainers-handbook](https://github.com/canonical/ubuntu-maintainers-handbook)
+5. 🎉 Merged PR [#1](https://github.com/utkarsh2102/recipe_hunter/pull/1) in [utkarsh2102/recipe_hunter](https://github.com/utkarsh2102/recipe_hunter)
 <!--END_SECTION:activity-->
 
 ---
