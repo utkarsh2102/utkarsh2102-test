@@ -35,11 +35,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#69](https://github.com/GoogleCloudPlatform/guest-oslogin/issues/69) in [GoogleCloudPlatform/guest-oslogin](https://github.com/GoogleCloudPlatform/guest-oslogin)
-2. ❗️ Opened issue [#69](https://github.com/GoogleCloudPlatform/guest-oslogin/issues/69) in [GoogleCloudPlatform/guest-oslogin](https://github.com/GoogleCloudPlatform/guest-oslogin)
-3. 🎉 Merged PR [#25](https://github.com/canonical/ubuntu-maintainers-handbook/pull/25) in [canonical/ubuntu-maintainers-handbook](https://github.com/canonical/ubuntu-maintainers-handbook)
-4. 🎉 Merged PR [#23](https://github.com/canonical/ubuntu-maintainers-handbook/pull/23) in [canonical/ubuntu-maintainers-handbook](https://github.com/canonical/ubuntu-maintainers-handbook)
-5. 🎉 Merged PR [#1](https://github.com/utkarsh2102/recipe_hunter/pull/1) in [utkarsh2102/recipe_hunter](https://github.com/utkarsh2102/recipe_hunter)
+1. 🎉 Merged PR [#2](https://github.com/utkarsh2102/recipe_hunter/pull/2) in [utkarsh2102/recipe_hunter](https://github.com/utkarsh2102/recipe_hunter)
+2. 🎉 Merged PR [#1](https://github.com/utkarsh2102/gsoc2.0/pull/1) in [utkarsh2102/gsoc2.0](https://github.com/utkarsh2102/gsoc2.0)
+3. 🗣 Commented on [#69](https://github.com/GoogleCloudPlatform/guest-oslogin/issues/69) in [GoogleCloudPlatform/guest-oslogin](https://github.com/GoogleCloudPlatform/guest-oslogin)
+4. ❗️ Opened issue [#69](https://github.com/GoogleCloudPlatform/guest-oslogin/issues/69) in [GoogleCloudPlatform/guest-oslogin](https://github.com/GoogleCloudPlatform/guest-oslogin)
+5. 🎉 Merged PR [#25](https://github.com/canonical/ubuntu-maintainers-handbook/pull/25) in [canonical/ubuntu-maintainers-handbook](https://github.com/canonical/ubuntu-maintainers-handbook)
 <!--END_SECTION:activity-->
 
 ---
