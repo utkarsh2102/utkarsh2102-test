@@ -35,11 +35,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1168](https://github.com/nschloe/meshio/issues/1168) in [nschloe/meshio](https://github.com/nschloe/meshio)
-2. 🎉 Merged PR [#25](https://github.com/utkarsh2102/diaspora/pull/25) in [utkarsh2102/diaspora](https://github.com/utkarsh2102/diaspora)
-3. 🎉 Merged PR [#2](https://github.com/utkarsh2102/recipe_hunter/pull/2) in [utkarsh2102/recipe_hunter](https://github.com/utkarsh2102/recipe_hunter)
-4. 🎉 Merged PR [#1](https://github.com/utkarsh2102/gsoc2.0/pull/1) in [utkarsh2102/gsoc2.0](https://github.com/utkarsh2102/gsoc2.0)
-5. 🗣 Commented on [#69](https://github.com/GoogleCloudPlatform/guest-oslogin/issues/69) in [GoogleCloudPlatform/guest-oslogin](https://github.com/GoogleCloudPlatform/guest-oslogin)
+1. ❗️ Opened issue [#6](https://github.com/utkarsh2102/python-keylime/issues/6) in [utkarsh2102/python-keylime](https://github.com/utkarsh2102/python-keylime)
+2. ❗️ Opened issue [#1168](https://github.com/nschloe/meshio/issues/1168) in [nschloe/meshio](https://github.com/nschloe/meshio)
+3. 🎉 Merged PR [#25](https://github.com/utkarsh2102/diaspora/pull/25) in [utkarsh2102/diaspora](https://github.com/utkarsh2102/diaspora)
+4. 🎉 Merged PR [#2](https://github.com/utkarsh2102/recipe_hunter/pull/2) in [utkarsh2102/recipe_hunter](https://github.com/utkarsh2102/recipe_hunter)
+5. 🎉 Merged PR [#1](https://github.com/utkarsh2102/gsoc2.0/pull/1) in [utkarsh2102/gsoc2.0](https://github.com/utkarsh2102/gsoc2.0)
 <!--END_SECTION:activity-->
 
 ---
