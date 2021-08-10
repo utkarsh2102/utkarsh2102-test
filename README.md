@@ -35,10 +35,10 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/utkarsh2102/python-keylime/pull/8) in [utkarsh2102/python-keylime](https://github.com/utkarsh2102/python-keylime)
-2. ❗️ Closed issue [#6](https://github.com/utkarsh2102/python-keylime/issues/6) in [utkarsh2102/python-keylime](https://github.com/utkarsh2102/python-keylime)
-3. 🗣 Commented on [#7](https://github.com/utkarsh2102/python-keylime/issues/7) in [utkarsh2102/python-keylime](https://github.com/utkarsh2102/python-keylime)
-4. 💪 Opened PR [#8](https://github.com/utkarsh2102/python-keylime/pull/8) in [utkarsh2102/python-keylime](https://github.com/utkarsh2102/python-keylime)
+1. 🎉 Merged PR [#9](https://github.com/utkarsh2102/python-keylime/pull/9) in [utkarsh2102/python-keylime](https://github.com/utkarsh2102/python-keylime)
+2. ❗️ Closed issue [#7](https://github.com/utkarsh2102/python-keylime/issues/7) in [utkarsh2102/python-keylime](https://github.com/utkarsh2102/python-keylime)
+3. 🎉 Merged PR [#8](https://github.com/utkarsh2102/python-keylime/pull/8) in [utkarsh2102/python-keylime](https://github.com/utkarsh2102/python-keylime)
+4. ❗️ Closed issue [#6](https://github.com/utkarsh2102/python-keylime/issues/6) in [utkarsh2102/python-keylime](https://github.com/utkarsh2102/python-keylime)
 5. 🗣 Commented on [#7](https://github.com/utkarsh2102/python-keylime/issues/7) in [utkarsh2102/python-keylime](https://github.com/utkarsh2102/python-keylime)
 <!--END_SECTION:activity-->
 
