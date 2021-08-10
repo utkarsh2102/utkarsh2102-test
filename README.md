@@ -35,11 +35,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#7](https://github.com/utkarsh2102/python-keylime/issues/7) in [utkarsh2102/python-keylime](https://github.com/utkarsh2102/python-keylime)
-2. ❗️ Opened issue [#6](https://github.com/utkarsh2102/python-keylime/issues/6) in [utkarsh2102/python-keylime](https://github.com/utkarsh2102/python-keylime)
-3. ❗️ Opened issue [#1168](https://github.com/nschloe/meshio/issues/1168) in [nschloe/meshio](https://github.com/nschloe/meshio)
-4. 🎉 Merged PR [#25](https://github.com/utkarsh2102/diaspora/pull/25) in [utkarsh2102/diaspora](https://github.com/utkarsh2102/diaspora)
-5. 🎉 Merged PR [#2](https://github.com/utkarsh2102/recipe_hunter/pull/2) in [utkarsh2102/recipe_hunter](https://github.com/utkarsh2102/recipe_hunter)
+1. 🗣 Commented on [#7](https://github.com/utkarsh2102/python-keylime/issues/7) in [utkarsh2102/python-keylime](https://github.com/utkarsh2102/python-keylime)
+2. ❗️ Opened issue [#7](https://github.com/utkarsh2102/python-keylime/issues/7) in [utkarsh2102/python-keylime](https://github.com/utkarsh2102/python-keylime)
+3. ❗️ Opened issue [#6](https://github.com/utkarsh2102/python-keylime/issues/6) in [utkarsh2102/python-keylime](https://github.com/utkarsh2102/python-keylime)
+4. ❗️ Opened issue [#1168](https://github.com/nschloe/meshio/issues/1168) in [nschloe/meshio](https://github.com/nschloe/meshio)
+5. 🎉 Merged PR [#25](https://github.com/utkarsh2102/diaspora/pull/25) in [utkarsh2102/diaspora](https://github.com/utkarsh2102/diaspora)
 <!--END_SECTION:activity-->
 
 ---
