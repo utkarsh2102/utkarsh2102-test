@@ -35,10 +35,10 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#26](https://github.com/canonical/ubuntu-maintainers-handbook/pull/26) in [canonical/ubuntu-maintainers-handbook](https://github.com/canonical/ubuntu-maintainers-handbook)
-2. 🗣 Commented on [#26](https://github.com/canonical/ubuntu-maintainers-handbook/issues/26) in [canonical/ubuntu-maintainers-handbook](https://github.com/canonical/ubuntu-maintainers-handbook)
-3. 🗣 Commented on [#11](https://github.com/utkarsh2102/python-keylime/issues/11) in [utkarsh2102/python-keylime](https://github.com/utkarsh2102/python-keylime)
-4. 🗣 Commented on [#1168](https://github.com/nschloe/meshio/issues/1168) in [nschloe/meshio](https://github.com/nschloe/meshio)
+1. 🎉 Merged PR [#27](https://github.com/canonical/ubuntu-maintainers-handbook/pull/27) in [canonical/ubuntu-maintainers-handbook](https://github.com/canonical/ubuntu-maintainers-handbook)
+2. 🎉 Merged PR [#26](https://github.com/canonical/ubuntu-maintainers-handbook/pull/26) in [canonical/ubuntu-maintainers-handbook](https://github.com/canonical/ubuntu-maintainers-handbook)
+3. 🗣 Commented on [#26](https://github.com/canonical/ubuntu-maintainers-handbook/issues/26) in [canonical/ubuntu-maintainers-handbook](https://github.com/canonical/ubuntu-maintainers-handbook)
+4. 🗣 Commented on [#11](https://github.com/utkarsh2102/python-keylime/issues/11) in [utkarsh2102/python-keylime](https://github.com/utkarsh2102/python-keylime)
 5. 🗣 Commented on [#1168](https://github.com/nschloe/meshio/issues/1168) in [nschloe/meshio](https://github.com/nschloe/meshio)
 <!--END_SECTION:activity-->
 
