@@ -47,11 +47,11 @@
 ### :books: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [FOSS Activites in July 2021](https://utkarsh2102.com/posts/foss-in-july-21/)
 - [FOSS Activites in June 2021](https://utkarsh2102.com/posts/foss-in-june-21/)
 - [FOSS Activites in May 2021](https://utkarsh2102.com/posts/foss-in-may-21/)
 - [Hello, Canonical! o/](https://utkarsh2102.com/posts/hello-canonical/)
 - [FOSS Activites in April 2021](https://utkarsh2102.com/posts/foss-in-april-21/)
-- [FOSS Activites in March 2021](https://utkarsh2102.com/posts/foss-in-march-21/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
