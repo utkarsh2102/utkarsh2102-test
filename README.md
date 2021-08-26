@@ -35,11 +35,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/utkarsh2102/gce-compute-image-packages/pull/3) in [utkarsh2102/gce-compute-image-packages](https://github.com/utkarsh2102/gce-compute-image-packages)
-2. 💪 Opened PR [#2](https://github.com/utkarsh2102/gce-compute-image-packages/pull/2) in [utkarsh2102/gce-compute-image-packages](https://github.com/utkarsh2102/gce-compute-image-packages)
-3. 💪 Opened PR [#1](https://github.com/utkarsh2102/gce-compute-image-packages/pull/1) in [utkarsh2102/gce-compute-image-packages](https://github.com/utkarsh2102/gce-compute-image-packages)
-4. 🗣 Commented on [#13](https://github.com/utkarsh2102/python-keylime/issues/13) in [utkarsh2102/python-keylime](https://github.com/utkarsh2102/python-keylime)
-5. ❌ Closed PR [#13](https://github.com/utkarsh2102/python-keylime/pull/13) in [utkarsh2102/python-keylime](https://github.com/utkarsh2102/python-keylime)
+1. 🎉 Merged PR [#2](https://github.com/utkarsh2102/gce-compute-image-packages/pull/2) in [utkarsh2102/gce-compute-image-packages](https://github.com/utkarsh2102/gce-compute-image-packages)
+2. 🎉 Merged PR [#3](https://github.com/utkarsh2102/gce-compute-image-packages/pull/3) in [utkarsh2102/gce-compute-image-packages](https://github.com/utkarsh2102/gce-compute-image-packages)
+3. 💪 Opened PR [#3](https://github.com/utkarsh2102/gce-compute-image-packages/pull/3) in [utkarsh2102/gce-compute-image-packages](https://github.com/utkarsh2102/gce-compute-image-packages)
+4. 💪 Opened PR [#2](https://github.com/utkarsh2102/gce-compute-image-packages/pull/2) in [utkarsh2102/gce-compute-image-packages](https://github.com/utkarsh2102/gce-compute-image-packages)
+5. 💪 Opened PR [#1](https://github.com/utkarsh2102/gce-compute-image-packages/pull/1) in [utkarsh2102/gce-compute-image-packages](https://github.com/utkarsh2102/gce-compute-image-packages)
 <!--END_SECTION:activity-->
 
 ---
