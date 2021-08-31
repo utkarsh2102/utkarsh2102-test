@@ -35,11 +35,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#19](https://github.com/utkarsh2102/python-keylime/issues/19) in [utkarsh2102/python-keylime](https://github.com/utkarsh2102/python-keylime)
-2. 🗣 Commented on [#54](https://github.com/ruby/irb/issues/54) in [ruby/irb](https://github.com/ruby/irb)
-3. 🗣 Commented on [#5](https://github.com/utkarsh2102/python-keylime/issues/5) in [utkarsh2102/python-keylime](https://github.com/utkarsh2102/python-keylime)
-4. 🗣 Commented on [#5](https://github.com/utkarsh2102/python-keylime/issues/5) in [utkarsh2102/python-keylime](https://github.com/utkarsh2102/python-keylime)
-5. ❗️ Closed issue [#3](https://github.com/utkarsh2102/python-keylime/issues/3) in [utkarsh2102/python-keylime](https://github.com/utkarsh2102/python-keylime)
+1. 🎉 Merged PR [#19](https://github.com/utkarsh2102/python-keylime/pull/19) in [utkarsh2102/python-keylime](https://github.com/utkarsh2102/python-keylime)
+2. ❌ Closed PR [#18](https://github.com/utkarsh2102/python-keylime/pull/18) in [utkarsh2102/python-keylime](https://github.com/utkarsh2102/python-keylime)
+3. 🗣 Commented on [#18](https://github.com/utkarsh2102/python-keylime/issues/18) in [utkarsh2102/python-keylime](https://github.com/utkarsh2102/python-keylime)
+4. 🗣 Commented on [#19](https://github.com/utkarsh2102/python-keylime/issues/19) in [utkarsh2102/python-keylime](https://github.com/utkarsh2102/python-keylime)
+5. 🗣 Commented on [#54](https://github.com/ruby/irb/issues/54) in [ruby/irb](https://github.com/ruby/irb)
 <!--END_SECTION:activity-->
 
 ---
