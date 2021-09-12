@@ -35,11 +35,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/utkarsh2102/ruby-excon/pull/9) in [utkarsh2102/ruby-excon](https://github.com/utkarsh2102/ruby-excon)
-2. 🎉 Merged PR [#3](https://github.com/utkarsh2102/recipe_hunter/pull/3) in [utkarsh2102/recipe_hunter](https://github.com/utkarsh2102/recipe_hunter)
-3. 🎉 Merged PR [#51](https://github.com/utkarsh2102/ruby-rails/pull/51) in [utkarsh2102/ruby-rails](https://github.com/utkarsh2102/ruby-rails)
-4. 🎉 Merged PR [#26](https://github.com/utkarsh2102/python-keylime/pull/26) in [utkarsh2102/python-keylime](https://github.com/utkarsh2102/python-keylime)
-5. ❗️ Closed issue [#24](https://github.com/utkarsh2102/python-keylime/issues/24) in [utkarsh2102/python-keylime](https://github.com/utkarsh2102/python-keylime)
+1. 🎉 Merged PR [#4](https://github.com/utkarsh2102/google-osconfig-agent/pull/4) in [utkarsh2102/google-osconfig-agent](https://github.com/utkarsh2102/google-osconfig-agent)
+2. 🎉 Merged PR [#9](https://github.com/utkarsh2102/ruby-excon/pull/9) in [utkarsh2102/ruby-excon](https://github.com/utkarsh2102/ruby-excon)
+3. 🎉 Merged PR [#3](https://github.com/utkarsh2102/recipe_hunter/pull/3) in [utkarsh2102/recipe_hunter](https://github.com/utkarsh2102/recipe_hunter)
+4. 🎉 Merged PR [#51](https://github.com/utkarsh2102/ruby-rails/pull/51) in [utkarsh2102/ruby-rails](https://github.com/utkarsh2102/ruby-rails)
+5. 🎉 Merged PR [#26](https://github.com/utkarsh2102/python-keylime/pull/26) in [utkarsh2102/python-keylime](https://github.com/utkarsh2102/python-keylime)
 <!--END_SECTION:activity-->
 
 ---
