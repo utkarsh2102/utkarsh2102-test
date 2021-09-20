@@ -35,11 +35,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#52](https://github.com/utkarsh2102/ruby-rails/pull/52) in [utkarsh2102/ruby-rails](https://github.com/utkarsh2102/ruby-rails)
-2. 🎉 Merged PR [#53](https://github.com/utkarsh2102/ruby-rails/pull/53) in [utkarsh2102/ruby-rails](https://github.com/utkarsh2102/ruby-rails)
-3. 🎉 Merged PR [#50](https://github.com/utkarsh2102/ruby-rails/pull/50) in [utkarsh2102/ruby-rails](https://github.com/utkarsh2102/ruby-rails)
-4. 🎉 Merged PR [#23](https://github.com/utkarsh2102/python-keylime/pull/23) in [utkarsh2102/python-keylime](https://github.com/utkarsh2102/python-keylime)
-5. 🗣 Commented on [#23](https://github.com/utkarsh2102/python-keylime/issues/23) in [utkarsh2102/python-keylime](https://github.com/utkarsh2102/python-keylime)
+1. 🎉 Merged PR [#29](https://github.com/canonical/ubuntu-server-triage/pull/29) in [canonical/ubuntu-server-triage](https://github.com/canonical/ubuntu-server-triage)
+2. 🎉 Merged PR [#52](https://github.com/utkarsh2102/ruby-rails/pull/52) in [utkarsh2102/ruby-rails](https://github.com/utkarsh2102/ruby-rails)
+3. 🎉 Merged PR [#53](https://github.com/utkarsh2102/ruby-rails/pull/53) in [utkarsh2102/ruby-rails](https://github.com/utkarsh2102/ruby-rails)
+4. 🎉 Merged PR [#50](https://github.com/utkarsh2102/ruby-rails/pull/50) in [utkarsh2102/ruby-rails](https://github.com/utkarsh2102/ruby-rails)
+5. 🎉 Merged PR [#23](https://github.com/utkarsh2102/python-keylime/pull/23) in [utkarsh2102/python-keylime](https://github.com/utkarsh2102/python-keylime)
 <!--END_SECTION:activity-->
 
 ---
