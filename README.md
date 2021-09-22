@@ -35,11 +35,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#41](https://github.com/utkarsh2102/rubocop-packaging/pull/41) in [utkarsh2102/rubocop-packaging](https://github.com/utkarsh2102/rubocop-packaging)
-2. 🗣 Commented on [#1627](https://github.com/jhy/jsoup/issues/1627) in [jhy/jsoup](https://github.com/jhy/jsoup)
-3. 🎉 Merged PR [#40](https://github.com/utkarsh2102/rubocop-packaging/pull/40) in [utkarsh2102/rubocop-packaging](https://github.com/utkarsh2102/rubocop-packaging)
-4. 🎉 Merged PR [#29](https://github.com/canonical/ubuntu-server-triage/pull/29) in [canonical/ubuntu-server-triage](https://github.com/canonical/ubuntu-server-triage)
-5. 🎉 Merged PR [#52](https://github.com/utkarsh2102/ruby-rails/pull/52) in [utkarsh2102/ruby-rails](https://github.com/utkarsh2102/ruby-rails)
+1. 🎉 Merged PR [#7](https://github.com/rubocop/packaging-style-guide/pull/7) in [rubocop/packaging-style-guide](https://github.com/rubocop/packaging-style-guide)
+2. 🎉 Merged PR [#41](https://github.com/utkarsh2102/rubocop-packaging/pull/41) in [utkarsh2102/rubocop-packaging](https://github.com/utkarsh2102/rubocop-packaging)
+3. 🗣 Commented on [#1627](https://github.com/jhy/jsoup/issues/1627) in [jhy/jsoup](https://github.com/jhy/jsoup)
+4. 🎉 Merged PR [#40](https://github.com/utkarsh2102/rubocop-packaging/pull/40) in [utkarsh2102/rubocop-packaging](https://github.com/utkarsh2102/rubocop-packaging)
+5. 🎉 Merged PR [#29](https://github.com/canonical/ubuntu-server-triage/pull/29) in [canonical/ubuntu-server-triage](https://github.com/canonical/ubuntu-server-triage)
 <!--END_SECTION:activity-->
 
 ---
