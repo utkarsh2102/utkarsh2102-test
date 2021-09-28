@@ -35,11 +35,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#41](https://github.com/utkarsh2102/ruby-rails/pull/41) in [utkarsh2102/ruby-rails](https://github.com/utkarsh2102/ruby-rails)
-2. 🎉 Merged PR [#46](https://github.com/utkarsh2102/ruby-rails/pull/46) in [utkarsh2102/ruby-rails](https://github.com/utkarsh2102/ruby-rails)
-3. 🎉 Merged PR [#55](https://github.com/utkarsh2102/ruby-rails/pull/55) in [utkarsh2102/ruby-rails](https://github.com/utkarsh2102/ruby-rails)
-4. 🎉 Merged PR [#7](https://github.com/rubocop/packaging-style-guide/pull/7) in [rubocop/packaging-style-guide](https://github.com/rubocop/packaging-style-guide)
-5. 🎉 Merged PR [#41](https://github.com/utkarsh2102/rubocop-packaging/pull/41) in [utkarsh2102/rubocop-packaging](https://github.com/utkarsh2102/rubocop-packaging)
+1. 🎉 Merged PR [#56](https://github.com/utkarsh2102/ruby-rails/pull/56) in [utkarsh2102/ruby-rails](https://github.com/utkarsh2102/ruby-rails)
+2. 🎉 Merged PR [#45](https://github.com/utkarsh2102/ruby-rails/pull/45) in [utkarsh2102/ruby-rails](https://github.com/utkarsh2102/ruby-rails)
+3. 🎉 Merged PR [#4](https://github.com/utkarsh2102/recipe_hunter/pull/4) in [utkarsh2102/recipe_hunter](https://github.com/utkarsh2102/recipe_hunter)
+4. 🎉 Merged PR [#41](https://github.com/utkarsh2102/ruby-rails/pull/41) in [utkarsh2102/ruby-rails](https://github.com/utkarsh2102/ruby-rails)
+5. 🎉 Merged PR [#46](https://github.com/utkarsh2102/ruby-rails/pull/46) in [utkarsh2102/ruby-rails](https://github.com/utkarsh2102/ruby-rails)
 <!--END_SECTION:activity-->
 
 ---
