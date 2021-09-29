@@ -35,11 +35,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#29](https://github.com/utkarsh2102/python-keylime/issues/29) in [utkarsh2102/python-keylime](https://github.com/utkarsh2102/python-keylime)
-2. 🎉 Merged PR [#56](https://github.com/utkarsh2102/ruby-rails/pull/56) in [utkarsh2102/ruby-rails](https://github.com/utkarsh2102/ruby-rails)
-3. 🎉 Merged PR [#45](https://github.com/utkarsh2102/ruby-rails/pull/45) in [utkarsh2102/ruby-rails](https://github.com/utkarsh2102/ruby-rails)
-4. 🎉 Merged PR [#4](https://github.com/utkarsh2102/recipe_hunter/pull/4) in [utkarsh2102/recipe_hunter](https://github.com/utkarsh2102/recipe_hunter)
-5. 🎉 Merged PR [#41](https://github.com/utkarsh2102/ruby-rails/pull/41) in [utkarsh2102/ruby-rails](https://github.com/utkarsh2102/ruby-rails)
+1. ❗️ Opened issue [#30](https://github.com/utkarsh2102/python-keylime/issues/30) in [utkarsh2102/python-keylime](https://github.com/utkarsh2102/python-keylime)
+2. ❗️ Opened issue [#29](https://github.com/utkarsh2102/python-keylime/issues/29) in [utkarsh2102/python-keylime](https://github.com/utkarsh2102/python-keylime)
+3. 🎉 Merged PR [#56](https://github.com/utkarsh2102/ruby-rails/pull/56) in [utkarsh2102/ruby-rails](https://github.com/utkarsh2102/ruby-rails)
+4. 🎉 Merged PR [#45](https://github.com/utkarsh2102/ruby-rails/pull/45) in [utkarsh2102/ruby-rails](https://github.com/utkarsh2102/ruby-rails)
+5. 🎉 Merged PR [#4](https://github.com/utkarsh2102/recipe_hunter/pull/4) in [utkarsh2102/recipe_hunter](https://github.com/utkarsh2102/recipe_hunter)
 <!--END_SECTION:activity-->
 
 ---
