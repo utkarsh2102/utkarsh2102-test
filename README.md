@@ -35,11 +35,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#35](https://github.com/utkarsh2102/python-keylime/pull/35) in [utkarsh2102/python-keylime](https://github.com/utkarsh2102/python-keylime)
-2. ❗️ Opened issue [#34](https://github.com/utkarsh2102/python-keylime/issues/34) in [utkarsh2102/python-keylime](https://github.com/utkarsh2102/python-keylime)
-3. 🎉 Merged PR [#34](https://github.com/canonical/ubuntu-maintainers-handbook/pull/34) in [canonical/ubuntu-maintainers-handbook](https://github.com/canonical/ubuntu-maintainers-handbook)
-4. 🎉 Merged PR [#6](https://github.com/utkarsh2102/google-compute-engine-oslogin/pull/6) in [utkarsh2102/google-compute-engine-oslogin](https://github.com/utkarsh2102/google-compute-engine-oslogin)
-5. 🎉 Merged PR [#5](https://github.com/utkarsh2102/google-compute-engine-oslogin/pull/5) in [utkarsh2102/google-compute-engine-oslogin](https://github.com/utkarsh2102/google-compute-engine-oslogin)
+1. 🎉 Merged PR [#35](https://github.com/utkarsh2102/python-keylime/pull/35) in [utkarsh2102/python-keylime](https://github.com/utkarsh2102/python-keylime)
+2. ❗️ Closed issue [#34](https://github.com/utkarsh2102/python-keylime/issues/34) in [utkarsh2102/python-keylime](https://github.com/utkarsh2102/python-keylime)
+3. 💪 Opened PR [#35](https://github.com/utkarsh2102/python-keylime/pull/35) in [utkarsh2102/python-keylime](https://github.com/utkarsh2102/python-keylime)
+4. ❗️ Opened issue [#34](https://github.com/utkarsh2102/python-keylime/issues/34) in [utkarsh2102/python-keylime](https://github.com/utkarsh2102/python-keylime)
+5. 🎉 Merged PR [#34](https://github.com/canonical/ubuntu-maintainers-handbook/pull/34) in [canonical/ubuntu-maintainers-handbook](https://github.com/canonical/ubuntu-maintainers-handbook)
 <!--END_SECTION:activity-->
 
 ---
