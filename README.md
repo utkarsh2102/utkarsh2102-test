@@ -35,11 +35,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#34](https://github.com/canonical/ubuntu-maintainers-handbook/pull/34) in [canonical/ubuntu-maintainers-handbook](https://github.com/canonical/ubuntu-maintainers-handbook)
-2. 🎉 Merged PR [#6](https://github.com/utkarsh2102/google-compute-engine-oslogin/pull/6) in [utkarsh2102/google-compute-engine-oslogin](https://github.com/utkarsh2102/google-compute-engine-oslogin)
-3. 🎉 Merged PR [#5](https://github.com/utkarsh2102/google-compute-engine-oslogin/pull/5) in [utkarsh2102/google-compute-engine-oslogin](https://github.com/utkarsh2102/google-compute-engine-oslogin)
-4. 🎉 Merged PR [#4](https://github.com/utkarsh2102/google-compute-engine-oslogin/pull/4) in [utkarsh2102/google-compute-engine-oslogin](https://github.com/utkarsh2102/google-compute-engine-oslogin)
-5. 💪 Opened PR [#6](https://github.com/utkarsh2102/google-compute-engine-oslogin/pull/6) in [utkarsh2102/google-compute-engine-oslogin](https://github.com/utkarsh2102/google-compute-engine-oslogin)
+1. ❗️ Opened issue [#34](https://github.com/utkarsh2102/python-keylime/issues/34) in [utkarsh2102/python-keylime](https://github.com/utkarsh2102/python-keylime)
+2. 🎉 Merged PR [#34](https://github.com/canonical/ubuntu-maintainers-handbook/pull/34) in [canonical/ubuntu-maintainers-handbook](https://github.com/canonical/ubuntu-maintainers-handbook)
+3. 🎉 Merged PR [#6](https://github.com/utkarsh2102/google-compute-engine-oslogin/pull/6) in [utkarsh2102/google-compute-engine-oslogin](https://github.com/utkarsh2102/google-compute-engine-oslogin)
+4. 🎉 Merged PR [#5](https://github.com/utkarsh2102/google-compute-engine-oslogin/pull/5) in [utkarsh2102/google-compute-engine-oslogin](https://github.com/utkarsh2102/google-compute-engine-oslogin)
+5. 🎉 Merged PR [#4](https://github.com/utkarsh2102/google-compute-engine-oslogin/pull/4) in [utkarsh2102/google-compute-engine-oslogin](https://github.com/utkarsh2102/google-compute-engine-oslogin)
 <!--END_SECTION:activity-->
 
 ---
