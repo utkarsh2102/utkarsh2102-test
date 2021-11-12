@@ -35,11 +35,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#31](https://github.com/canonical/ubuntu-server-triage/pull/31) in [canonical/ubuntu-server-triage](https://github.com/canonical/ubuntu-server-triage)
-2. 🎉 Merged PR [#35](https://github.com/canonical/ubuntu-maintainers-handbook/pull/35) in [canonical/ubuntu-maintainers-handbook](https://github.com/canonical/ubuntu-maintainers-handbook)
-3. 🗣 Commented on [#35](https://github.com/canonical/ubuntu-maintainers-handbook/issues/35) in [canonical/ubuntu-maintainers-handbook](https://github.com/canonical/ubuntu-maintainers-handbook)
-4. 🎉 Merged PR [#30](https://github.com/canonical/ubuntu-server-triage/pull/30) in [canonical/ubuntu-server-triage](https://github.com/canonical/ubuntu-server-triage)
-5. 🎉 Merged PR [#36](https://github.com/utkarsh2102/python-keylime/pull/36) in [utkarsh2102/python-keylime](https://github.com/utkarsh2102/python-keylime)
+1. 🎉 Merged PR [#36](https://github.com/canonical/ubuntu-maintainers-handbook/pull/36) in [canonical/ubuntu-maintainers-handbook](https://github.com/canonical/ubuntu-maintainers-handbook)
+2. 🎉 Merged PR [#31](https://github.com/canonical/ubuntu-server-triage/pull/31) in [canonical/ubuntu-server-triage](https://github.com/canonical/ubuntu-server-triage)
+3. 🎉 Merged PR [#35](https://github.com/canonical/ubuntu-maintainers-handbook/pull/35) in [canonical/ubuntu-maintainers-handbook](https://github.com/canonical/ubuntu-maintainers-handbook)
+4. 🗣 Commented on [#35](https://github.com/canonical/ubuntu-maintainers-handbook/issues/35) in [canonical/ubuntu-maintainers-handbook](https://github.com/canonical/ubuntu-maintainers-handbook)
+5. 🎉 Merged PR [#30](https://github.com/canonical/ubuntu-server-triage/pull/30) in [canonical/ubuntu-server-triage](https://github.com/canonical/ubuntu-server-triage)
 <!--END_SECTION:activity-->
 
 ---
