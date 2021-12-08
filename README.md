@@ -35,11 +35,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#422](https://github.com/fog/fog-google/issues/422) in [fog/fog-google](https://github.com/fog/fog-google)
-2. 🎉 Merged PR [#36](https://github.com/canonical/ubuntu-maintainers-handbook/pull/36) in [canonical/ubuntu-maintainers-handbook](https://github.com/canonical/ubuntu-maintainers-handbook)
-3. 🎉 Merged PR [#31](https://github.com/canonical/ubuntu-server-triage/pull/31) in [canonical/ubuntu-server-triage](https://github.com/canonical/ubuntu-server-triage)
-4. 🎉 Merged PR [#35](https://github.com/canonical/ubuntu-maintainers-handbook/pull/35) in [canonical/ubuntu-maintainers-handbook](https://github.com/canonical/ubuntu-maintainers-handbook)
-5. 🗣 Commented on [#35](https://github.com/canonical/ubuntu-maintainers-handbook/issues/35) in [canonical/ubuntu-maintainers-handbook](https://github.com/canonical/ubuntu-maintainers-handbook)
+1. 🎉 Merged PR [#7](https://github.com/utkarsh2102/gce-compute-image-packages/pull/7) in [utkarsh2102/gce-compute-image-packages](https://github.com/utkarsh2102/gce-compute-image-packages)
+2. 💪 Opened PR [#7](https://github.com/utkarsh2102/gce-compute-image-packages/pull/7) in [utkarsh2102/gce-compute-image-packages](https://github.com/utkarsh2102/gce-compute-image-packages)
+3. 💪 Opened PR [#6](https://github.com/utkarsh2102/gce-compute-image-packages/pull/6) in [utkarsh2102/gce-compute-image-packages](https://github.com/utkarsh2102/gce-compute-image-packages)
+4. 💪 Opened PR [#5](https://github.com/utkarsh2102/gce-compute-image-packages/pull/5) in [utkarsh2102/gce-compute-image-packages](https://github.com/utkarsh2102/gce-compute-image-packages)
+5. 💪 Opened PR [#4](https://github.com/utkarsh2102/gce-compute-image-packages/pull/4) in [utkarsh2102/gce-compute-image-packages](https://github.com/utkarsh2102/gce-compute-image-packages)
 <!--END_SECTION:activity-->
 
 ---
