@@ -37,9 +37,9 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#279](https://github.com/nette/latte/issues/279) in [nette/latte](https://github.com/nette/latte)
 2. 🗣 Commented on [#279](https://github.com/nette/latte/issues/279) in [nette/latte](https://github.com/nette/latte)
-3. 🗣 Commented on [#55](https://github.com/nov/openid_connect/issues/55) in [nov/openid_connect](https://github.com/nov/openid_connect)
-4. 🎉 Merged PR [#4](https://github.com/utkarsh2102/gce-compute-image-packages/pull/4) in [utkarsh2102/gce-compute-image-packages](https://github.com/utkarsh2102/gce-compute-image-packages)
-5. 🎉 Merged PR [#5](https://github.com/utkarsh2102/gce-compute-image-packages/pull/5) in [utkarsh2102/gce-compute-image-packages](https://github.com/utkarsh2102/gce-compute-image-packages)
+3. 🗣 Commented on [#279](https://github.com/nette/latte/issues/279) in [nette/latte](https://github.com/nette/latte)
+4. 🗣 Commented on [#55](https://github.com/nov/openid_connect/issues/55) in [nov/openid_connect](https://github.com/nov/openid_connect)
+5. 🎉 Merged PR [#4](https://github.com/utkarsh2102/gce-compute-image-packages/pull/4) in [utkarsh2102/gce-compute-image-packages](https://github.com/utkarsh2102/gce-compute-image-packages)
 <!--END_SECTION:activity-->
 
 ---
