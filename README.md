@@ -35,11 +35,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#38](https://github.com/utkarsh2102/python-keylime/pull/38) in [utkarsh2102/python-keylime](https://github.com/utkarsh2102/python-keylime)
-2. 🗣 Commented on [#279](https://github.com/nette/latte/issues/279) in [nette/latte](https://github.com/nette/latte)
+1. ❗️ Opened issue [#820](https://github.com/keylime/keylime/issues/820) in [keylime/keylime](https://github.com/keylime/keylime)
+2. 🎉 Merged PR [#38](https://github.com/utkarsh2102/python-keylime/pull/38) in [utkarsh2102/python-keylime](https://github.com/utkarsh2102/python-keylime)
 3. 🗣 Commented on [#279](https://github.com/nette/latte/issues/279) in [nette/latte](https://github.com/nette/latte)
 4. 🗣 Commented on [#279](https://github.com/nette/latte/issues/279) in [nette/latte](https://github.com/nette/latte)
-5. 🗣 Commented on [#55](https://github.com/nov/openid_connect/issues/55) in [nov/openid_connect](https://github.com/nov/openid_connect)
+5. 🗣 Commented on [#279](https://github.com/nette/latte/issues/279) in [nette/latte](https://github.com/nette/latte)
 <!--END_SECTION:activity-->
 
 ---
