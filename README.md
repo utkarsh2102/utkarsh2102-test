@@ -35,11 +35,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#137](https://github.com/grosser/fast_gettext/issues/137) in [grosser/fast_gettext](https://github.com/grosser/fast_gettext)
+1. ❗️ Opened issue [#228](https://github.com/doctrine/persistence/issues/228) in [doctrine/persistence](https://github.com/doctrine/persistence)
 2. 🗣 Commented on [#137](https://github.com/grosser/fast_gettext/issues/137) in [grosser/fast_gettext](https://github.com/grosser/fast_gettext)
 3. 🗣 Commented on [#137](https://github.com/grosser/fast_gettext/issues/137) in [grosser/fast_gettext](https://github.com/grosser/fast_gettext)
-4. 💪 Opened PR [#137](https://github.com/grosser/fast_gettext/pull/137) in [grosser/fast_gettext](https://github.com/grosser/fast_gettext)
-5. 💪 Opened PR [#136](https://github.com/grosser/fast_gettext/pull/136) in [grosser/fast_gettext](https://github.com/grosser/fast_gettext)
+4. 🗣 Commented on [#137](https://github.com/grosser/fast_gettext/issues/137) in [grosser/fast_gettext](https://github.com/grosser/fast_gettext)
+5. 💪 Opened PR [#137](https://github.com/grosser/fast_gettext/pull/137) in [grosser/fast_gettext](https://github.com/grosser/fast_gettext)
 <!--END_SECTION:activity-->
 
 ---
