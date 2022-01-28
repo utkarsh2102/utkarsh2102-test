@@ -35,11 +35,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#40](https://github.com/utkarsh2102/python-keylime/issues/40) in [utkarsh2102/python-keylime](https://github.com/utkarsh2102/python-keylime)
-2. 🎉 Merged PR [#40](https://github.com/utkarsh2102/python-keylime/pull/40) in [utkarsh2102/python-keylime](https://github.com/utkarsh2102/python-keylime)
-3. 🎉 Merged PR [#39](https://github.com/canonical/ubuntu-maintainers-handbook/pull/39) in [canonical/ubuntu-maintainers-handbook](https://github.com/canonical/ubuntu-maintainers-handbook)
-4. 🗣 Commented on [#422](https://github.com/fog/fog-google/issues/422) in [fog/fog-google](https://github.com/fog/fog-google)
-5. ❗️ Opened issue [#103](https://github.com/sagemath/sage/issues/103) in [sagemath/sage](https://github.com/sagemath/sage)
+1. 🗣 Commented on [#1714](https://github.com/openresty/lua-nginx-module/issues/1714) in [openresty/lua-nginx-module](https://github.com/openresty/lua-nginx-module)
+2. 🗣 Commented on [#40](https://github.com/utkarsh2102/python-keylime/issues/40) in [utkarsh2102/python-keylime](https://github.com/utkarsh2102/python-keylime)
+3. 🎉 Merged PR [#40](https://github.com/utkarsh2102/python-keylime/pull/40) in [utkarsh2102/python-keylime](https://github.com/utkarsh2102/python-keylime)
+4. 🎉 Merged PR [#39](https://github.com/canonical/ubuntu-maintainers-handbook/pull/39) in [canonical/ubuntu-maintainers-handbook](https://github.com/canonical/ubuntu-maintainers-handbook)
+5. 🗣 Commented on [#422](https://github.com/fog/fog-google/issues/422) in [fog/fog-google](https://github.com/fog/fog-google)
 <!--END_SECTION:activity-->
 
 ---
