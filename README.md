@@ -36,10 +36,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#41](https://github.com/utkarsh2102/python-keylime/issues/41) in [utkarsh2102/python-keylime](https://github.com/utkarsh2102/python-keylime)
-2. 🗣 Commented on [#39](https://github.com/utkarsh2102/python-keylime/issues/39) in [utkarsh2102/python-keylime](https://github.com/utkarsh2102/python-keylime)
-3. 🎉 Merged PR [#39](https://github.com/utkarsh2102/python-keylime/pull/39) in [utkarsh2102/python-keylime](https://github.com/utkarsh2102/python-keylime)
-4. 🗣 Commented on [#1714](https://github.com/openresty/lua-nginx-module/issues/1714) in [openresty/lua-nginx-module](https://github.com/openresty/lua-nginx-module)
-5. 🗣 Commented on [#40](https://github.com/utkarsh2102/python-keylime/issues/40) in [utkarsh2102/python-keylime](https://github.com/utkarsh2102/python-keylime)
+2. 🗣 Commented on [#41](https://github.com/utkarsh2102/python-keylime/issues/41) in [utkarsh2102/python-keylime](https://github.com/utkarsh2102/python-keylime)
+3. 🗣 Commented on [#39](https://github.com/utkarsh2102/python-keylime/issues/39) in [utkarsh2102/python-keylime](https://github.com/utkarsh2102/python-keylime)
+4. 🎉 Merged PR [#39](https://github.com/utkarsh2102/python-keylime/pull/39) in [utkarsh2102/python-keylime](https://github.com/utkarsh2102/python-keylime)
+5. 🗣 Commented on [#1714](https://github.com/openresty/lua-nginx-module/issues/1714) in [openresty/lua-nginx-module](https://github.com/openresty/lua-nginx-module)
 <!--END_SECTION:activity-->
 
 ---
