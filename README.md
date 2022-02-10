@@ -35,10 +35,10 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#43](https://github.com/canonical/ubuntu-maintainers-handbook/issues/43) in [canonical/ubuntu-maintainers-handbook](https://github.com/canonical/ubuntu-maintainers-handbook)
-2. 🎉 Merged PR [#43](https://github.com/canonical/ubuntu-maintainers-handbook/pull/43) in [canonical/ubuntu-maintainers-handbook](https://github.com/canonical/ubuntu-maintainers-handbook)
-3. 🗣 Commented on [#105](https://github.com/crypto-browserify/pbkdf2/issues/105) in [crypto-browserify/pbkdf2](https://github.com/crypto-browserify/pbkdf2)
-4. 🗣 Commented on [#41](https://github.com/utkarsh2102/python-keylime/issues/41) in [utkarsh2102/python-keylime](https://github.com/utkarsh2102/python-keylime)
+1. 🎉 Merged PR [#42](https://github.com/canonical/ubuntu-maintainers-handbook/pull/42) in [canonical/ubuntu-maintainers-handbook](https://github.com/canonical/ubuntu-maintainers-handbook)
+2. 🗣 Commented on [#43](https://github.com/canonical/ubuntu-maintainers-handbook/issues/43) in [canonical/ubuntu-maintainers-handbook](https://github.com/canonical/ubuntu-maintainers-handbook)
+3. 🎉 Merged PR [#43](https://github.com/canonical/ubuntu-maintainers-handbook/pull/43) in [canonical/ubuntu-maintainers-handbook](https://github.com/canonical/ubuntu-maintainers-handbook)
+4. 🗣 Commented on [#105](https://github.com/crypto-browserify/pbkdf2/issues/105) in [crypto-browserify/pbkdf2](https://github.com/crypto-browserify/pbkdf2)
 5. 🗣 Commented on [#41](https://github.com/utkarsh2102/python-keylime/issues/41) in [utkarsh2102/python-keylime](https://github.com/utkarsh2102/python-keylime)
 <!--END_SECTION:activity-->
 
