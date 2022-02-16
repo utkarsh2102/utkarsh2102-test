@@ -35,11 +35,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#44](https://github.com/canonical/ubuntu-maintainers-handbook/pull/44) in [canonical/ubuntu-maintainers-handbook](https://github.com/canonical/ubuntu-maintainers-handbook)
-2. 🎉 Merged PR [#42](https://github.com/canonical/ubuntu-maintainers-handbook/pull/42) in [canonical/ubuntu-maintainers-handbook](https://github.com/canonical/ubuntu-maintainers-handbook)
-3. 🗣 Commented on [#43](https://github.com/canonical/ubuntu-maintainers-handbook/issues/43) in [canonical/ubuntu-maintainers-handbook](https://github.com/canonical/ubuntu-maintainers-handbook)
-4. 🎉 Merged PR [#43](https://github.com/canonical/ubuntu-maintainers-handbook/pull/43) in [canonical/ubuntu-maintainers-handbook](https://github.com/canonical/ubuntu-maintainers-handbook)
-5. 🗣 Commented on [#105](https://github.com/crypto-browserify/pbkdf2/issues/105) in [crypto-browserify/pbkdf2](https://github.com/crypto-browserify/pbkdf2)
+1. 🎉 Merged PR [#45](https://github.com/canonical/ubuntu-maintainers-handbook/pull/45) in [canonical/ubuntu-maintainers-handbook](https://github.com/canonical/ubuntu-maintainers-handbook)
+2. 🎉 Merged PR [#44](https://github.com/canonical/ubuntu-maintainers-handbook/pull/44) in [canonical/ubuntu-maintainers-handbook](https://github.com/canonical/ubuntu-maintainers-handbook)
+3. 🎉 Merged PR [#42](https://github.com/canonical/ubuntu-maintainers-handbook/pull/42) in [canonical/ubuntu-maintainers-handbook](https://github.com/canonical/ubuntu-maintainers-handbook)
+4. 🗣 Commented on [#43](https://github.com/canonical/ubuntu-maintainers-handbook/issues/43) in [canonical/ubuntu-maintainers-handbook](https://github.com/canonical/ubuntu-maintainers-handbook)
+5. 🎉 Merged PR [#43](https://github.com/canonical/ubuntu-maintainers-handbook/pull/43) in [canonical/ubuntu-maintainers-handbook](https://github.com/canonical/ubuntu-maintainers-handbook)
 <!--END_SECTION:activity-->
 
 ---
