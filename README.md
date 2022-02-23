@@ -35,11 +35,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1243](https://github.com/brianmario/mysql2/issues/1243) in [brianmario/mysql2](https://github.com/brianmario/mysql2)
-2. 🎉 Merged PR [#45](https://github.com/canonical/ubuntu-maintainers-handbook/pull/45) in [canonical/ubuntu-maintainers-handbook](https://github.com/canonical/ubuntu-maintainers-handbook)
-3. 🎉 Merged PR [#44](https://github.com/canonical/ubuntu-maintainers-handbook/pull/44) in [canonical/ubuntu-maintainers-handbook](https://github.com/canonical/ubuntu-maintainers-handbook)
-4. 🎉 Merged PR [#42](https://github.com/canonical/ubuntu-maintainers-handbook/pull/42) in [canonical/ubuntu-maintainers-handbook](https://github.com/canonical/ubuntu-maintainers-handbook)
-5. 🗣 Commented on [#43](https://github.com/canonical/ubuntu-maintainers-handbook/issues/43) in [canonical/ubuntu-maintainers-handbook](https://github.com/canonical/ubuntu-maintainers-handbook)
+1. 🗣 Commented on [#1243](https://github.com/brianmario/mysql2/issues/1243) in [brianmario/mysql2](https://github.com/brianmario/mysql2)
+2. ❗️ Opened issue [#1243](https://github.com/brianmario/mysql2/issues/1243) in [brianmario/mysql2](https://github.com/brianmario/mysql2)
+3. 🎉 Merged PR [#45](https://github.com/canonical/ubuntu-maintainers-handbook/pull/45) in [canonical/ubuntu-maintainers-handbook](https://github.com/canonical/ubuntu-maintainers-handbook)
+4. 🎉 Merged PR [#44](https://github.com/canonical/ubuntu-maintainers-handbook/pull/44) in [canonical/ubuntu-maintainers-handbook](https://github.com/canonical/ubuntu-maintainers-handbook)
+5. 🎉 Merged PR [#42](https://github.com/canonical/ubuntu-maintainers-handbook/pull/42) in [canonical/ubuntu-maintainers-handbook](https://github.com/canonical/ubuntu-maintainers-handbook)
 <!--END_SECTION:activity-->
 
 ---
