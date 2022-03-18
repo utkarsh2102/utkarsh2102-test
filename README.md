@@ -35,11 +35,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#42](https://github.com/utkarsh2102/rubocop-packaging/pull/42) in [utkarsh2102/rubocop-packaging](https://github.com/utkarsh2102/rubocop-packaging)
-2. ❗️ Opened issue [#6611](https://github.com/containerd/containerd/issues/6611) in [containerd/containerd](https://github.com/containerd/containerd)
-3. 🎉 Merged PR [#5](https://github.com/utkarsh2102/recipe_hunter/pull/5) in [utkarsh2102/recipe_hunter](https://github.com/utkarsh2102/recipe_hunter)
-4. 🗣 Commented on [#1243](https://github.com/brianmario/mysql2/issues/1243) in [brianmario/mysql2](https://github.com/brianmario/mysql2)
-5. ❗️ Opened issue [#1243](https://github.com/brianmario/mysql2/issues/1243) in [brianmario/mysql2](https://github.com/brianmario/mysql2)
+1. 🗣 Commented on [#42](https://github.com/utkarsh2102/python-keylime/issues/42) in [utkarsh2102/python-keylime](https://github.com/utkarsh2102/python-keylime)
+2. 🎉 Merged PR [#42](https://github.com/utkarsh2102/rubocop-packaging/pull/42) in [utkarsh2102/rubocop-packaging](https://github.com/utkarsh2102/rubocop-packaging)
+3. ❗️ Opened issue [#6611](https://github.com/containerd/containerd/issues/6611) in [containerd/containerd](https://github.com/containerd/containerd)
+4. 🎉 Merged PR [#5](https://github.com/utkarsh2102/recipe_hunter/pull/5) in [utkarsh2102/recipe_hunter](https://github.com/utkarsh2102/recipe_hunter)
+5. 🗣 Commented on [#1243](https://github.com/brianmario/mysql2/issues/1243) in [brianmario/mysql2](https://github.com/brianmario/mysql2)
 <!--END_SECTION:activity-->
 
 ---
