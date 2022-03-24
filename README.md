@@ -36,10 +36,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1](https://github.com/utkarsh2102/containerd-1.6/issues/1) in [utkarsh2102/containerd-1.6](https://github.com/utkarsh2102/containerd-1.6)
-2. ❗️ Opened issue [#1](https://github.com/utkarsh2102/containerd-1.6/issues/1) in [utkarsh2102/containerd-1.6](https://github.com/utkarsh2102/containerd-1.6)
-3. 🗣 Commented on [#42](https://github.com/utkarsh2102/python-keylime/issues/42) in [utkarsh2102/python-keylime](https://github.com/utkarsh2102/python-keylime)
-4. 🎉 Merged PR [#42](https://github.com/utkarsh2102/rubocop-packaging/pull/42) in [utkarsh2102/rubocop-packaging](https://github.com/utkarsh2102/rubocop-packaging)
-5. ❗️ Opened issue [#6611](https://github.com/containerd/containerd/issues/6611) in [containerd/containerd](https://github.com/containerd/containerd)
+2. 🗣 Commented on [#1](https://github.com/utkarsh2102/containerd-1.6/issues/1) in [utkarsh2102/containerd-1.6](https://github.com/utkarsh2102/containerd-1.6)
+3. ❗️ Opened issue [#1](https://github.com/utkarsh2102/containerd-1.6/issues/1) in [utkarsh2102/containerd-1.6](https://github.com/utkarsh2102/containerd-1.6)
+4. 🗣 Commented on [#42](https://github.com/utkarsh2102/python-keylime/issues/42) in [utkarsh2102/python-keylime](https://github.com/utkarsh2102/python-keylime)
+5. 🎉 Merged PR [#42](https://github.com/utkarsh2102/rubocop-packaging/pull/42) in [utkarsh2102/rubocop-packaging](https://github.com/utkarsh2102/rubocop-packaging)
 <!--END_SECTION:activity-->
 
 ---
