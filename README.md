@@ -35,7 +35,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/utkarsh2102/containerd-1.6/issues/1) in [utkarsh2102/containerd-1.6](https://github.com/utkarsh2102/containerd-1.6)
+1. ❗️ Closed issue [#1](https://github.com/utkarsh2102/containerd-1.6/issues/1) in [utkarsh2102/containerd-1.6](https://github.com/utkarsh2102/containerd-1.6)
 2. 🗣 Commented on [#1](https://github.com/utkarsh2102/containerd-1.6/issues/1) in [utkarsh2102/containerd-1.6](https://github.com/utkarsh2102/containerd-1.6)
 3. 🗣 Commented on [#1](https://github.com/utkarsh2102/containerd-1.6/issues/1) in [utkarsh2102/containerd-1.6](https://github.com/utkarsh2102/containerd-1.6)
 4. 🗣 Commented on [#1](https://github.com/utkarsh2102/containerd-1.6/issues/1) in [utkarsh2102/containerd-1.6](https://github.com/utkarsh2102/containerd-1.6)
