@@ -35,9 +35,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/utkarsh2102/containerd-1.6/issues/1) in [utkarsh2102/containerd-1.6](https://github.com/utkarsh2102/containerd-1.6)
-2. 🗣 Commented on [#1](https://github.com/utkarsh2102/containerd-1.6/issues/1) in [utkarsh2102/containerd-1.6](https://github.com/utkarsh2102/containerd-1.6)
-3. 🗣 Commented on [#1](https://github.com/utkarsh2102/containerd-1.6/issues/1) in [utkarsh2102/containerd-1.6](https://github.com/utkarsh2102/containerd-1.6)
+1. 🗣 Commented on [#49](https://github.com/canonical/ubuntu-maintainers-handbook/issues/49) in [canonical/ubuntu-maintainers-handbook](https://github.com/canonical/ubuntu-maintainers-handbook)
+2. 🎉 Merged PR [#51](https://github.com/canonical/ubuntu-maintainers-handbook/pull/51) in [canonical/ubuntu-maintainers-handbook](https://github.com/canonical/ubuntu-maintainers-handbook)
+3. ❗️ Closed issue [#1](https://github.com/utkarsh2102/containerd-1.6/issues/1) in [utkarsh2102/containerd-1.6](https://github.com/utkarsh2102/containerd-1.6)
 4. 🗣 Commented on [#1](https://github.com/utkarsh2102/containerd-1.6/issues/1) in [utkarsh2102/containerd-1.6](https://github.com/utkarsh2102/containerd-1.6)
 5. 🗣 Commented on [#1](https://github.com/utkarsh2102/containerd-1.6/issues/1) in [utkarsh2102/containerd-1.6](https://github.com/utkarsh2102/containerd-1.6)
 <!--END_SECTION:activity-->
