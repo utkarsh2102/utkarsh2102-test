@@ -35,11 +35,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#42](https://github.com/utkarsh2102/python-keylime/issues/42) in [utkarsh2102/python-keylime](https://github.com/utkarsh2102/python-keylime)
+1. ❗️ Opened issue [#823](https://github.com/quotient-im/Quaternion/issues/823) in [quotient-im/Quaternion](https://github.com/quotient-im/Quaternion)
 2. 🗣 Commented on [#42](https://github.com/utkarsh2102/python-keylime/issues/42) in [utkarsh2102/python-keylime](https://github.com/utkarsh2102/python-keylime)
-3. 🎉 Merged PR [#42](https://github.com/utkarsh2102/python-keylime/pull/42) in [utkarsh2102/python-keylime](https://github.com/utkarsh2102/python-keylime)
-4. 🗣 Commented on [#42](https://github.com/utkarsh2102/python-keylime/issues/42) in [utkarsh2102/python-keylime](https://github.com/utkarsh2102/python-keylime)
-5. 🗣 Commented on [#49](https://github.com/canonical/ubuntu-maintainers-handbook/issues/49) in [canonical/ubuntu-maintainers-handbook](https://github.com/canonical/ubuntu-maintainers-handbook)
+3. 🗣 Commented on [#42](https://github.com/utkarsh2102/python-keylime/issues/42) in [utkarsh2102/python-keylime](https://github.com/utkarsh2102/python-keylime)
+4. 🎉 Merged PR [#42](https://github.com/utkarsh2102/python-keylime/pull/42) in [utkarsh2102/python-keylime](https://github.com/utkarsh2102/python-keylime)
+5. 🗣 Commented on [#42](https://github.com/utkarsh2102/python-keylime/issues/42) in [utkarsh2102/python-keylime](https://github.com/utkarsh2102/python-keylime)
 <!--END_SECTION:activity-->
 
 ---
