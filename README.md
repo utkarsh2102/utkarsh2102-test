@@ -35,11 +35,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#371](https://github.com/keylime/rust-keylime/issues/371) in [keylime/rust-keylime](https://github.com/keylime/rust-keylime)
-2. 🎉 Merged PR [#52](https://github.com/canonical/ubuntu-maintainers-handbook/pull/52) in [canonical/ubuntu-maintainers-handbook](https://github.com/canonical/ubuntu-maintainers-handbook)
-3. 🗣 Commented on [#43](https://github.com/utkarsh2102/python-keylime/issues/43) in [utkarsh2102/python-keylime](https://github.com/utkarsh2102/python-keylime)
+1. 🗣 Commented on [#216](https://github.com/ckolivas/lrzip/issues/216) in [ckolivas/lrzip](https://github.com/ckolivas/lrzip)
+2. 🗣 Commented on [#371](https://github.com/keylime/rust-keylime/issues/371) in [keylime/rust-keylime](https://github.com/keylime/rust-keylime)
+3. 🎉 Merged PR [#52](https://github.com/canonical/ubuntu-maintainers-handbook/pull/52) in [canonical/ubuntu-maintainers-handbook](https://github.com/canonical/ubuntu-maintainers-handbook)
 4. 🗣 Commented on [#43](https://github.com/utkarsh2102/python-keylime/issues/43) in [utkarsh2102/python-keylime](https://github.com/utkarsh2102/python-keylime)
-5. 🎉 Merged PR [#43](https://github.com/utkarsh2102/python-keylime/pull/43) in [utkarsh2102/python-keylime](https://github.com/utkarsh2102/python-keylime)
+5. 🗣 Commented on [#43](https://github.com/utkarsh2102/python-keylime/issues/43) in [utkarsh2102/python-keylime](https://github.com/utkarsh2102/python-keylime)
 <!--END_SECTION:activity-->
 
 ---
