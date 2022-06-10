@@ -35,11 +35,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#54](https://github.com/canonical/ubuntu-maintainers-handbook/issues/54) in [canonical/ubuntu-maintainers-handbook](https://github.com/canonical/ubuntu-maintainers-handbook)
-2. 🗣 Commented on [#28](https://github.com/seattlerb/image_science/issues/28) in [seattlerb/image_science](https://github.com/seattlerb/image_science)
-3. 🗣 Commented on [#17523](https://github.com/phpmyadmin/phpmyadmin/issues/17523) in [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin)
-4. 🗣 Commented on [#216](https://github.com/ckolivas/lrzip/issues/216) in [ckolivas/lrzip](https://github.com/ckolivas/lrzip)
-5. 🗣 Commented on [#371](https://github.com/keylime/rust-keylime/issues/371) in [keylime/rust-keylime](https://github.com/keylime/rust-keylime)
+1. 💪 Opened PR [#11](https://github.com/utkarsh2102/gce-compute-image-packages/pull/11) in [utkarsh2102/gce-compute-image-packages](https://github.com/utkarsh2102/gce-compute-image-packages)
+2. 💪 Opened PR [#10](https://github.com/utkarsh2102/gce-compute-image-packages/pull/10) in [utkarsh2102/gce-compute-image-packages](https://github.com/utkarsh2102/gce-compute-image-packages)
+3. 💪 Opened PR [#9](https://github.com/utkarsh2102/gce-compute-image-packages/pull/9) in [utkarsh2102/gce-compute-image-packages](https://github.com/utkarsh2102/gce-compute-image-packages)
+4. 💪 Opened PR [#8](https://github.com/utkarsh2102/gce-compute-image-packages/pull/8) in [utkarsh2102/gce-compute-image-packages](https://github.com/utkarsh2102/gce-compute-image-packages)
+5. 🗣 Commented on [#54](https://github.com/canonical/ubuntu-maintainers-handbook/issues/54) in [canonical/ubuntu-maintainers-handbook](https://github.com/canonical/ubuntu-maintainers-handbook)
 <!--END_SECTION:activity-->
 
 ---
