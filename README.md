@@ -35,11 +35,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#11](https://github.com/utkarsh2102/gce-compute-image-packages/pull/11) in [utkarsh2102/gce-compute-image-packages](https://github.com/utkarsh2102/gce-compute-image-packages)
-2. 💪 Opened PR [#10](https://github.com/utkarsh2102/gce-compute-image-packages/pull/10) in [utkarsh2102/gce-compute-image-packages](https://github.com/utkarsh2102/gce-compute-image-packages)
-3. 💪 Opened PR [#9](https://github.com/utkarsh2102/gce-compute-image-packages/pull/9) in [utkarsh2102/gce-compute-image-packages](https://github.com/utkarsh2102/gce-compute-image-packages)
-4. 💪 Opened PR [#8](https://github.com/utkarsh2102/gce-compute-image-packages/pull/8) in [utkarsh2102/gce-compute-image-packages](https://github.com/utkarsh2102/gce-compute-image-packages)
-5. 🗣 Commented on [#54](https://github.com/canonical/ubuntu-maintainers-handbook/issues/54) in [canonical/ubuntu-maintainers-handbook](https://github.com/canonical/ubuntu-maintainers-handbook)
+1. 🎉 Merged PR [#55](https://github.com/canonical/ubuntu-maintainers-handbook/pull/55) in [canonical/ubuntu-maintainers-handbook](https://github.com/canonical/ubuntu-maintainers-handbook)
+2. 💪 Opened PR [#11](https://github.com/utkarsh2102/gce-compute-image-packages/pull/11) in [utkarsh2102/gce-compute-image-packages](https://github.com/utkarsh2102/gce-compute-image-packages)
+3. 💪 Opened PR [#10](https://github.com/utkarsh2102/gce-compute-image-packages/pull/10) in [utkarsh2102/gce-compute-image-packages](https://github.com/utkarsh2102/gce-compute-image-packages)
+4. 💪 Opened PR [#9](https://github.com/utkarsh2102/gce-compute-image-packages/pull/9) in [utkarsh2102/gce-compute-image-packages](https://github.com/utkarsh2102/gce-compute-image-packages)
+5. 💪 Opened PR [#8](https://github.com/utkarsh2102/gce-compute-image-packages/pull/8) in [utkarsh2102/gce-compute-image-packages](https://github.com/utkarsh2102/gce-compute-image-packages)
 <!--END_SECTION:activity-->
 
 ---
