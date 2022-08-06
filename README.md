@@ -35,11 +35,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#245](https://github.com/marshmallow-code/flask-marshmallow/issues/245) in [marshmallow-code/flask-marshmallow](https://github.com/marshmallow-code/flask-marshmallow)
-2. 🎉 Merged PR [#55](https://github.com/canonical/ubuntu-maintainers-handbook/pull/55) in [canonical/ubuntu-maintainers-handbook](https://github.com/canonical/ubuntu-maintainers-handbook)
-3. 💪 Opened PR [#11](https://github.com/utkarsh2102/gce-compute-image-packages/pull/11) in [utkarsh2102/gce-compute-image-packages](https://github.com/utkarsh2102/gce-compute-image-packages)
-4. 💪 Opened PR [#10](https://github.com/utkarsh2102/gce-compute-image-packages/pull/10) in [utkarsh2102/gce-compute-image-packages](https://github.com/utkarsh2102/gce-compute-image-packages)
-5. 💪 Opened PR [#9](https://github.com/utkarsh2102/gce-compute-image-packages/pull/9) in [utkarsh2102/gce-compute-image-packages](https://github.com/utkarsh2102/gce-compute-image-packages)
+1. 🗣 Commented on [#44](https://github.com/utkarsh2102/rubocop-packaging/issues/44) in [utkarsh2102/rubocop-packaging](https://github.com/utkarsh2102/rubocop-packaging)
+2. ❗️ Opened issue [#245](https://github.com/marshmallow-code/flask-marshmallow/issues/245) in [marshmallow-code/flask-marshmallow](https://github.com/marshmallow-code/flask-marshmallow)
+3. 🎉 Merged PR [#55](https://github.com/canonical/ubuntu-maintainers-handbook/pull/55) in [canonical/ubuntu-maintainers-handbook](https://github.com/canonical/ubuntu-maintainers-handbook)
+4. 💪 Opened PR [#11](https://github.com/utkarsh2102/gce-compute-image-packages/pull/11) in [utkarsh2102/gce-compute-image-packages](https://github.com/utkarsh2102/gce-compute-image-packages)
+5. 💪 Opened PR [#10](https://github.com/utkarsh2102/gce-compute-image-packages/pull/10) in [utkarsh2102/gce-compute-image-packages](https://github.com/utkarsh2102/gce-compute-image-packages)
 <!--END_SECTION:activity-->
 
 ---
