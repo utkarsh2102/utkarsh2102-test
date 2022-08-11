@@ -35,8 +35,8 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#44](https://github.com/utkarsh2102/rubocop-packaging/issues/44) in [utkarsh2102/rubocop-packaging](https://github.com/utkarsh2102/rubocop-packaging)
-2. 🗣 Commented on [#44](https://github.com/utkarsh2102/rubocop-packaging/issues/44) in [utkarsh2102/rubocop-packaging](https://github.com/utkarsh2102/rubocop-packaging)
+1. 🗣 Commented on [#43](https://github.com/utkarsh2102/rubocop-packaging/issues/43) in [utkarsh2102/rubocop-packaging](https://github.com/utkarsh2102/rubocop-packaging)
+2. ❗️ Closed issue [#44](https://github.com/utkarsh2102/rubocop-packaging/issues/44) in [utkarsh2102/rubocop-packaging](https://github.com/utkarsh2102/rubocop-packaging)
 3. 🗣 Commented on [#44](https://github.com/utkarsh2102/rubocop-packaging/issues/44) in [utkarsh2102/rubocop-packaging](https://github.com/utkarsh2102/rubocop-packaging)
 4. 🗣 Commented on [#44](https://github.com/utkarsh2102/rubocop-packaging/issues/44) in [utkarsh2102/rubocop-packaging](https://github.com/utkarsh2102/rubocop-packaging)
 5. 🗣 Commented on [#44](https://github.com/utkarsh2102/rubocop-packaging/issues/44) in [utkarsh2102/rubocop-packaging](https://github.com/utkarsh2102/rubocop-packaging)
