@@ -35,11 +35,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#44](https://github.com/utkarsh2102/rubocop-packaging/issues/44) in [utkarsh2102/rubocop-packaging](https://github.com/utkarsh2102/rubocop-packaging)
+1. ❗️ Closed issue [#44](https://github.com/utkarsh2102/rubocop-packaging/issues/44) in [utkarsh2102/rubocop-packaging](https://github.com/utkarsh2102/rubocop-packaging)
 2. 🗣 Commented on [#44](https://github.com/utkarsh2102/rubocop-packaging/issues/44) in [utkarsh2102/rubocop-packaging](https://github.com/utkarsh2102/rubocop-packaging)
-3. ❗️ Opened issue [#245](https://github.com/marshmallow-code/flask-marshmallow/issues/245) in [marshmallow-code/flask-marshmallow](https://github.com/marshmallow-code/flask-marshmallow)
-4. 🎉 Merged PR [#55](https://github.com/canonical/ubuntu-maintainers-handbook/pull/55) in [canonical/ubuntu-maintainers-handbook](https://github.com/canonical/ubuntu-maintainers-handbook)
-5. 💪 Opened PR [#11](https://github.com/utkarsh2102/gce-compute-image-packages/pull/11) in [utkarsh2102/gce-compute-image-packages](https://github.com/utkarsh2102/gce-compute-image-packages)
+3. 🗣 Commented on [#44](https://github.com/utkarsh2102/rubocop-packaging/issues/44) in [utkarsh2102/rubocop-packaging](https://github.com/utkarsh2102/rubocop-packaging)
+4. 🗣 Commented on [#44](https://github.com/utkarsh2102/rubocop-packaging/issues/44) in [utkarsh2102/rubocop-packaging](https://github.com/utkarsh2102/rubocop-packaging)
+5. 🗣 Commented on [#44](https://github.com/utkarsh2102/rubocop-packaging/issues/44) in [utkarsh2102/rubocop-packaging](https://github.com/utkarsh2102/rubocop-packaging)
 <!--END_SECTION:activity-->
 
 ---
