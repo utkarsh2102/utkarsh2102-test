@@ -37,9 +37,9 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#401](https://github.com/singingwolfboy/flask-dance/issues/401) in [singingwolfboy/flask-dance](https://github.com/singingwolfboy/flask-dance)
 2. 🗣 Commented on [#401](https://github.com/singingwolfboy/flask-dance/issues/401) in [singingwolfboy/flask-dance](https://github.com/singingwolfboy/flask-dance)
-3. ❗️ Opened issue [#401](https://github.com/singingwolfboy/flask-dance/issues/401) in [singingwolfboy/flask-dance](https://github.com/singingwolfboy/flask-dance)
-4. 🗣 Commented on [#44](https://github.com/utkarsh2102/rubocop-packaging/issues/44) in [utkarsh2102/rubocop-packaging](https://github.com/utkarsh2102/rubocop-packaging)
-5. 🗣 Commented on [#43](https://github.com/utkarsh2102/rubocop-packaging/issues/43) in [utkarsh2102/rubocop-packaging](https://github.com/utkarsh2102/rubocop-packaging)
+3. 🗣 Commented on [#401](https://github.com/singingwolfboy/flask-dance/issues/401) in [singingwolfboy/flask-dance](https://github.com/singingwolfboy/flask-dance)
+4. ❗️ Opened issue [#401](https://github.com/singingwolfboy/flask-dance/issues/401) in [singingwolfboy/flask-dance](https://github.com/singingwolfboy/flask-dance)
+5. 🗣 Commented on [#44](https://github.com/utkarsh2102/rubocop-packaging/issues/44) in [utkarsh2102/rubocop-packaging](https://github.com/utkarsh2102/rubocop-packaging)
 <!--END_SECTION:activity-->
 
 ---
