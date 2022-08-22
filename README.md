@@ -35,11 +35,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/zyedidia/micro/issues/1) in [zyedidia/micro](https://github.com/zyedidia/micro)
-2. ❗️ Opened issue [#2653](https://github.com/Azure/WALinuxAgent/issues/2653) in [Azure/WALinuxAgent](https://github.com/Azure/WALinuxAgent)
-3. ❗️ Opened issue [#21](https://github.com/dejan/espeak-ruby/issues/21) in [dejan/espeak-ruby](https://github.com/dejan/espeak-ruby)
-4. 🗣 Commented on [#5](https://github.com/utkarsh2102/batalert/issues/5) in [utkarsh2102/batalert](https://github.com/utkarsh2102/batalert)
-5. 🗣 Commented on [#401](https://github.com/singingwolfboy/flask-dance/issues/401) in [singingwolfboy/flask-dance](https://github.com/singingwolfboy/flask-dance)
+1. 🗣 Commented on [#401](https://github.com/singingwolfboy/flask-dance/issues/401) in [singingwolfboy/flask-dance](https://github.com/singingwolfboy/flask-dance)
+2. 🗣 Commented on [#1](https://github.com/zyedidia/micro/issues/1) in [zyedidia/micro](https://github.com/zyedidia/micro)
+3. ❗️ Opened issue [#2653](https://github.com/Azure/WALinuxAgent/issues/2653) in [Azure/WALinuxAgent](https://github.com/Azure/WALinuxAgent)
+4. ❗️ Opened issue [#21](https://github.com/dejan/espeak-ruby/issues/21) in [dejan/espeak-ruby](https://github.com/dejan/espeak-ruby)
+5. 🗣 Commented on [#5](https://github.com/utkarsh2102/batalert/issues/5) in [utkarsh2102/batalert](https://github.com/utkarsh2102/batalert)
 <!--END_SECTION:activity-->
 
 ---
