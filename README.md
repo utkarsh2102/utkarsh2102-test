@@ -35,11 +35,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2653](https://github.com/Azure/WALinuxAgent/issues/2653) in [Azure/WALinuxAgent](https://github.com/Azure/WALinuxAgent)
-2. 🗣 Commented on [#45584](https://github.com/rails/rails/issues/45584) in [rails/rails](https://github.com/rails/rails)
-3. 🗣 Commented on [#401](https://github.com/singingwolfboy/flask-dance/issues/401) in [singingwolfboy/flask-dance](https://github.com/singingwolfboy/flask-dance)
-4. 🗣 Commented on [#1](https://github.com/zyedidia/micro/issues/1) in [zyedidia/micro](https://github.com/zyedidia/micro)
-5. ❗️ Opened issue [#2653](https://github.com/Azure/WALinuxAgent/issues/2653) in [Azure/WALinuxAgent](https://github.com/Azure/WALinuxAgent)
+1. 🎉 Merged PR [#39](https://github.com/canonical/ubuntu-server-triage/pull/39) in [canonical/ubuntu-server-triage](https://github.com/canonical/ubuntu-server-triage)
+2. 🗣 Commented on [#39](https://github.com/canonical/ubuntu-server-triage/issues/39) in [canonical/ubuntu-server-triage](https://github.com/canonical/ubuntu-server-triage)
+3. 🗣 Commented on [#2653](https://github.com/Azure/WALinuxAgent/issues/2653) in [Azure/WALinuxAgent](https://github.com/Azure/WALinuxAgent)
+4. 🗣 Commented on [#45584](https://github.com/rails/rails/issues/45584) in [rails/rails](https://github.com/rails/rails)
+5. 🗣 Commented on [#401](https://github.com/singingwolfboy/flask-dance/issues/401) in [singingwolfboy/flask-dance](https://github.com/singingwolfboy/flask-dance)
 <!--END_SECTION:activity-->
 
 ---
