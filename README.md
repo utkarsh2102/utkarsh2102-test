@@ -36,10 +36,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1418](https://github.com/CCExtractor/ccextractor/issues/1418) in [CCExtractor/ccextractor](https://github.com/CCExtractor/ccextractor)
-2. 🗣 Commented on [#14](https://github.com/utkarsh2102/python-keylime/issues/14) in [utkarsh2102/python-keylime](https://github.com/utkarsh2102/python-keylime)
-3. 🗣 Commented on [#6](https://github.com/utkarsh2102/batalert/issues/6) in [utkarsh2102/batalert](https://github.com/utkarsh2102/batalert)
-4. 💪 Opened PR [#6](https://github.com/utkarsh2102/batalert/pull/6) in [utkarsh2102/batalert](https://github.com/utkarsh2102/batalert)
-5. 🗣 Commented on [#21](https://github.com/dejan/espeak-ruby/issues/21) in [dejan/espeak-ruby](https://github.com/dejan/espeak-ruby)
+2. 🗣 Commented on [#1418](https://github.com/CCExtractor/ccextractor/issues/1418) in [CCExtractor/ccextractor](https://github.com/CCExtractor/ccextractor)
+3. 🗣 Commented on [#14](https://github.com/utkarsh2102/python-keylime/issues/14) in [utkarsh2102/python-keylime](https://github.com/utkarsh2102/python-keylime)
+4. 🗣 Commented on [#6](https://github.com/utkarsh2102/batalert/issues/6) in [utkarsh2102/batalert](https://github.com/utkarsh2102/batalert)
+5. 💪 Opened PR [#6](https://github.com/utkarsh2102/batalert/pull/6) in [utkarsh2102/batalert](https://github.com/utkarsh2102/batalert)
 <!--END_SECTION:activity-->
 
 ---
