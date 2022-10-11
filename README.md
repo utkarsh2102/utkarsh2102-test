@@ -35,11 +35,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1418](https://github.com/CCExtractor/ccextractor/issues/1418) in [CCExtractor/ccextractor](https://github.com/CCExtractor/ccextractor)
-2. 🗣 Commented on [#1418](https://github.com/CCExtractor/ccextractor/issues/1418) in [CCExtractor/ccextractor](https://github.com/CCExtractor/ccextractor)
-3. 🗣 Commented on [#14](https://github.com/utkarsh2102/python-keylime/issues/14) in [utkarsh2102/python-keylime](https://github.com/utkarsh2102/python-keylime)
-4. 🗣 Commented on [#6](https://github.com/utkarsh2102/batalert/issues/6) in [utkarsh2102/batalert](https://github.com/utkarsh2102/batalert)
-5. 💪 Opened PR [#6](https://github.com/utkarsh2102/batalert/pull/6) in [utkarsh2102/batalert](https://github.com/utkarsh2102/batalert)
+1. 💪 Opened PR [#7](https://github.com/utkarsh2102/batalert/pull/7) in [utkarsh2102/batalert](https://github.com/utkarsh2102/batalert)
+2. ❗️ Closed issue [#5](https://github.com/utkarsh2102/batalert/issues/5) in [utkarsh2102/batalert](https://github.com/utkarsh2102/batalert)
+3. 🎉 Merged PR [#6](https://github.com/utkarsh2102/batalert/pull/6) in [utkarsh2102/batalert](https://github.com/utkarsh2102/batalert)
+4. 🗣 Commented on [#1418](https://github.com/CCExtractor/ccextractor/issues/1418) in [CCExtractor/ccextractor](https://github.com/CCExtractor/ccextractor)
+5. 🗣 Commented on [#1418](https://github.com/CCExtractor/ccextractor/issues/1418) in [CCExtractor/ccextractor](https://github.com/CCExtractor/ccextractor)
 <!--END_SECTION:activity-->
 
 ---
