@@ -35,11 +35,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/utkarsh2102/batalert/issues/4) in [utkarsh2102/batalert](https://github.com/utkarsh2102/batalert)
-2. 🎉 Merged PR [#7](https://github.com/utkarsh2102/batalert/pull/7) in [utkarsh2102/batalert](https://github.com/utkarsh2102/batalert)
-3. 🗣 Commented on [#7](https://github.com/utkarsh2102/batalert/issues/7) in [utkarsh2102/batalert](https://github.com/utkarsh2102/batalert)
-4. 💪 Opened PR [#7](https://github.com/utkarsh2102/batalert/pull/7) in [utkarsh2102/batalert](https://github.com/utkarsh2102/batalert)
-5. ❗️ Closed issue [#5](https://github.com/utkarsh2102/batalert/issues/5) in [utkarsh2102/batalert](https://github.com/utkarsh2102/batalert)
+1. ❗️ Opened issue [#449](https://github.com/GoogleCloudPlatform/osconfig/issues/449) in [GoogleCloudPlatform/osconfig](https://github.com/GoogleCloudPlatform/osconfig)
+2. 🗣 Commented on [#4](https://github.com/utkarsh2102/batalert/issues/4) in [utkarsh2102/batalert](https://github.com/utkarsh2102/batalert)
+3. 🎉 Merged PR [#7](https://github.com/utkarsh2102/batalert/pull/7) in [utkarsh2102/batalert](https://github.com/utkarsh2102/batalert)
+4. 🗣 Commented on [#7](https://github.com/utkarsh2102/batalert/issues/7) in [utkarsh2102/batalert](https://github.com/utkarsh2102/batalert)
+5. 💪 Opened PR [#7](https://github.com/utkarsh2102/batalert/pull/7) in [utkarsh2102/batalert](https://github.com/utkarsh2102/batalert)
 <!--END_SECTION:activity-->
 
 ---
