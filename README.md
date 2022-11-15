@@ -39,7 +39,7 @@
 2. 🗣 Commented on [#449](https://github.com/GoogleCloudPlatform/osconfig/issues/449) in [GoogleCloudPlatform/osconfig](https://github.com/GoogleCloudPlatform/osconfig)
 3. 🗣 Commented on [#449](https://github.com/GoogleCloudPlatform/osconfig/issues/449) in [GoogleCloudPlatform/osconfig](https://github.com/GoogleCloudPlatform/osconfig)
 4. 🗣 Commented on [#449](https://github.com/GoogleCloudPlatform/osconfig/issues/449) in [GoogleCloudPlatform/osconfig](https://github.com/GoogleCloudPlatform/osconfig)
-5. 🗣 Commented on [#302](https://github.com/ruby-prof/ruby-prof/issues/302) in [ruby-prof/ruby-prof](https://github.com/ruby-prof/ruby-prof)
+5. 🗣 Commented on [#449](https://github.com/GoogleCloudPlatform/osconfig/issues/449) in [GoogleCloudPlatform/osconfig](https://github.com/GoogleCloudPlatform/osconfig)
 <!--END_SECTION:activity-->
 
 ---
