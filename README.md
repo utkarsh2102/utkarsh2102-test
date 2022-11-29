@@ -35,11 +35,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/utkarsh2102/google-osconfig-agent/pull/7) in [utkarsh2102/google-osconfig-agent](https://github.com/utkarsh2102/google-osconfig-agent)
-2. 💪 Opened PR [#7](https://github.com/utkarsh2102/google-osconfig-agent/pull/7) in [utkarsh2102/google-osconfig-agent](https://github.com/utkarsh2102/google-osconfig-agent)
-3. 🎉 Merged PR [#6](https://github.com/utkarsh2102/google-osconfig-agent/pull/6) in [utkarsh2102/google-osconfig-agent](https://github.com/utkarsh2102/google-osconfig-agent)
-4. 💪 Opened PR [#6](https://github.com/utkarsh2102/google-osconfig-agent/pull/6) in [utkarsh2102/google-osconfig-agent](https://github.com/utkarsh2102/google-osconfig-agent)
-5. 🎉 Merged PR [#5](https://github.com/utkarsh2102/google-osconfig-agent/pull/5) in [utkarsh2102/google-osconfig-agent](https://github.com/utkarsh2102/google-osconfig-agent)
+1. 🎉 Merged PR [#8](https://github.com/utkarsh2102/google-compute-engine-oslogin/pull/8) in [utkarsh2102/google-compute-engine-oslogin](https://github.com/utkarsh2102/google-compute-engine-oslogin)
+2. 💪 Opened PR [#8](https://github.com/utkarsh2102/google-compute-engine-oslogin/pull/8) in [utkarsh2102/google-compute-engine-oslogin](https://github.com/utkarsh2102/google-compute-engine-oslogin)
+3. 🎉 Merged PR [#7](https://github.com/utkarsh2102/google-compute-engine-oslogin/pull/7) in [utkarsh2102/google-compute-engine-oslogin](https://github.com/utkarsh2102/google-compute-engine-oslogin)
+4. 💪 Opened PR [#7](https://github.com/utkarsh2102/google-compute-engine-oslogin/pull/7) in [utkarsh2102/google-compute-engine-oslogin](https://github.com/utkarsh2102/google-compute-engine-oslogin)
+5. 🎉 Merged PR [#7](https://github.com/utkarsh2102/google-osconfig-agent/pull/7) in [utkarsh2102/google-osconfig-agent](https://github.com/utkarsh2102/google-osconfig-agent)
 <!--END_SECTION:activity-->
 
 ---
