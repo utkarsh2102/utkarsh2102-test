@@ -35,9 +35,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#449](https://github.com/GoogleCloudPlatform/osconfig/issues/449) in [GoogleCloudPlatform/osconfig](https://github.com/GoogleCloudPlatform/osconfig)
-2. 🗣 Commented on [#449](https://github.com/GoogleCloudPlatform/osconfig/issues/449) in [GoogleCloudPlatform/osconfig](https://github.com/GoogleCloudPlatform/osconfig)
-3. 🗣 Commented on [#449](https://github.com/GoogleCloudPlatform/osconfig/issues/449) in [GoogleCloudPlatform/osconfig](https://github.com/GoogleCloudPlatform/osconfig)
+1. 💪 Opened PR [#6](https://github.com/utkarsh2102/google-osconfig-agent/pull/6) in [utkarsh2102/google-osconfig-agent](https://github.com/utkarsh2102/google-osconfig-agent)
+2. 🎉 Merged PR [#5](https://github.com/utkarsh2102/google-osconfig-agent/pull/5) in [utkarsh2102/google-osconfig-agent](https://github.com/utkarsh2102/google-osconfig-agent)
+3. 💪 Opened PR [#5](https://github.com/utkarsh2102/google-osconfig-agent/pull/5) in [utkarsh2102/google-osconfig-agent](https://github.com/utkarsh2102/google-osconfig-agent)
 4. 🗣 Commented on [#449](https://github.com/GoogleCloudPlatform/osconfig/issues/449) in [GoogleCloudPlatform/osconfig](https://github.com/GoogleCloudPlatform/osconfig)
 5. 🗣 Commented on [#449](https://github.com/GoogleCloudPlatform/osconfig/issues/449) in [GoogleCloudPlatform/osconfig](https://github.com/GoogleCloudPlatform/osconfig)
 <!--END_SECTION:activity-->
