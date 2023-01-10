@@ -47,11 +47,11 @@
 ### :books: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [FOSS Activites in December 2022](https://utkarsh2102.com/posts/foss-in-dec-22/)
 - [FOSS Activites in November 2022](https://utkarsh2102.com/posts/foss-in-nov-22/)
 - [FOSS Activites in October 2022](https://utkarsh2102.com/posts/foss-in-oct-22/)
 - [FOSS Activites in September 2022](https://utkarsh2102.com/posts/foss-in-sept-22/)
 - [FOSS Activites in August 2022](https://utkarsh2102.com/posts/foss-in-aug-22/)
-- [FOSS Activites in July 2022](https://utkarsh2102.com/posts/foss-in-july-22/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
