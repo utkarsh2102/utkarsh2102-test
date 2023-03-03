@@ -35,11 +35,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#67](https://github.com/canonical/ubuntu-maintainers-handbook/pull/67) in [canonical/ubuntu-maintainers-handbook](https://github.com/canonical/ubuntu-maintainers-handbook)
-2. 🎉 Merged PR [#6](https://github.com/utkarsh2102/google-guest-agent/pull/6) in [utkarsh2102/google-guest-agent](https://github.com/utkarsh2102/google-guest-agent)
-3. 🗣 Commented on [#1968](https://github.com/CESNET/libyang/issues/1968) in [CESNET/libyang](https://github.com/CESNET/libyang)
+1. ❗️ Opened issue [#8200](https://github.com/containerd/containerd/issues/8200) in [containerd/containerd](https://github.com/containerd/containerd)
+2. 🎉 Merged PR [#67](https://github.com/canonical/ubuntu-maintainers-handbook/pull/67) in [canonical/ubuntu-maintainers-handbook](https://github.com/canonical/ubuntu-maintainers-handbook)
+3. 🎉 Merged PR [#6](https://github.com/utkarsh2102/google-guest-agent/pull/6) in [utkarsh2102/google-guest-agent](https://github.com/utkarsh2102/google-guest-agent)
 4. 🗣 Commented on [#1968](https://github.com/CESNET/libyang/issues/1968) in [CESNET/libyang](https://github.com/CESNET/libyang)
-5. 🗣 Commented on [#60](https://github.com/canonical/ubuntu-maintainers-handbook/issues/60) in [canonical/ubuntu-maintainers-handbook](https://github.com/canonical/ubuntu-maintainers-handbook)
+5. 🗣 Commented on [#1968](https://github.com/CESNET/libyang/issues/1968) in [CESNET/libyang](https://github.com/CESNET/libyang)
 <!--END_SECTION:activity-->
 
 ---
