@@ -35,11 +35,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8200](https://github.com/containerd/containerd/issues/8200) in [containerd/containerd](https://github.com/containerd/containerd)
+1. ❗️ Opened issue [#8219](https://github.com/containerd/containerd/issues/8219) in [containerd/containerd](https://github.com/containerd/containerd)
 2. 🗣 Commented on [#8200](https://github.com/containerd/containerd/issues/8200) in [containerd/containerd](https://github.com/containerd/containerd)
-3. ❗️ Opened issue [#8200](https://github.com/containerd/containerd/issues/8200) in [containerd/containerd](https://github.com/containerd/containerd)
-4. 🎉 Merged PR [#67](https://github.com/canonical/ubuntu-maintainers-handbook/pull/67) in [canonical/ubuntu-maintainers-handbook](https://github.com/canonical/ubuntu-maintainers-handbook)
-5. 🎉 Merged PR [#6](https://github.com/utkarsh2102/google-guest-agent/pull/6) in [utkarsh2102/google-guest-agent](https://github.com/utkarsh2102/google-guest-agent)
+3. 🗣 Commented on [#8200](https://github.com/containerd/containerd/issues/8200) in [containerd/containerd](https://github.com/containerd/containerd)
+4. ❗️ Opened issue [#8200](https://github.com/containerd/containerd/issues/8200) in [containerd/containerd](https://github.com/containerd/containerd)
+5. 🎉 Merged PR [#67](https://github.com/canonical/ubuntu-maintainers-handbook/pull/67) in [canonical/ubuntu-maintainers-handbook](https://github.com/canonical/ubuntu-maintainers-handbook)
 <!--END_SECTION:activity-->
 
 ---
