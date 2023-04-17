@@ -35,11 +35,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/utkarsh2102/google-osconfig-agent/pull/9) in [utkarsh2102/google-osconfig-agent](https://github.com/utkarsh2102/google-osconfig-agent)
-2. 🎉 Merged PR [#8](https://github.com/utkarsh2102/google-osconfig-agent/pull/8) in [utkarsh2102/google-osconfig-agent](https://github.com/utkarsh2102/google-osconfig-agent)
-3. 🗣 Commented on [#1479](https://github.com/CCExtractor/ccextractor/issues/1479) in [CCExtractor/ccextractor](https://github.com/CCExtractor/ccextractor)
-4. 🗣 Commented on [#8219](https://github.com/containerd/containerd/issues/8219) in [containerd/containerd](https://github.com/containerd/containerd)
-5. ❗️ Opened issue [#8219](https://github.com/containerd/containerd/issues/8219) in [containerd/containerd](https://github.com/containerd/containerd)
+1. 🎉 Merged PR [#12](https://github.com/utkarsh2102/gce-compute-image-packages/pull/12) in [utkarsh2102/gce-compute-image-packages](https://github.com/utkarsh2102/gce-compute-image-packages)
+2. 🎉 Merged PR [#9](https://github.com/utkarsh2102/google-osconfig-agent/pull/9) in [utkarsh2102/google-osconfig-agent](https://github.com/utkarsh2102/google-osconfig-agent)
+3. 🎉 Merged PR [#8](https://github.com/utkarsh2102/google-osconfig-agent/pull/8) in [utkarsh2102/google-osconfig-agent](https://github.com/utkarsh2102/google-osconfig-agent)
+4. 🗣 Commented on [#1479](https://github.com/CCExtractor/ccextractor/issues/1479) in [CCExtractor/ccextractor](https://github.com/CCExtractor/ccextractor)
+5. 🗣 Commented on [#8219](https://github.com/containerd/containerd/issues/8219) in [containerd/containerd](https://github.com/containerd/containerd)
 <!--END_SECTION:activity-->
 
 ---
