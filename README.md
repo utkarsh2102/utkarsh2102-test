@@ -35,11 +35,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/utkarsh2102/gce-compute-image-packages/pull/9) in [utkarsh2102/gce-compute-image-packages](https://github.com/utkarsh2102/gce-compute-image-packages)
-2. 🎉 Merged PR [#11](https://github.com/utkarsh2102/gce-compute-image-packages/pull/11) in [utkarsh2102/gce-compute-image-packages](https://github.com/utkarsh2102/gce-compute-image-packages)
-3. 🎉 Merged PR [#10](https://github.com/utkarsh2102/gce-compute-image-packages/pull/10) in [utkarsh2102/gce-compute-image-packages](https://github.com/utkarsh2102/gce-compute-image-packages)
-4. 🎉 Merged PR [#12](https://github.com/utkarsh2102/gce-compute-image-packages/pull/12) in [utkarsh2102/gce-compute-image-packages](https://github.com/utkarsh2102/gce-compute-image-packages)
-5. 🎉 Merged PR [#9](https://github.com/utkarsh2102/google-osconfig-agent/pull/9) in [utkarsh2102/google-osconfig-agent](https://github.com/utkarsh2102/google-osconfig-agent)
+1. 🎉 Merged PR [#72](https://github.com/canonical/ubuntu-maintainers-handbook/pull/72) in [canonical/ubuntu-maintainers-handbook](https://github.com/canonical/ubuntu-maintainers-handbook)
+2. 🗣 Commented on [#74](https://github.com/canonical/ubuntu-maintainers-handbook/issues/74) in [canonical/ubuntu-maintainers-handbook](https://github.com/canonical/ubuntu-maintainers-handbook)
+3. 🎉 Merged PR [#9](https://github.com/utkarsh2102/gce-compute-image-packages/pull/9) in [utkarsh2102/gce-compute-image-packages](https://github.com/utkarsh2102/gce-compute-image-packages)
+4. 🎉 Merged PR [#11](https://github.com/utkarsh2102/gce-compute-image-packages/pull/11) in [utkarsh2102/gce-compute-image-packages](https://github.com/utkarsh2102/gce-compute-image-packages)
+5. 🎉 Merged PR [#10](https://github.com/utkarsh2102/gce-compute-image-packages/pull/10) in [utkarsh2102/gce-compute-image-packages](https://github.com/utkarsh2102/gce-compute-image-packages)
 <!--END_SECTION:activity-->
 
 ---
